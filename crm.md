@@ -4,7 +4,7 @@
 | -- | -- |
 | **接口地址** | */home* |
 | **请求方式** | <code>GET</code> |
-| **调用频率** | <code>GET</code> |
+| **数据格式** | <code>JSON</code> |
 
 
 

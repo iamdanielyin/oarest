@@ -49,6 +49,7 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 
 #效率统计
 
+##接口描述
 | 接口名称 | *效率统计* |
 | -- | -- |
 | **接口地址** | */home* |
@@ -58,22 +59,21 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 
 
 
-
-###请求参数
+##请求参数
 |编码|名称|类型|说明|默认值|
 |:---|:---|:---|:---|:-----|
 |mobile|手机号|<code>string</code>|暂无|无|
 |mobile|手机号|<code>string</code>|暂无|无|
 |mobile|手机号|<code>string</code>|暂无|无|
 
-###返回参数
+##返回参数
 |编码|名称|类型|说明|默认值|
 |:---|:---|:---|:---|:-----|
 |mobile|手机号|<code>string</code>|暂无|无|
 |mobile|手机号|<code>string</code>|暂无|无|
 |mobile|手机号|<code>string</code>|暂无|无|
 
-###接口示例
+##接口示例
 
 ```
 POST /2013-12-26/Accounts/297e7c37446272f301/IM/PushMsg?sig=C1F20E7A97 HTTP/1.1

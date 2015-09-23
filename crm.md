@@ -51,8 +51,8 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 
 ***
 
-###CRM主页
->**CRM相关交互接口**
+###效率统计
+>**效率统计交互接口**
 
 ####接口描述
 | 接口地址 | */home* |

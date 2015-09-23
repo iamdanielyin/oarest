@@ -48,7 +48,6 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 
 #效率统计
 
-##接口描述
 | 接口名称 | *效率统计* |
 | -- | -- |
 | **接口地址** | */home* |

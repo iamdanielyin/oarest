@@ -3,8 +3,8 @@
 
 | 接口名称 | *CRM主页* |
 | -- | -- |
-| **接口地址** | */home* |
-| **请求方式** | <code>GET</code> |
+| **接口地址** | /home |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 
@@ -54,7 +54,7 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 | 接口名称 | *效率统计* |
 | -- | -- |
 | **接口地址** | */home* |
-| **请求方式** | <code>GET</code> |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

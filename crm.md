@@ -53,6 +53,7 @@ Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 | -- | -- |
 | **接口地址** | */home* |
 | **请求方式** | <code>GET</code> |
+| **数据格式** | <code>JSON</code> |
 
 
 

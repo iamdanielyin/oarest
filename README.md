@@ -15,7 +15,7 @@
 |:---|:---|:---|:---|:-----|
 |statuscode|状态编码|<code>int</code>|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
 |statusmsg|状态信息|<code>string</code>|暂无|无|
-|tipmsg|用户提示信息|<code>string</code>|暂无|无|
+|usermsg|用户提示信息|<code>string</code>|暂无|无|
 
 * 有些接口需上传翻页参数，<font color=red>公共翻页参数</font>如下所示：
 

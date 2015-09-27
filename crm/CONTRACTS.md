@@ -38,9 +38,6 @@
 |content|合同正文|<code>string</code>|是|暂无|无|
 |status|合同状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
 |creator|创建人|<code>string</code>|是|暂无|无|
-|remark|备注|<code>string</code>|是|暂无|无|
-|createtime|更新时间|<code>string</code>|是|暂无|无|
-|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

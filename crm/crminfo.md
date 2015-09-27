@@ -12,9 +12,11 @@
 
 
 ##请求参数
+<公共传入参数>
 |编码|名称|类型|说明|默认值|
 |:---|:---|:---|:---|:-----|
 |mobile|手机号|<code>string</code>|暂无|无|
+
 |mobile|手机号|<code>string</code>|暂无|无|
 |mobile|手机号|<code>string</code>|暂无|无|
 

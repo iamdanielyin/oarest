@@ -52,7 +52,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|mobile|手机号|<code>string</code>|是|暂无|无|
+|year|手机号|<code>string</code>|是|暂无|无|
 |mobile|手机号|<code>string</code>|是|暂无|无|
 |mobile|手机号|<code>string</code>|是|暂无|无|
 
@@ -68,7 +68,7 @@
 ##接口示例
 
 ```
-
+暂无
 
 ```
 

@@ -12,7 +12,6 @@
 |:---|:---|:---|:---:|:---|:-----|
 |tt|终端类型|<code>int</code>|是|1安卓，2iOS，3Web|无|
 |vn|终端版本|<code>string</code>|是|暂无|无|
-
 * 每个接口将返回公共参数，<font color=red>公共返回参数</font>如下所示：
 
 |编码|名称|类型|必须|说明|默认|
@@ -20,7 +19,6 @@
 |statuscode|状态编码|<code>int</code>|是|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
 |statusmsg|状态信息|<code>string</code>|是|暂无|无|
 |usermsg|用户提示信息|<code>string</code>|是|暂无|无|
-
 * 有些接口需上传翻页参数，<font color=red>公共翻页参数</font>如下所示：
 
 |编码|名称|类型|必须|说明|默认值|

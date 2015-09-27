@@ -39,8 +39,8 @@
 |status|合同状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
-|createtime|更新时间|<code>string</code>|是|暂无|无|
-|modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:s|无|
+|createtime|更新时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：headcontractor、ourcontractor、custcontractor、creator
 

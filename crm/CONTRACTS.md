@@ -40,7 +40,7 @@
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|
-|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:s|无|
 
 参数项：headcontractor、ourcontractor、custcontractor、creator
 

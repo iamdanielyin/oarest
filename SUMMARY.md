@@ -4,7 +4,7 @@
 * [CRM](crm.md)
    * [CRM主页](crmzhu_ye.md)
 * 用户
-* 其他
 * 应用
+* 其他
 * 管理
 

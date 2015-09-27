@@ -14,7 +14,7 @@
 
 |编码|名称|类型|必须|说明|默认|
 |:---|:---|:---|:---|:---|:-----|
-|statuscode|状态编码|<code>int</code>|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
+|statuscode|状态编码|<code>int</code>|是|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
 |statusmsg|状态信息|<code>string</code>|是|暂无|无|
 |usermsg|用户提示信息|<code>string</code>|是|暂无|无|
 

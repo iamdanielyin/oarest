@@ -58,7 +58,7 @@
 
 ##返回参数
 * [<公共返回参数>](../README.md)
-* 
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |mobile|手机号|<code>string</code>|是|暂无|无|
@@ -68,22 +68,8 @@
 ##接口示例
 
 ```
-POST /2013-12-26/Accounts/297e7c37446272f301/IM/PushMsg?sig=C1F20E7A97 HTTP/1.1
-Accept:application/json;
-Content-Type:application/json;charset=utf-8;
-Authorization:ZmY4MDgwODEzYzM3ZGE1MzAxM2M4MDRmODA3MjAwN2M6MjAxMzAyM=
 
-{
-  "pushType":"1",
-  "appId":"2aabdefff0",
-  "sender":"13291217102",
-  "receiver":["18201370642","13121353225"],
-  "msgType":"1",
-  "msgContent":"你好",
-  "msgDomain":"yuntongxun",
-  "msgFileName":"",
-  "msgFileUrl":""
-}
+
 ```
 
 ***

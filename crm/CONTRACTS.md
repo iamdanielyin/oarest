@@ -36,7 +36,7 @@
 |paymethod|支付方式|<code>digit</code>|是|0支票，1现金，2网上转账，3其他|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
-|status|合同状态|<code>digit</code>|是|暂无|无|
+|status|合同状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
 |creator|创建人|<code>string</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|

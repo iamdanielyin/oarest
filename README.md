@@ -1,5 +1,7 @@
 # 移动OA项目REST接口文档
 
+接口描述
+
 * 接口字符编码为UTF-8
 * 每个接口需上传公共参数，<font color=red>公共传入参数</font>如下所示：
 
@@ -22,3 +24,5 @@
 |:---|:---|:---|:---|:-----|
 |page|页码|<code>int</code>|暂无|无|
 |size|每页大小|<code>int</code>|暂无|无|
+
+* 访问所有非公共开放接口需上传access_token，access_token值具有时效性，超过有效时间后，需通过登录重新获取access_token，具体接口见报文定义。

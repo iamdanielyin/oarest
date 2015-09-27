@@ -6,5 +6,5 @@
    * [CRM主页](crmzhu_ye.md)
 * [应用](app/README.md)
 * [管理](management/README.md)
-* 其他
+* [其他](other/README.md)
 

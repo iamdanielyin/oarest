@@ -27,4 +27,4 @@
 
 * 访问所有非公共开放接口需上传access_token，access_token值具有时效性，超过有效时间后，需通过登录重新获取access_token，具体接口见报文定义。
 
-* 访问所有非公共开放接口需上传access_token，access_token值具有时效性，超过有效时间后，需通过登录重新获取access_token，具体接口见报文定义。
+* 时间字段如未额外标注，默认格式为:yyyy-MM-dd HH:mm:ss，例如2015-09-01 12:30:57

@@ -49,7 +49,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |username|用户名|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
-|headportrait|头像链接|<code>number</code>|是|暂无|无|
+|headportrait|头像链接|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

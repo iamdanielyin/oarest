@@ -33,7 +33,7 @@
 |headcontractor|合同负责人|<code>object</code>|是|暂无|无|
 |ourcontractor|我方签约人|<code>object</code>|是|暂无|无|
 |custcontractor|客户签约人|<code>object</code>|是|暂无|无|
-|paymethod|支付方式|<code>digit</object>|是|0支票，1现金，2网上转账，3其他|无|
+|paymethod|支付方式|<code>digit</code>|是|0支票，1现金，2网上转账，3其他|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
 |status|合同状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|

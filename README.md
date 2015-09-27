@@ -6,6 +6,6 @@
 
 |编码|名称|类型|说明|默认值|
 |:---|:---|:---|:---|:-----|
-|monthdeal|本月成交|<code>string</code>|暂无|无|
+|tt|终端类型|<code>string</code>|1安卓，2iOS，3Web|无|
 |monthtarget|本月目标|<code>string</code>|暂无|无|
 |monthback|本月回款|<code>string</code>|暂无|无|

@@ -20,5 +20,5 @@
 
 |编码|名称|类型|说明|默认值|
 |:---|:---|:---|:---|:-----|
-|tt|终端类型|<code>int</code>|1安卓，2iOS，3Web|无|
-|vsn|终端版本|<code>string</code>|暂无|无|
+|page|页码|<code>int</code>|1安卓，2iOS，3Web|无|
+|size|每页大小|<code>int</code>|暂无|无|

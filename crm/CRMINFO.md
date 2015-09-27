@@ -62,7 +62,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |totalamount|合同总合计|<code>string</code>|是|暂无|无|
-|mobile|手机号|<code>string</code>|是|暂无|无|
+|contracts|合同数组|<code>array</code>|是|暂无|无|
 |mobile|手机号|<code>string</code>|是|暂无|无|
 
 ##接口示例

@@ -121,7 +121,7 @@
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|yyyy-MM-dd|暂无|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|customer|关联客户ID|<code>string</code>|否|暂无|无|
+|customer|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|

@@ -35,7 +35,7 @@
 |status|任务状态|<code>string</code>|是|暂无|无|
 |title|任务标题|<code>string</code>|是|暂无|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
-|operators|协同人|<code>array</code>|是|暂无|无|
+|operators|执行人|<code>array</code>|是|暂无|无|
 
 参数项：user
 
@@ -102,7 +102,7 @@
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
-|operators|人|<code>array</code>|是|暂无|无|
+|operators|执行人|<code>array</code>|是|暂无|无|
 
 参数项：creator
 

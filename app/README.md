@@ -9,10 +9,10 @@
  * [任务汇报](./tasks.md)
  * [任务审批](./tasks.md)
 * 公告
- * [公告列表](./notice.md)
- * [新增公告](./notice.md)
- * [修改公告](./notice.md)
- * [删除公告](./notice.md)
+ * [公告列表](./notices.md)
+ * [新增公告](./notices.md)
+ * [修改公告](./notices.md)
+ * [删除公告](./notices.md)
 * 日志
  * [日志列表](./worklogs.md)
  * [日志详情](./worklogs.md)

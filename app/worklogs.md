@@ -122,9 +122,9 @@
 |startdate|开始日期|<code>string</code>|yyyy-MM-dd|暂无|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
 |customer|关联客户ID|<code>string</code>|否|暂无|无|
-|mcoin|M币|<code>string</code>|是|暂无|无|
-|starval|星值|<code>string</code>|是|暂无|无|
-|type|日志类型|<code>string</code>|是|暂无|无|
+|mcoin|M币|<code>digit</code>|是|暂无|无|
+|starval|星值|<code>digit</code>|是|暂无|无|
+|type|日志类型|<code>digit</code>|是|暂无|无|
 
 
 |title|任务标题|<code>string</code>|是|暂无|无|

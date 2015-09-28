@@ -318,9 +318,9 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
+|id|用户ID|<code>string</code>|是|暂无|无|
+|mcoin|分配M币|<code>digit</code>|否|暂无|0|
+|starval|分配星值|<code>digit</code>|否|暂无|0|
 
 ##返回参数
 [<公共返回参数>](../README.md)

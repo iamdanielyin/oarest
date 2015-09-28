@@ -72,10 +72,10 @@
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-|customer|关联客户|<code>array</code>|否|暂无|无|
-|customer|关联任务|<code>array</code>|否|暂无|无|
-|customer|日志图片|<code>array</code>|否|暂无|无|
-|customer|日志|<code>array</code>|否|暂无|无|
+|customers|关联客户|<code>array</code>|否|暂无|无|
+|tasks|关联任务|<code>array</code>|否|暂无|无|
+|imagess|日志图片|<code>array</code>|否|暂无|无|
+|attachs|日志附件|<code>array</code>|否|暂无|无|
 
 
 参数项：creator、approver
@@ -127,7 +127,7 @@
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
-|customer|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
+|customers|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
 |tasks|关联任务|<code>string</code>|否|任务ID，多个用英文逗号分隔|无|
 |imagess|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
 |attachs|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|

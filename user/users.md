@@ -64,7 +64,7 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 
-参数项：superior
+参数项：superior、dept.user
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

@@ -14,7 +14,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |tt|终端类型|<code>int</code>|是|1安卓，2iOS，3Web|无|
 |vn|终端版本|<code>string</code>|是|暂无|无|
-|vn|终端版本|<code>string</code>|是|暂无|无|
+|vn|终端版本|<code>string</code>|否|登录接口除外|无|
 * 每个接口将返回公共参数，<font color=red>公共返回参数</font>如下所示：
 
 |编码|名称|类型|必须|说明|默认|

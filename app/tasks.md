@@ -95,7 +95,7 @@
 |reportdate|汇报时间|<code>string</code>|是|暂无|无|
 |finishdate|完成时间|<code>string</code>|是|暂无|无|
 |mcoin|任务M币|<code>digit</code>|是|暂无|无|
-|starval|任务星值|<code>string</code>|是|暂无|无|
+|starval|任务星值|<code>digit</code>|是|暂无|无|
 |isremind|是否提醒|<code>string</code>|是|暂无|无|
 |isdailytask|是否日常任务|<code>string</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|

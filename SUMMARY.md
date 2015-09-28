@@ -9,7 +9,7 @@
 * [应用](app/README.md)
    * [任务](app/task.md)
    * [公告](app/notice.md)
-   * 日志
+   * [日志](app/worklog.md)
 * [管理](management/README.md)
 * [其他](other/README.md)
 

@@ -27,24 +27,20 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+|id|任务ID|<code>string</code>|是|暂无|无|
+|user|发表人|<code>string</code>|是|暂无|无|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|标题|<code>string</code>|是|暂无|无|
-|customer|客户|<code>object</code>|是|暂无|无|
-|totalamount|总金额|<code>number</code>|是|暂无|无|
-|signdate|签约日期|<code>string</code>|是|yyyy-MM-dd|无|
-|startdate|开始任务ID日期|<code>string</code>|是|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|headcontractor|合同负责人|<code>object</code>|是|暂无|无|
-|ourcontractor|我方签约人|<code>object</code>|是|暂无|无|
-|custcontractor|客户签约人|<code>object</code>|是|暂无|无|
-|paymethod|支付方式|<code>digit</code>|是|0支票，1现金，2网上转账，3其他|无|
-|cno|合同编号|<code>string</code>|是|暂无|无|
-|content|合同正文|<code>string</code>|是|暂无|无|
-|status|合同状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
-|creator|创建人|<code>object</code>|是|暂无|无|
-|remark|备注|<code>string</code>|是|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|header|头像|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|暂无|无|
+|status|任务状态|<code>string</code>|是|暂无|无|
+|title|任务标题|<code>string</code>|是|暂无|无|
+|content|任务内容|<code>string</code>|是|暂无|无|
+|operators|协同人(array)|<code>string</code>|是|暂无|无|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像|<code>string</code>|是|暂无|无|
 
 参数项：customer
 

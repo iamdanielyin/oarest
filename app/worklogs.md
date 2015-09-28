@@ -100,12 +100,12 @@
 |id|任务ID|<code>string</code>|是|暂无|无|
 |title|任务名称|<code>string</code>|是|暂无|无|
 
-参数项：tasks
+参数项：imagess
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|任务ID|<code>string</code>|是|暂无|无|
-|title|任务名称|<code>string</code>|是|暂无|无|
+|id|图片ID|<code>string</code>|是|暂无|无|
+|ur|图片链接|<code>string</code>|是|暂无|无|
 
 
 参数项：tasks

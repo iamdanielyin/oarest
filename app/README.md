@@ -12,7 +12,7 @@
  * [公告列表](./notice.md)
  * [新增公告](./notice.md)
  * [修改公告](./notice.md)
- * 删除公告
+ * [删除公告](./notice.md)
 * 日志
  * [日志列表](./worklogs.md)
  * [日志详情](./worklogs.md)

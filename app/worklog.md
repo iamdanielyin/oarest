@@ -75,7 +75,7 @@
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|暂无|无|
-|type|日志类型|<code>string</code>|是|暂无|无|
+|type|日志类型|<code>digit</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|

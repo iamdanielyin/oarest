@@ -284,7 +284,9 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isremind|是否提醒|<code>boolean</code>|是|暂无|无|
+|content|汇报内容|<code>string</code>|是|暂无|无|
+|attachs|汇报附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|
+|attachs|汇报附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -90,7 +90,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
+|id|客户ID|<code>string</code>|是|暂无|无|
 |name|公司名称|<code>string</code>|是|暂无|无|
 
 参数项：tasks

@@ -36,8 +36,6 @@
 |title|任务标题|<code>string</code>|是|暂无|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
 |operators|协同人|<code>array</code>|是|暂无|无|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像|<code>string</code>|是|暂无|无|
 
 参数项：user
 

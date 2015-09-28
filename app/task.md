@@ -154,7 +154,7 @@
 |mcoin|任务M币|<code>string</code>|是|暂无|无|
 |starval|任务星值|<code>string</code>|是|暂无|无|
 |operators|执行人|<code>string</code>|是|暂无|无|
-|attachs|任务附件|<code>string</code>|是|暂无|无|
+|attachs|任务附件|<code>string</code>|是|任务文件的ID|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

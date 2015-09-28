@@ -151,8 +151,8 @@
 |content|任务内容|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|
 |enddate|结束日期|<code>string</code>|是|暂无|无|
-|mcoin|任务M币|<code>string</code>|是|暂无|无|
-|starval|任务星值|<code>digit</code>|是|暂无|无|
+|mcoin|任务M币|<code>string</code>|是|暂无|0|
+|starval|任务星值|<code>digit</code>|是|暂无|0|
 |operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
 |attachs|任务附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|
 

@@ -125,7 +125,6 @@
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |type|日志类型|<code>digit</code>|是|暂无|无|
-
 |operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
 |imagess|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
 |attachs|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|

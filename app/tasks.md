@@ -96,8 +96,8 @@
 |finishdate|完成时间|<code>string</code>|是|暂无|无|
 |mcoin|任务M币|<code>digit</code>|是|暂无|无|
 |starval|任务星值|<code>digit</code>|是|暂无|无|
-|isremind|是否提醒|<code>boolea</code>|是|暂无|无|
-|isdailytask|是否日常任务|<code>string</code>|是|暂无|无|
+|isremind|是否提醒|<code>boolean</code>|是|暂无|无|
+|isdailytask|是否日常任务|<code>boolean</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|

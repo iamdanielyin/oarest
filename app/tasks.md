@@ -311,7 +311,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isfinis|汇报内容|<code>string</code>|是|暂无|无|
+|isfinish|是否|<code>string</code>|是|暂无|无|
 |images|汇报图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
 |attachs|汇报附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 

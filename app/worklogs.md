@@ -124,10 +124,10 @@
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
-|imagess|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
-|attachs|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 |customer|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
 |tasks|关联任务|<code>string</code>|否|任务ID，多个用英文逗号分隔|无|
+|imagess|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
+|attachs|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

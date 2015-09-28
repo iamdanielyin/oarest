@@ -103,7 +103,7 @@
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
 
-参数项：user
+参数项：creator
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

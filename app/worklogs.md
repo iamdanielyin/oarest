@@ -116,6 +116,17 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+|title|标题|<code>string</code>|是|暂无|无|
+|content|内容|<code>string</code>|是|暂无|无|
+|approver|审批人ID|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|customer|关联客户|<code>string</code>|是|暂无|无|
+|mcoin|M币|<code>string</code>|是|暂无|无|
+|starval|星值|<code>string</code>|是|暂无|无|
+|type|日志类型|<code>string</code>|是|暂无|无|
+
+
 |title|任务标题|<code>string</code>|是|暂无|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|
@@ -123,7 +134,7 @@
 |mcoin|任务M币|<code>digit</code>|否|暂无|0|
 |starval|任务星值|<code>digit</code>|否|暂无|0|
 |operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
-|imagess|日志图片|<code>string</code>|否|链接，多个用英文逗号分隔|无|
+|imagess|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
 |attachs|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数

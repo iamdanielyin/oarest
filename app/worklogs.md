@@ -62,7 +62,7 @@
 |title|标题|<code>string</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
-|approver|审批人|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>object</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|
 |enddate|结束日期|<code>string</code>|是|暂无|无|
 |customer|关联客户|<code>string</code>|是|暂无|无|

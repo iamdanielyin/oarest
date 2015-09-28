@@ -314,7 +314,7 @@
 |isfinish|是否完成|<code>boolean</code>|是|为true时operators不能为空；为false时任务会被重置回完成中状态|无|
 |operators|执行人|<code>array</code>|否|用户ID，多个用英文逗号分隔|无|
 
-参数项：creator、operators
+参数项：operators
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

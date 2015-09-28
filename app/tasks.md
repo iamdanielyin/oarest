@@ -314,14 +314,6 @@
 |isfinish|是否完成|<code>boolean</code>|是|为true时operators不能为空；为false时任务会被重置回完成中状态|无|
 |operators|执行人|<code>string</code>|否|用户ID:M币:星值，多个用英文逗号分隔|无|
 
-参数项：operators
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|用户ID|<code>string</code>|是|暂无|无|
-|mcoin|分配M币|<code>digit</code>|否|暂无|0|
-|starval|分配星值|<code>digit</code>|否|暂无|0|
-
 ##返回参数
 [<公共返回参数>](../README.md)
 

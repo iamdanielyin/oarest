@@ -147,9 +147,14 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|year|年份|<code>string</code>|是|暂无|无|
-|month|月份|<code>string</code>|是|暂无|无|
-|flag|查询标识|<code>int</code>|是|0个人，1部门，2部门或个人|无|
+|title|任务标题|<code>string</code>|是|暂无|无|
+|content|任务内容|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|mcoin|任务M币|<code>string</code>|是|暂无|无|
+|starval|任务星值|<code>string</code>|是|暂无|无|
+|operators|执行人|<code>string</code>|是|暂无|无|
+|attachs|任务附件|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -85,7 +85,7 @@
 |startdate|计划开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|计划结束日期|<code>string</code>|是|yyyy-MM-dd|无|
 |reportdate|汇报时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|finishdate|完成时间|<code>string</code>|是|暂无|无|
+|finishdate|完成时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |mcoin|任务M币|<code>digit</code>|是|暂无|无|
 |starval|任务星值|<code>digit</code>|是|暂无|无|
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|

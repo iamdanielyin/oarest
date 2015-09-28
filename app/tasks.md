@@ -146,7 +146,7 @@
 |mcoin|任务M币|<code>digit</code>|否|暂无|0|
 |starval|任务星值|<code>digit</code>|否|暂无|0|
 |operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
-|attachs|任务附件|<code>string</code>|否|文件，多个用英文逗号分隔|无|
+|attachs|任务附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)
@@ -277,8 +277,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |content|汇报内容|<code>string</code>|是|暂无|无|
-|attachs|汇报附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|
-|attachs|汇报附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|
+|attachs|汇报附件|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
+|attachs|汇报附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

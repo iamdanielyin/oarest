@@ -97,8 +97,8 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|name|公司名称|<code>string</code>|是|暂无|无|
+|id|任务ID|<code>string</code>|是|暂无|无|
+|title|任务名称|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

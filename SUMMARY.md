@@ -7,7 +7,7 @@
    * [合同](crm/contracts.md)
    * [客户](crm/customers.md)
 * [应用](app/README.md)
-   * [任务](app/task.md)
+   * [任务](app/tasks.md)
    * [公告](app/notice.md)
    * [日志](app/worklog.md)
 * [管理](management/README.md)

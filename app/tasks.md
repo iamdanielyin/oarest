@@ -311,7 +311,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isfinish|是否完成|<code>string</code>|是|暂无|无|
+|isfinish|是否完成|<code>boo</code>|是|暂无|无|
 |operators|执行人|<code>array</code>|是|用户ID，多个用英文逗号分隔|无|
 
 ##返回参数

@@ -102,7 +102,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|header|头像|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 
 参数项：attachs
@@ -143,7 +143,7 @@
 |content|任务内容|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|
 |enddate|结束日期|<code>string</code>|是|暂无|无|
-|mcoin|任务M币|<code>string</code>|否|暂无|0|
+|mcoin|任务M币|<code>digit</code>|否|暂无|0|
 |starval|任务星值|<code>digit</code>|否|暂无|0|
 |operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
 |attachs|任务附件|<code>string</code>|否|文件ID，多个用英文逗号分隔|无|

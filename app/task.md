@@ -119,7 +119,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |file|文件链接|<code>string</code>|是|暂无|无|
 |header|头像|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
+
 
 
 ##接口示例

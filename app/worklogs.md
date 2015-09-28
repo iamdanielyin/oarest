@@ -112,8 +112,8 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|图片ID|<code>string</code>|是|暂无|无|
-|url|图片链接|<code>string</code>|是|暂无|无|
+|id|附件ID|<code>string</code>|是|暂无|无|
+|url|附件链接|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

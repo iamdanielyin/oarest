@@ -11,8 +11,8 @@
 ##请求参数
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|公告数组|<code>string</code>|是|暂无|无|
-|password|公告数组|<code>string</code>|是|暂无|无|
+|username|用户名|<code>string</code>|是|暂无|无|
+|password||<code>string</code>|是|暂无|无|
 
 
 ##返回参数

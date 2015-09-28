@@ -138,7 +138,7 @@
 
 | 接口名称 | *新增合同* |
 | -- | -- |
-| **接口地址** | */crm/efficiency* |
+| **接口地址** | */contracts* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

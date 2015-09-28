@@ -15,7 +15,7 @@
  * 删除公告
 * 日志
  * [日志列表](./worklogs.md)
- * 日志详情
- * 新增日志
- * 删除日志
- * 日志审批
+ * [日志详情](./worklogs.md)
+ * [新增日志](./worklogs.md)
+ * [删除日志](./worklogs.md)
+ * [日志审批](./worklogs.md)

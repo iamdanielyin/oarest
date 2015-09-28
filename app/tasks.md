@@ -242,7 +242,7 @@
 
 | 接口名称 | *任务提醒* |
 | -- | -- |
-| **接口地址** | */tasks/{id}* |
+| **接口地址** | */tasks/{id}/reminder* |
 | **请求方式** | <mark>PATCH</mark> |
 | **数据格式** | <code>JSON</code> |
 

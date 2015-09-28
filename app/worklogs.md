@@ -96,3 +96,74 @@
 暂无
 
 ```
+
+
+
+
+
+#新增任务
+>接口描述
+
+
+| 接口名称 | *新增任务* |
+| -- | -- |
+| **接口地址** | */tasks* |
+| **请求方式** | <mark>POST</mark> |
+| **数据格式** | <code>JSON</code> |
+
+##请求参数
+[<公共传入参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|title|任务标题|<code>string</code>|是|暂无|无|
+|content|任务内容|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|mcoin|任务M币|<code>digit</code>|否|暂无|0|
+|starval|任务星值|<code>digit</code>|否|暂无|0|
+|operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
+|attachs|任务附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+
+##接口示例
+
+```
+暂无
+
+```
+
+***
+
+
+
+
+
+
+
+#删除任务
+>接口描述
+
+| 接口名称 | *删除任务* |
+| -- | -- |
+| **接口地址** | */tasks/{id}* |
+| **请求方式** | <mark>DELETE</mark> |
+| **数据格式** | <code>JSON</code> |
+
+##请求参数
+[<公共传入参数>](../README.md)
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+##接口示例
+
+```
+暂无
+
+```
+
+***

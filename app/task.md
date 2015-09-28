@@ -51,18 +51,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|任务ID|<code>string</code>|是|暂无|无|
-|user|发表人|<code>string</code>|是|暂无|无|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
-|enddate|结束日期|<code>string</code>|是|暂无|无|
-|createtime|创建时间|<code>string</code>|是|暂无|无|
-|status|任务状态|<code>string</code>|是|暂无|无|
-|title|任务标题|<code>string</code>|是|暂无|无|
-|content|任务内容|<code>string</code>|是|暂无|无|
-|operators|协同人|<code>array</code>|是|暂无|无|
 |id|ID|<code>string</code>|是|暂无|无|
 |header|头像|<code>string</code>|是|暂无|无|
 

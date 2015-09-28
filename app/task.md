@@ -86,8 +86,23 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|totalamount|合同总合计|<code>string</code>|是|暂无|无|
-|contracts|合同数组|<code>array</code>|是|暂无|无|
+|id|ID|<code>string</code>|是|暂无|无|
+|title|任务标题|<code>string</code>|是|暂无|无|
+|content|任务内容|<code>string</code>|是|暂无|无|
+|status|任务状态|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|reportdate|汇报时间|<code>string</code>|是|暂无|无|
+|finishdate|完成时间|<code>string</code>|是|暂无|无|
+|mcoin|任务M币|<code>string</code>|是|暂无|无|
+|starval|任务星值|<code>string</code>|是|暂无|无|
+|isremind|是否提醒|<code>string</code>|是|暂无|无|
+|isdailytask|是否日常任务|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
 
 参数项：contracts
 

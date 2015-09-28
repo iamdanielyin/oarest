@@ -65,7 +65,7 @@
 |approver|审批人|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|customer|关联客户|<code>string</code>|是|暂无|无|
+|customer|关联客户|<code>object</code>|是|暂无|无|
 |mcoin|M币|<code>string</code>|是|暂无|无|
 |starval|星值|<code>string</code>|是|暂无|无|
 |status|审批状态|<code>string</code>|是|暂无|无|

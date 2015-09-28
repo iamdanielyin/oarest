@@ -61,18 +61,19 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
-|creator|创建人|<code>object</code>|是|暂无|无|
-|approver|审批人|<code>object</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
-|enddate|结束日期|<code>string</code>|是|暂无|无|
-|customer|关联客户|<code>object</code>|是|暂无|无|
-|mcoin|M币|<code>digit</code>|是|暂无|无|
-|starval|星值|<code>digit</code>|是|暂无|无|
-|status|审批状态|<code>digit</code>|是|暂无|无|
-|type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|暂无|无|
+|startdate|计划开始日期|<code>string</code>|是|暂无|无|
+|enddate|计划结束日期|<code>string</code>|是|暂无|无|
+|customer|关联客户|<code>string</code>|是|暂无|无|
+|mcoin|M币|<code>string</code>|是|暂无|无|
+|starval|星值|<code>string</code>|是|暂无|无|
+|status|审批状态|<code>string</code>|是|暂无|无|
+|type|日志类型|<code>string</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
 
 参数项：creator、approver
 

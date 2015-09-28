@@ -72,7 +72,7 @@
 |type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 
 参数项：creator、approver

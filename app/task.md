@@ -103,7 +103,7 @@
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
 |operators|执行人|<code>array</code>|是|暂无|无|
-
+|attachs|任务附件|<code>array</code>|是|暂无|无|
 
 参数项：creator、operators
 

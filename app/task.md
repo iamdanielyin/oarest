@@ -98,7 +98,7 @@
 |starval|任务星值|<code>string</code>|是|暂无|无|
 |isremind|是否提醒|<code>string</code>|是|暂无|无|
 |isdailytask|是否日常任务|<code>string</code>|是|暂无|无|
-|creator|创建人|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|

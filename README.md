@@ -30,6 +30,5 @@
 |size|每页大小|<code>int</code>|是|暂无|无|
 
 * 第三方账号
-
-用户：menghua-admin
-密码：menghuaadmin
+ * 环信
+    用户：menghua-admin  密码：menghuaadmin

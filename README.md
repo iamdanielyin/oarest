@@ -34,5 +34,5 @@
 |平台|账号|密码|地址|
 |:---|:---|:---|:---|
 |环信|menghua-admin|menghuaadmin|http://www.easemob.com/|
-||menghua|menghuats|https://www.jpush.cn/|
+|极光|menghua|menghuats|https://www.jpush.cn/|
 

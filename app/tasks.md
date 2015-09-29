@@ -275,7 +275,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|operators|执行人|<code>string</code>|是|用户ID，多个用英文逗号分隔|无|
+|operator|执行人ID|<code>string</code>|是|用户ID|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

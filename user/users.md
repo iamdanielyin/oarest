@@ -82,7 +82,7 @@ Content-Type: application/json;charset=UTF-8
 Accept: application/json;
 Accept-Charset: utf-8
 Cache-Control: no-cache
-——————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————
 {
     "statuscode": "0000",
     "access_token": "ZDM4OWNlNWYtNzhkMy00OTk1LWIwMDctYjRhNWVhNzUyMDcy",

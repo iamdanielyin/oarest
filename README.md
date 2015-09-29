@@ -33,5 +33,6 @@
 
 |平台|账号|密码|地址|
 |:---|:---|:---|:---|
-|环信|menghua-admin|menghuaadmin|
+|环信|menghua-admin|menghuaadmin|http://www.easemob.com/|
+|环信|menghua-admin|menghuaadmin|http://www.easemob.com/|
 

@@ -83,7 +83,37 @@ Accept: application/json;
 Accept-Charset: utf-8
 Cache-Control: no-cache
 ————————————————————————————————————————————————————————————
-
+{
+    "statuscode": "0000",
+    "access_token": "ZDM4OWNlNWYtNzhkMy00OTk1LWIwMDctYjRhNWVhNzUyMDcy",
+    "statusmsg": "ok",
+    "data": {
+        "profession": "",
+        "qq": "",
+        "createtime": "2015-09-29 11:39:54",
+        "mail": "",
+        "modifytime": "",
+        "sex": 0,
+        "mobile1": "",
+        "totalmcoin": 0,
+        "remark": "",
+        "dept": {},
+        "totalstarval": 0,
+        "realname": "",
+        "curstarval": 0,
+        "password": "123456",
+        "superior": "",
+        "weixin": "",
+        "mobile3": "",
+        "headportrait": "",
+        "mobile2": "",
+        "isboss": false,
+        "curmcoin": 0,
+        "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+        "user": {},
+        "username": "test1"
+    }
+}
 
 ```
 

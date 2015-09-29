@@ -29,8 +29,8 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|任务ID|<code>string</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
-|enddate|结束日期|<code>string</code>|是|暂无|无|
+|startdate|计划开始日期|<code>string</code>|是|暂无|无|
+|enddate|计划结束日期|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|
 |status|任务状态|<code>digit</code>|是|0进行中，1已汇报，2已完成|无|
 |title|任务标题|<code>string</code>|是|暂无|无|

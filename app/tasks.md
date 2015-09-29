@@ -161,7 +161,7 @@ Cache-Control: no-cache
 |operators|执行人|<code>array</code>|是|暂无|无|
 |attachs|任务附件|<code>array</code>|是|暂无|无|
 
-参数项：creator、operators
+参数项：creator
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
@@ -169,14 +169,15 @@ Cache-Control: no-cache
 |header|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|
-参数项：creator、operators
+
+参数项：operators
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |header|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
-
+|isremind|是否提醒|<code>boolean</code>|是|暂无|无|
 
 参数项：attachs
 

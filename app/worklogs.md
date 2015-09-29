@@ -75,7 +75,7 @@
 |customers|关联客户|<code>array</code>|否|暂无|无|
 |tasks|关联任务|<code>array</code>|否|暂无|无|
 |imagess|日志图片|<code>array</code>|否|暂无|无|
-|attachs|日志附件|<code>array</code>|否|暂无|无|
+|files|日志附件|<code>array</code>|否|暂无|无|
 
 
 参数项：creator、approver

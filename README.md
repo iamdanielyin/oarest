@@ -35,6 +35,3 @@
 |:---|:---|:---|
 |环信|menghua-admin|menghuaadmin|
 |size|每页大小|无|
-
- * 环信
-    用户：  密码：

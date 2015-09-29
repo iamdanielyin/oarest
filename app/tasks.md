@@ -55,7 +55,85 @@ Accept: application/json;
 Accept-Charset: utf-8
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
-
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": [
+        {
+            "createtime": "2015-09-29 17:51:32",
+            "enddate": "2015-10-01 00:00:00",
+            "operators": [
+                {
+                    "createtime": "2015-09-29 18:19:47",
+                    "id": "0c8da751-9adb-48e5-9ee0-0fe87144ac55",
+                    "mcoin": "",
+                    "modifytime": "",
+                    "oatask_ref_title": "",
+                    "oauser_ref_username": "",
+                    "remark": "",
+                    "starval": ""
+                },
+                {
+                    "createtime": "2015-09-29 18:19:48",
+                    "id": "14a21e67-4376-4a4f-a0a3-4006e90814a1",
+                    "mcoin": "",
+                    "modifytime": "",
+                    "oatask_ref_title": "",
+                    "oauser_ref_username": "",
+                    "remark": "",
+                    "starval": ""
+                }
+            ],
+            "id": "243d6cd4-629b-4da8-98ac-ee1addbee2e6",
+            "startdate": "2015-09-29 00:00:00",
+            "title": "任务1",
+            "user": {
+                "header": "http://cdn.duitang.com/uploads/item/201504/21/20150421H4327_3eRXN.thumb.224_0.jpeg",
+                "id": "d9a5648a-65dd-46ef-add8-4837795ce8b4",
+                "realname": ""
+            },
+            "content": "任务1内容描述",
+            "status": 0
+        },
+        {
+            "createtime": "2015-09-29 17:51:32",
+            "enddate": "2015-10-01 00:00:00",
+            "operators": [
+                {
+                    "createtime": "2015-09-29 18:20:02",
+                    "id": "8090f651-a562-4be6-823e-daac60867143",
+                    "mcoin": "",
+                    "modifytime": "",
+                    "oatask_ref_title": "",
+                    "oauser_ref_username": "",
+                    "remark": "",
+                    "starval": ""
+                },
+                {
+                    "createtime": "2015-09-29 18:20:01",
+                    "id": "f46b6518-1004-47c3-bdb6-06dd63959e15",
+                    "mcoin": "",
+                    "modifytime": "",
+                    "oatask_ref_title": "",
+                    "oauser_ref_username": "",
+                    "remark": "",
+                    "starval": ""
+                }
+            ],
+            "id": "d78ab909-7994-4fc0-8dc9-9200e749782c",
+            "startdate": "2015-09-29 00:00:00",
+            "title": "任务2",
+            "user": {
+                "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+                "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
+                "realname": ""
+            },
+            "content": "任务2内容描述",
+            "status": 0
+        }
+    ],
+    "usermsg": "正常"
+}
 
 ```
 

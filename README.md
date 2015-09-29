@@ -33,8 +33,8 @@
 
 |平台|账号|密码|
 |:---|:---|:---|
-|环信|页码|无|
+|环信|menghua-admin|无|
 |size|每页大小|无|
 
  * 环信
-    用户：menghua-admin  密码：menghuaadmin
+    用户：  密码：menghuaadmin

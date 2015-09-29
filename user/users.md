@@ -85,7 +85,7 @@ Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",
-    "access_token": "MWQ5MDA4NDgtZTdhMC00MDA0LWI1ZGUtMDY3Mzg5YTg5YTg2",
+    "access_token": "YTRiYjVlMGEtNjQ3Yy00M2NjLWJjNTYtM2E3YTZhOGNmMzNl",
     "statusmsg": "ok",
     "data": {
         "profession": "部门职员",
@@ -126,7 +126,8 @@ Cache-Control: no-cache
         "curmcoin": 12,
         "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
         "username": "test1"
-    }
+    },
+    "usermsg": "正常"
 }
 
 ```

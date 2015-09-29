@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [用户](user/README.md)
-   * 用户相关
+   * [用户相关](user/users.md)
 * [CRM](crm/README.md)
    * [CRM信息](crm/crminfo.md)
    * [合同](crm/contracts.md)

@@ -25,8 +25,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|公告标题|<code>string</code>|是|暂无|无|
-|content|公告内容|<code>string</code>|是|暂无|无|
+|title|标题|<code>string</code>|是|暂无|无|
+|content|内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例

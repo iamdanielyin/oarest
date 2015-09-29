@@ -28,7 +28,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|任务ID|<code>string</code>|是|暂无|无|
-|user|发表人|<code>object</code>|是|暂无|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|
 |enddate|结束日期|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|

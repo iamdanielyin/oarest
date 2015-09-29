@@ -74,7 +74,7 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |customers|关联客户|<code>array</code>|否|暂无|无|
 |tasks|关联任务|<code>array</code>|否|暂无|无|
-|imagess|日志图片|<code>array</code>|否|暂无|无|
+|images|日志图片|<code>array</code>|否|暂无|无|
 |files|日志附件|<code>array</code>|否|暂无|无|
 
 

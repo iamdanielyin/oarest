@@ -64,35 +64,9 @@ Cache-Control: no-cache
             "enddate": "2015-10-01 00:00:00",
             "operators": [
                 {
-                    "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
-                    "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
-                    "realname": "张三"
-                },
-                {
                     "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
                     "id": "d47539b3-9820-4086-9582-f629d2ef0630",
-                    "realname": ""
-                }
-            ],
-            "id": "243d6cd4-629b-4da8-98ac-ee1addbee2e6",
-            "startdate": "2015-09-29 00:00:00",
-            "title": "任务1",
-            "user": {
-                "header": "http://cdn.duitang.com/uploads/item/201504/21/20150421H4327_3eRXN.thumb.224_0.jpeg",
-                "id": "d9a5648a-65dd-46ef-add8-4837795ce8b4",
-                "realname": ""
-            },
-            "content": "任务1内容描述",
-            "status": 0
-        },
-        {
-            "createtime": "2015-09-29 17:51:32",
-            "enddate": "2015-10-01 00:00:00",
-            "operators": [
-                {
-                    "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
-                    "id": "d47539b3-9820-4086-9582-f629d2ef0630",
-                    "realname": ""
+                    "realname": "王五"
                 },
                 {
                     "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
@@ -106,9 +80,35 @@ Cache-Control: no-cache
             "user": {
                 "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
                 "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-                "realname": ""
+                "realname": "赵丽"
             },
             "content": "任务2内容描述",
+            "status": 0
+        },
+        {
+            "createtime": "2015-09-29 17:51:32",
+            "enddate": "2015-10-01 00:00:00",
+            "operators": [
+                {
+                    "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+                    "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+                    "realname": "张三"
+                },
+                {
+                    "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+                    "id": "d47539b3-9820-4086-9582-f629d2ef0630",
+                    "realname": "王五"
+                }
+            ],
+            "id": "243d6cd4-629b-4da8-98ac-ee1addbee2e6",
+            "startdate": "2015-09-29 00:00:00",
+            "title": "任务1",
+            "user": {
+                "header": "http://cdn.duitang.com/uploads/item/201504/21/20150421H4327_3eRXN.thumb.224_0.jpeg",
+                "id": "d9a5648a-65dd-46ef-add8-4837795ce8b4",
+                "realname": "李四"
+            },
+            "content": "任务1内容描述",
             "status": 0
         }
     ],

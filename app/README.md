@@ -10,8 +10,8 @@
  * [任务审批](./tasks.md)
 * 公告
  * [公告列表](./notices.md)
- * [新增公告](./notices.md)
  * [公告详情](./notices.md)
+ * [新增公告](./notices.md)
  * [修改公告](./notices.md)
  * [删除公告](./notices.md)
 * 日志

@@ -34,7 +34,7 @@
 |平台|账号|密码|
 |:---|:---|:---|
 |page|页码|是|无|
-|size|每页大小|<code>int</code>|是|暂无|无|
+|size|每页大小|暂无|无|
 
  * 环信
     用户：menghua-admin  密码：menghuaadmin

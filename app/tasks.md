@@ -64,24 +64,14 @@ Cache-Control: no-cache
             "enddate": "2015-10-01 00:00:00",
             "operators": [
                 {
-                    "createtime": "2015-09-29 18:19:47",
-                    "id": "0c8da751-9adb-48e5-9ee0-0fe87144ac55",
-                    "mcoin": "",
-                    "modifytime": "",
-                    "oatask_ref_title": "",
-                    "oauser_ref_username": "",
-                    "remark": "",
-                    "starval": ""
+                    "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+                    "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+                    "realname": "张三"
                 },
                 {
-                    "createtime": "2015-09-29 18:19:48",
-                    "id": "14a21e67-4376-4a4f-a0a3-4006e90814a1",
-                    "mcoin": "",
-                    "modifytime": "",
-                    "oatask_ref_title": "",
-                    "oauser_ref_username": "",
-                    "remark": "",
-                    "starval": ""
+                    "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+                    "id": "d47539b3-9820-4086-9582-f629d2ef0630",
+                    "realname": ""
                 }
             ],
             "id": "243d6cd4-629b-4da8-98ac-ee1addbee2e6",
@@ -100,24 +90,14 @@ Cache-Control: no-cache
             "enddate": "2015-10-01 00:00:00",
             "operators": [
                 {
-                    "createtime": "2015-09-29 18:20:02",
-                    "id": "8090f651-a562-4be6-823e-daac60867143",
-                    "mcoin": "",
-                    "modifytime": "",
-                    "oatask_ref_title": "",
-                    "oauser_ref_username": "",
-                    "remark": "",
-                    "starval": ""
+                    "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+                    "id": "d47539b3-9820-4086-9582-f629d2ef0630",
+                    "realname": ""
                 },
                 {
-                    "createtime": "2015-09-29 18:20:01",
-                    "id": "f46b6518-1004-47c3-bdb6-06dd63959e15",
-                    "mcoin": "",
-                    "modifytime": "",
-                    "oatask_ref_title": "",
-                    "oauser_ref_username": "",
-                    "remark": "",
-                    "starval": ""
+                    "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+                    "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+                    "realname": "张三"
                 }
             ],
             "id": "d78ab909-7994-4fc0-8dc9-9200e749782c",

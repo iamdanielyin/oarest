@@ -85,7 +85,7 @@ Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",
-    "access_token": "OGNmMGQ0ZWUtNTAyYS00NjhhLTgzNzUtNGYxMzRmMTNmYzhm",
+    "access_token": "MWQ5MDA4NDgtZTdhMC00MDA0LWI1ZGUtMDY3Mzg5YTg5YTg2",
     "statusmsg": "ok",
     "data": {
         "profession": "部门职员",
@@ -114,29 +114,9 @@ Cache-Control: no-cache
         "curstarval": 10,
         "password": "123456",
         "superior": {
-            "createtime": "2015-09-29 13:37:36",
-            "curmcoin": 0,
-            "curstarval": 0,
-            "headportrait": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
             "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-            "isboss": false,
-            "mail": "",
-            "mobile1": "",
-            "mobile2": "",
-            "mobile3": "",
-            "modifytime": "2015-09-29 13:40:52",
-            "oadept_ref_name": "",
-            "oauser_ref_username": "",
-            "password": "123456",
-            "profession": "",
-            "qq": "",
-            "realname": "",
-            "remark": "",
-            "sex": "1",
-            "totalmcoin": 0,
-            "totalstarval": 0,
-            "username": "test2",
-            "weixin": ""
+            "realname": ""
         },
         "weixin": "13456789012",
         "mobile3": "13678901234",
@@ -145,11 +125,6 @@ Cache-Control: no-cache
         "isboss": false,
         "curmcoin": 12,
         "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
-        "user": {
-            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
-            "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-            "realname": ""
-        },
         "username": "test1"
     }
 }

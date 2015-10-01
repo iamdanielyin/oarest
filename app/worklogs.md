@@ -210,8 +210,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isfinish|是否通过|<code>boolean</code>|是|为true时operators不能为空；为false时任务会被重置回完成中状态|无|
-|operators|执行人分值分配|<code>string</code>|否|用户ID:M币:星值，多个用英文逗号分隔|无|
+|isfinish|是否通过|<code>boolean</code>|是||无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

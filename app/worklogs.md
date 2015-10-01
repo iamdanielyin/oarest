@@ -140,6 +140,39 @@ GET /oa/worklogs/ec8f2320-c4f4-43e3-bae1-bf9d0294896f?tt=1&vn=1.0&access_token=O
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": {
+        "approver": {
+            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+            "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
+            "realname": "赵丽"
+        },
+        "creator": {
+            "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+            "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+            "realname": "张三"
+        },
+        "createtime": "2015-10-01 19:55:58",
+        "images": [],
+        "starval": "",
+        "modifytime": "",
+        "remark": "",
+        "title": "日志1",
+        "startdate": "2015-10-01 00:00:00",
+        "type": 0,
+        "content": "日志1内容",
+        "mcoin": "",
+        "enddate": "2015-10-01 00:00:00",
+        "files": [],
+        "id": "ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
+        "customers": [],
+        "tasks": [],
+        "status": 0
+    },
+    "usermsg": "正常"
+}
 
 ```
 

@@ -356,11 +356,9 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-DELETE /oa/tasks/350d256f-d574-4634-9079-083e6ef953af?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/operators?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
-
-title=测试新增任务接口1&content=测试新增任务接口1内容&startdate=2015-10-01&enddate=2015-10-03&operators=d9a5648a-65dd-46ef-add8-4837795ce8b4%2C51c58245-1921-44a2-8aed-60fc3b85cc3c
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

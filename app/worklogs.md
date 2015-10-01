@@ -41,6 +41,19 @@ GET /oa/worklogs?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1Yj
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": [
+        {
+            "createtime": "2015-10-01 19:55:58",
+            "id": "ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
+            "title": "日志1",
+            "content": "日志1内容"
+        }
+    ],
+    "usermsg": "正常"
+}
 
 ```
 

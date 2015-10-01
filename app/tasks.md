@@ -483,6 +483,17 @@ content=完美完成
 
 ```
 POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/reports?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+content=完美完成
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
 ```
 
 ***

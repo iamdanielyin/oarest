@@ -438,8 +438,15 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-暂无
-
+POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/reminder?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
 ```
 
 ***

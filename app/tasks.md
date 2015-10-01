@@ -59,9 +59,6 @@
 ```
 GET /oa/tasks?access_token=YTRiYjVlMGEtNjQ3Yy00M2NjLWJjNTYtM2E3YTZhOGNmMzNl&flag=0&page=0&size=10 HTTP/1.1
 Host: localhost:7778
-Content-Type: application/json;charset=UTF-8
-Accept: application/json;
-Accept-Charset: utf-8
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {

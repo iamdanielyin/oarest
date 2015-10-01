@@ -197,7 +197,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/tasks?access_token=MTgxOWI5MzMtYTcwMy00ZDQ1LWEwN2YtN2Y1ZGIxYWFhYjJm HTTP/1.1
+GET /oa/tasks?tt=1&vn=1.0&access_token=MTgxOWI5MzMtYTcwMy00ZDQ1LWEwN2YtN2Y1ZGIxYWFhYjJm HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————

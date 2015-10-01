@@ -136,6 +136,10 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
+GET /oa/worklogs?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",
 	"statusmsg":"ok",

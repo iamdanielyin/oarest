@@ -141,37 +141,56 @@ Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "data": {
-        "approver": {
-            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
-            "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-            "realname": "赵丽"
-        },
-        "creator": {
-            "header": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
-            "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
-            "realname": "张三"
-        },
-        "createtime": "2015-10-01 19:55:58",
-        "images": [],
-        "starval": "",
-        "modifytime": "",
-        "remark": "",
-        "title": "日志1",
-        "startdate": "2015-10-01 00:00:00",
-        "type": 0,
-        "content": "日志1内容",
-        "mcoin": "",
-        "enddate": "2015-10-01 00:00:00",
-        "files": [],
-        "id": "ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
-        "customers": [],
-        "tasks": [],
-        "status": 0
-    },
-    "usermsg": "正常"
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"approver":{
+			"header":"http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+			"id":"51c58245-1921-44a2-8aed-60fc3b85cc3c",
+			"realname":"赵丽"
+		},
+		"creator":{
+			"header":"http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+			"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+			"realname":"张三"
+		},
+		"createtime":"2015-10-01 19:55:58",
+		"images":[
+			{
+				"image":"http://img5.imgtn.bdimg.com/it/u=3572074785,265614668&fm=21&gp=0.jpg"
+			},
+			{
+				"image":"http://img6.faloo.com/Picture/0x0/0/747/747488.jpg"
+			},
+			{
+				"image":"http://pic1.nipic.com/2009-02-20/2009220135032130_2.jpg"
+			}
+		],
+		"starval":"",
+		"modifytime":"",
+		"remark":"",
+		"title":"日志1",
+		"startdate":"2015-10-01 00:00:00",
+		"type":0,
+		"content":"日志1内容",
+		"mcoin":"",
+		"enddate":"2015-10-01 00:00:00",
+		"files":[],
+		"id":"ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
+		"customers":[
+			{
+				"name":"公司1",
+				"id":"2282a40e-c7eb-4b34-81a6-aa2efa1e6ad1"
+			},
+			{
+				"name":"客户2",
+				"id":"9005997f-8468-4f96-8e6a-06907dfb2038"
+			}
+		],
+		"tasks":[],
+		"status":0
+	},
+	"usermsg":"正常"
 }
 
 ```

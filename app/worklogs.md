@@ -293,7 +293,9 @@ title=日志接口5&content=日志接口内容&approver=d9a5648a-65dd-46ef-add8-
 ##接口示例
 
 ```
-暂无
+DELETE /oa/worklogs/235e711c-5a04-40d8-b07f-b4ac2d0f8e64?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 
 ```
 

@@ -280,9 +280,12 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+POST /oa/tasks?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+title=%E6%B5%8B%E8%AF%95%E6%96%B0%E5%A2%9E%E4%BB%BB%E5%8A%A1%E6%8E%A5%E5%8F%A31&content=%E6%B5%8B%E8%AF%95%E6%96%B0%E5%A2%9E%E4%BB%BB%E5%8A%A1%E6%8E%A5%E5%8F%A31%E5%86%85%E5%AE%B9&startdate=2015-10-01&enddate=2015-10-03&operators=d9a5648a-65dd-46ef-add8-4837795ce8b4%2C51c58245-1921-44a2-8aed-60fc3b85cc3c
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

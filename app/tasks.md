@@ -280,7 +280,52 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-暂无
+
+GET /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"creator":{
+			"header":"http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+			"id":"51c58245-1921-44a2-8aed-60fc3b85cc3c",
+			"realname":"赵丽"
+		},
+		"createtime":"2015-09-29 17:51:32",
+		"starval":3,
+		"isdailytask":false,
+		"modifytime":"",
+		"reportdate":"",
+		"finishdate":"",
+		"remark":"",
+		"title":"任务2",
+		"startdate":"2015-09-29 00:00:00",
+		"content":"任务2内容描述",
+		"mcoin":4,
+		"attachs":[],
+		"enddate":"2015-10-01 00:00:00",
+		"operators":[
+			{
+				"header":"http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+				"id":"d47539b3-9820-4086-9582-f629d2ef0630",
+				"isremind":false,
+				"realname":"王五"
+			},
+			{
+				"header":"http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+				"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+				"isremind":false,
+				"realname":"张三"
+			}
+		],
+		"id":"d78ab909-7994-4fc0-8dc9-9200e749782c",
+		"status":0
+	},
+	"usermsg":"正常"
+}
 
 ```
 

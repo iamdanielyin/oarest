@@ -264,7 +264,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|任务标题|<code>string</code>|是|标题在系统内唯一不能重复|无|
+|title|任务标题|<code>string</code>|是|任务标题在系统内唯一不能重复|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
 |startdate|计划开始日期|<code>string</code>|是|暂无|无|
 |enddate|计划结束日期|<code>string</code>|是|暂无|无|

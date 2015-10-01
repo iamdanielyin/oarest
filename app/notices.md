@@ -142,7 +142,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|标题|<code>string</code>|是|暂无|无|
+|title|标题|<code>string</code>|是|唯一|无|
 |content|内容|<code>string</code>|是|暂无|无|
 
 ##返回参数
@@ -157,7 +157,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=公告标题&content=公告
+title=公告标题&content=公告内容
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

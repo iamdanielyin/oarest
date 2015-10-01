@@ -210,7 +210,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isfinish|是否通过|<code>boolean</code>|是||无|
+|isfinish|是否通过|<code>boolean</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)
@@ -223,7 +223,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-isfinish=true&operators=5d772756-3b06-4b75-9de1-f9c07310ec06:100:1,d47539b3-9820-4086-9582-f629d2ef0630:200:2
+isfinish=true
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

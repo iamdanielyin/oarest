@@ -482,12 +482,12 @@ content=完美完成
 ##接口示例
 
 ```
-POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/reports?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/approvals?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-content=完美完成
+isfinish=true&operators=5d772756-3b06-4b75-9de1-f9c07310ec06%3A100%3A1%2Cd47539b3-9820-4086-9582-f629d2ef0630%3A200%3A2
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

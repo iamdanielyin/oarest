@@ -205,7 +205,9 @@ title=公告标题&content=公告内容
 ##接口示例
 
 ```
-
+DELETE /oa/notices/ebba0834-e5b6-4fec-b01f-1a9d4e2b3f7f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

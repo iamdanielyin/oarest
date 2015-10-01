@@ -205,12 +205,7 @@ title=公告标题&content=公告内容
 ##接口示例
 
 ```
-POST /oa/notices?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
 
-title=公告标题&content=公告内容
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

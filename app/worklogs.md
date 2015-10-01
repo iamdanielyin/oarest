@@ -193,17 +193,25 @@
 ```
 
 
-#审核日志
+
+
+
+#任务审批
 >接口描述
 
-| 接口名称 | *删除日志* |
+| 接口名称 | *任务审批* |
 | -- | -- |
-| **接口地址** | */worklogs/{id}* |
+| **接口地址** | */tasks/{id}/approvals* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
 ##请求参数
 [<公共传入参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|isfinish|是否通过|<code>boolean</code>|是|为true时operators不能为空；为false时任务会被重置回完成中状态|无|
+|operators|执行人分值分配|<code>string</code>|否|用户ID:M币:星值，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)
@@ -211,8 +219,18 @@
 ##接口示例
 
 ```
-暂无
+POST /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c/approvals?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 
+isfinish=true&operators=5d772756-3b06-4b75-9de1-f9c07310ec06:100:1,d47539b3-9820-4086-9582-f629d2ef0630:200:2
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
 ```
 
 ***

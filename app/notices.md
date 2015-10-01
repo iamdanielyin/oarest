@@ -157,7 +157,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=公告标题&content=%E6%96%B0%E5%A2%9E%E5%85%AC%E5%91%8A%E6%8E%A5%E5%8F%A3%E5%86%85%E5%AE%B91
+title=公告标题&content=公告
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

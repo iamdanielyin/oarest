@@ -136,10 +136,6 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/worklogs/ec8f2320-c4f4-43e3-bae1-bf9d0294896f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",
 	"statusmsg":"ok",
@@ -175,7 +171,17 @@ Cache-Control: no-cache
 		"content":"日志1内容",
 		"mcoin":"",
 		"enddate":"2015-10-01 00:00:00",
-		"files":[],
+		"files":[
+			{
+				"file":"http://p1.gexing.com/G1/M00/5E/34/rBACFFPd-YvQXYp1AALWXgyPrbM950_600x.jpg"
+			},
+			{
+				"file":"http://p4.gexing.com/shaitu/20120922/1520/505d66aac9e7b.jpg"
+			},
+			{
+				"file":"http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1307/10/c6/23169101_1373445265040.jpg"
+			}
+		],
 		"id":"ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
 		"customers":[
 			{
@@ -187,7 +193,16 @@ Cache-Control: no-cache
 				"id":"9005997f-8468-4f96-8e6a-06907dfb2038"
 			}
 		],
-		"tasks":[],
+		"tasks":[
+			{
+				"id":"243d6cd4-629b-4da8-98ac-ee1addbee2e6",
+				"title":"任务1"
+			},
+			{
+				"id":"d78ab909-7994-4fc0-8dc9-9200e749782c",
+				"title":"任务2"
+			}
+		],
 		"status":0
 	},
 	"usermsg":"正常"

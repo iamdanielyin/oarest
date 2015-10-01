@@ -152,9 +152,12 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/notices/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
+POST /oa/notices?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+title=%E6%96%B0%E5%A2%9E%E5%85%AC%E5%91%8A%E6%8E%A5%E5%8F%A31&content=%E6%96%B0%E5%A2%9E%E5%85%AC%E5%91%8A%E6%8E%A5%E5%8F%A3%E5%86%85%E5%AE%B91
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

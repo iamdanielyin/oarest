@@ -152,8 +152,28 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-暂无
-
+GET /oa/notices/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": {
+        "creator": {
+            "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+            "id": "d47539b3-9820-4086-9582-f629d2ef0630",
+            "realname": "王五"
+        },
+        "createtime": "2015-10-01 17:42:44",
+        "modifytime": "2015-10-01 17:43:10",
+        "remark": "",
+        "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
+        "title": "公告1",
+        "content": "公告内容1公告内容1公告内容1公告内容1"
+    },
+    "usermsg": "正常"
+}
 ```
 
 ***

@@ -443,7 +443,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-content=%E5%AE%8C%E7%BE%8E%E5%AE%8C%E6%88%90
+content=完美
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

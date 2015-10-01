@@ -327,9 +327,9 @@ Cache-Control: no-cache
 title=测试新增任务接口1&content=测试新增任务接口1内容&startdate=2015-10-01&enddate=2015-10-03&operators=d9a5648a-65dd-46ef-add8-4837795ce8b4%2C51c58245-1921-44a2-8aed-60fc3b85cc3c
 ———————————————————————————————————————————————————————————
 {
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
 }
 
 ```

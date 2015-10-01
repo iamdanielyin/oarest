@@ -320,7 +320,19 @@ title=测试新增任务接口1&content=测试新增任务接口1内容&startdat
 ##接口示例
 
 ```
-暂无
+
+POST /oa/tasks?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+title=测试新增任务接口1&content=测试新增任务接口1内容&startdate=2015-10-01&enddate=2015-10-03&operators=d9a5648a-65dd-46ef-add8-4837795ce8b4%2C51c58245-1921-44a2-8aed-60fc3b85cc3c
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
 
 ```
 

@@ -487,7 +487,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-isfinish=true&operators=5d772756-3b06-4b75-9de1-f9c07310ec06%3A100%3A1%2Cd47539b3-9820-4086-9582-f629d2ef0630%3A200%3A2
+isfinish=true&operators=5d772756-3b06-4b75-9de1-f9c07310ec06:100:1,d47539b3-9820-4086-9582-f629d2ef0630:200:2
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

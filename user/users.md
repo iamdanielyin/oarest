@@ -78,9 +78,6 @@
 ```
 GET /oa/users/login?username=test1&password=123456 HTTP/1.1
 Host: localhost:7778
-Content-Type: application/json;charset=UTF-8
-Accept: application/json;
-Accept-Charset: utf-8
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {

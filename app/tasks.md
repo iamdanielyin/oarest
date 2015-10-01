@@ -197,9 +197,10 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/tasks?tt=1&vn=1.0&access_token=MTgxOWI5MzMtYTcwMy00ZDQ1LWEwN2YtN2Y1ZGIxYWFhYjJm HTTP/1.1
+GET /oa/tasks/d78ab909-7994-4fc0-8dc9-9200e749782c?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
+
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

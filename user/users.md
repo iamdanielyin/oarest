@@ -82,9 +82,9 @@ Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
   "statuscode": "0000",
-  "access_token": "MTgxOWI5MzMtYTcwMy00ZDQ1LWEwN2YtN2Y1ZGIxYWFhYjJm",
   "statusmsg": "ok",
   "data": {
+  "access_token": "MTgxOWI5MzMtYTcwMy00ZDQ1LWEwN2YtN2Y1ZGIxYWFhYjJm",
     "profession": "部门职员",
     "qq": "11223344",
     "createtime": "2015-09-29 11:39:54",

@@ -24,7 +24,7 @@
 {
   "statuscode": "接口状态码",
   "statusmsg": "接口提示信息",
-  "data": {  },
+  "data": [  ],
   "usermsg": "用户提示信息"
 }
 ```

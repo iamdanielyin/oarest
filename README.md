@@ -13,7 +13,7 @@
 ```
 {
   "statuscode": "接口状态码",
-  "statusmsg": "ok",
+  "statusmsg": "接口提示信息",
   "data": {
   },
   "usermsg": "用户提示信息"

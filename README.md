@@ -12,11 +12,11 @@
 * 返回报文结构
 ```
 {
-  "statuscode": "0000",
+  "statuscode": "接口状态码",
   "statusmsg": "ok",
   "data": {
   },
-  "usermsg": "正常"
+  "usermsg": "用户提示信息"
 }
 ```
 * 每个接口需上传公共参数，<font color=red>公共传入参数</font>如下所示：

@@ -76,7 +76,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|审批|<code>object</code>|是|暂无|无|
+|data|审批详情|<code>object</code>|是|暂无|无|
 
 参数项：data
 
@@ -170,15 +170,7 @@
 ##接口示例
 
 ```
-DELETE /oa/leave/235e711c-5a04-40d8-b07f-b4ac2d0f8e64?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
+暂无
 
 
 ```

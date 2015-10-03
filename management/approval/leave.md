@@ -34,8 +34,8 @@
 |etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |reason|请假理由|<code>string</code>|是|暂无|无|
 |leavetype|请假类型|<code>digit</code>|是|0病假，1事假，2其他|无|
-|approver|审批人|<code>string</code>|是|0未审，1通过，2不通过|无|
-|status|审批状态|<code>digit</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|暂无|无|
+|status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>string</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|

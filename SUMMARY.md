@@ -18,6 +18,6 @@
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
        * [报销审批](management/approval/reimburse.md)
-       * 加班审批
+       * [加班审批](management/approval/overtime.md)
 * [其他](other/README.md)
 

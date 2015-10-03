@@ -184,7 +184,7 @@
 
 | 接口名称 | *审批审批* |
 | -- | -- |
-| **接口地址** | */approvals/leaves/{id}/approvals* |
+| **接口地址** | */approvals/leaves/{id}* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

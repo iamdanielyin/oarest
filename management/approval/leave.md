@@ -106,7 +106,7 @@
 
 | 接口名称 | *删除审批* |
 | -- | -- |
-| **接口地址** | */leave/{id}* |
+| **接口地址** | */approvals/leaves/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 

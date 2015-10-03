@@ -29,6 +29,20 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+
+
+|id|ID|<code>string</code>|是|暂无|无|
+|name|报销名称|<code>string</code>|是|暂无|无|
+|sum|金额|<code>string</code>|是|暂无|无|
+|idesc|报销描述|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|暂无|无|
+|status|审批状态|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
+
 |id|ID|<code>string</code>|是|暂无|无|
 |stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|

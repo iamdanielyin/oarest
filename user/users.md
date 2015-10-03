@@ -76,7 +76,7 @@
 ##接口示例
 
 ```
-GET /oa/users/login?tt=1&vn=1.0&username=test1&password=123456 HTTP/1.1
+POST /oa/users/login?tt=1&vn=1.0&username=test1&password=123456 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————

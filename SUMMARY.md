@@ -13,6 +13,5 @@
    * [公告](app/notices.md)
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
-   * 投票
 * [其他](other/README.md)
 

@@ -30,7 +30,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|stime|开始时间|<code>string</code>|是|暂无|无|
+|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |etime|结束时间|<code>string</code>|是|暂无|无|
 |reason|请假理由|<code>string</code>|是|暂无|无|
 |leavetype|请假类型|<code>string</code>|是|暂无|无|

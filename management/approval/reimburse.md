@@ -128,8 +128,6 @@
 |name|报销名称|<code>string</code>|是|暂无|无|
 |sum|金额|<code>string</code>|是|暂无|无|
 |idesc|报销描述|<code>string</code>|是|暂无|无|
-|approver|审批人|<code>string</code>|是|暂无|无|
-
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数

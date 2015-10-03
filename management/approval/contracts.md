@@ -34,9 +34,9 @@
 |idesc|描述|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|sum|项目金额|<code>number</code>|是|暂无|无|
-|mcoin|项目M币|<code>digit</code>|是|暂无|无|
-|starval|项目星值|<code>digit</code>|是|暂无|无|
+|sum|合同金额|<code>number</code>|是|暂无|无|
+|mcoin|合同M币|<code>digit</code>|是|暂无|无|
+|starval|合同星值|<code>digit</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
@@ -89,9 +89,9 @@
 |idesc|描述|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|sum|项目金额|<code>number</code>|是|暂无|无|
-|mcoin|项目M币|<code>digit</code>|是|暂无|无|
-|starval|项目星值|<code>digit</code>|是|暂无|无|
+|sum|合同金额|<code>number</code>|是|暂无|无|
+|mcoin|合同M币|<code>digit</code>|是|暂无|无|
+|starval|合同星值|<code>digit</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
@@ -137,9 +137,9 @@
 |idesc|描述|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|sum|项目金额|<code>number</code>|是|暂无|无|
-|mcoin|项目M币|<code>digit</code>|是|暂无|无|
-|starval|项目星值|<code>digit</code>|是|暂无|无|
+|sum|合同金额|<code>number</code>|是|暂无|无|
+|mcoin|合同M币|<code>digit</code>|是|暂无|无|
+|starval|合同星值|<code>digit</code>|是|暂无|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数
@@ -187,7 +187,7 @@
 
 
 #执行审批
->只有审批指定审批人且该用户拥有审批权限才能审批审批，具有该审批权限的人必须同时具有新建任务的权限，因为项目审批通过后，会推送一个任务让项目的发起人去执行。
+>只有审批指定审批人且该用户拥有审批权限才能审批审批，具有该审批权限的人必须同时具有新建任务的权限，因为合同审批通过后，会推送一个任务让合同的发起人去执行。
 
 | 接口名称 | *审批审批* |
 | -- | -- |

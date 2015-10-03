@@ -41,18 +41,6 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 
-|id|ID|<code>string</code>|是|暂无|无|
-|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|reason|报销理由|<code>string</code>|是|暂无|无|
-|leavetype|报销类型|<code>digit</code>|是|0病假，1事假，2其他|无|
-|approver|审批人|<code>object</code>|是|暂无|无|
-|status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
-|creator|创建人|<code>object</code>|是|暂无|无|
-|remark|备注|<code>string</code>|否|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-
 
 参数项：approver、creator
 

@@ -48,7 +48,7 @@
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-|images|合同图片|<code>object</code>|否||无|
+|images|合同图片|<code>object</code>|否|暂无|无|
 
 参数项：approver、creator
 
@@ -57,6 +57,13 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |header|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
+参数项：approver、creator
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+
 
 ##接口示例
 

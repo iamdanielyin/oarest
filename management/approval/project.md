@@ -133,9 +133,20 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|name|项目名称|<code>string</code>|是|暂无|无|
-|sum|金额|<code>number</code>|是|暂无|无|
-|idesc|项目描述|<code>string</code>|是|暂无|无|
+|id|ID|<code>string</code>|是|暂无|无|
+|name|名称|<code>string</code>|是|暂无|无|
+|idesc|描述|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
+|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
+|sum|项目金额|<code>number</code>|是|暂无|无|
+|mcoin|项目M币|<code>digit</code>|是|暂无|无|
+|starval|项目星值|<code>digit</code>|是|暂无|无|
+|approver|审批人|<code>object</code>|是|暂无|无|
+|status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
+|remark|备注|<code>string</code>|否|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数

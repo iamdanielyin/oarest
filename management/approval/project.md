@@ -3,7 +3,7 @@
 
 | 接口名称 | *审批列表* |
 | -- | -- |
-| **接口地址** | */approvals/other* |
+| **接口地址** | */approvals/projects* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -60,7 +60,7 @@
 
 | 接口名称 | *审批详情* |
 | -- | -- |
-| **接口地址** | */approvals/other/{id}* |
+| **接口地址** | */approvals/projects/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -114,7 +114,7 @@
 
 | 接口名称 | *新增审批* |
 | -- | -- |
-| **接口地址** | */approvals/other* |
+| **接口地址** | */approvals/projects* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -150,7 +150,7 @@
 
 | 接口名称 | *删除审批* |
 | -- | -- |
-| **接口地址** | */approvals/other/{id}* |
+| **接口地址** | */approvals/projects/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -177,7 +177,7 @@
 
 | 接口名称 | *审批审批* |
 | -- | -- |
-| **接口地址** | */approvals/other/{id}* |
+| **接口地址** | */approvals/projects/{id}* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

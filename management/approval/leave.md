@@ -28,7 +28,8 @@
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----||id|ID|<code>string</code>|是|暂无|无|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
 |stime|开始时间|<code>string</code>|是|暂无|无|
 |etime|结束时间|<code>string</code>|是|暂无|无|
 |reason|请假理由|<code>string</code>|是|暂无|无|

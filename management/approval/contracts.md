@@ -117,6 +117,13 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |images|合同图片|<code>object</code>|否|暂无|无|
 
+参数项：customer
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|客户ID|<code>string</code>|是|暂无|无|
+|name|公司名称|<code>string</code>|是|暂无|无|
+
 参数项：approver、creator、headcontractor、ourcontractor、custcontractor
 
 |编码|名称|类型|必输|说明|默认值|

@@ -21,6 +21,6 @@
        * [加班审批](management/approval/overtime.md)
        * [其他审批](management/approval/other.md)
        * [财务审批](management/approval/finance.md)
-       * 项目审批
+       * [项目审批](management/approval/project.md)
 * [其他](other/README.md)
 

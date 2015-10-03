@@ -125,9 +125,10 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|name|加班名称|<code>string</code>|是|暂无|无|
-|sum|金额|<code>number</code>|是|暂无|无|
-|idesc|加班描述|<code>string</code>|是|暂无|无|
+|id|ID|<code>string</code>|是|暂无|无|
+|reason|加班内容|<code>string</code>|是|暂无|无|
+|startdate|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|enddate|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数

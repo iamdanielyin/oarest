@@ -13,7 +13,7 @@
    * [公告](app/notices.md)
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
-   * [管理相关](management/aboutmg.md)
+   * [管理相关](management/aboutmg/README.md)
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
 * [其他](other/README.md)

@@ -15,5 +15,6 @@
 * [管理](management/README.md)
    * 日程
    * 审批
+   * 简报
 * [其他](other/README.md)
 

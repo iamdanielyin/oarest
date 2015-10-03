@@ -20,5 +20,6 @@
        * [报销审批](management/approval/expense.md)
        * [加班审批](management/approval/overtime.md)
        * [其他审批](management/approval/other.md)
+       * 财务审批
 * [其他](other/README.md)
 

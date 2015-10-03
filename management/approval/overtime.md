@@ -125,7 +125,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
 |reason|加班内容|<code>string</code>|是|暂无|无|
 |startdate|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |enddate|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|

@@ -126,7 +126,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |name|报销名称|<code>string</code>|是|暂无|无|
-|sum|金额|<code>string</code>|是|暂无|无|
+|sum|金额|<code>numb</code>|是|暂无|无|
 |idesc|报销描述|<code>string</code>|是|暂无|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 

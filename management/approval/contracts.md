@@ -166,7 +166,7 @@
 |headcontractor|合同负责人|<code>string</code>|是|暂无|无|
 |ourcontractor|我方签约人|<code>string</code>|是|暂无|无|
 |custcontractor|客户签约人|<code>string</code>|是|暂无|无|
-|paymethod|支付方式|<code>string</code>|是|暂无|无|
+|paymethod|支付方式|<code>digi</code>|是|暂无|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|

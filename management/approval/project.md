@@ -44,12 +44,6 @@
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
-
-
-|id|ID|<code>string</code>|是|暂无|无|
-|name|项目名称|<code>string</code>|是|暂无|无|
-|idesc|项目描述|<code>string</code>|是|暂无|无|
-
 参数项：approver、creator
 
 |编码|名称|类型|必输|说明|默认值|

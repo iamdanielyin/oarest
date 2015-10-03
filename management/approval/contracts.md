@@ -31,15 +31,15 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
-|customer|客户|<code>string</code>|是|暂无|无|
-|totalamount|总金额|<code>string</code>|是|暂无|无|
-|signdate|签约日期|<code>string</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
-|enddate|结束日期|<code>string</code>|是|暂无|无|
-|headcontractor|合同负责人|<code>string</code>|是|暂无|无|
-|ourcontractor|我方签约人|<code>string</code>|是|暂无|无|
-|custcontractor|客户签约人|<code>string</code>|是|暂无|无|
-|paymethod|支付方式|<code>string</code>|是|暂无|无|
+|customer|客户|<code>object</code>|是|暂无|无|
+|totalamount|总金额|<code>number</code>|是|暂无|无|
+|signdate|签约日期|<code>string</code>|是|yyyy-MM-dd|无|
+|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
+|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
+|headcontractor|合同负责人|<code>object</code>|否|暂无|无|
+|ourcontractor|我方签约人|<code>object</code>|否|暂无|无|
+|custcontractor|客户签约人|<code>object</code>|否|暂无|无|
+|paymethod|支付方式|<code>digit</code>|是|0支票，1现金，2网上转账，3其他|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
@@ -50,7 +50,14 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |images|合同图片|<code>object</code>|否|暂无|无|
 
-参数项：approver、creator
+参数项：customer
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|客户ID|<code>string</code>|是|暂无|无|
+|name|公司名称|<code>string</code>|是|暂无|无|
+
+参数项：approver、creator、headcontractor、ourcontractor、custcontractor
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

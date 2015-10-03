@@ -133,7 +133,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
 |idesc|描述|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|

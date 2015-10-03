@@ -14,6 +14,6 @@
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
    * [单据审批](approval.md)
-   * [管理相关](aboutmg.md)
+   * [管理相关](management/aboutmg.md)
 * [其他](other/README.md)
 

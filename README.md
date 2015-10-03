@@ -5,7 +5,7 @@
 * 接口字符编码为UTF-8
 * 访问所有非公共开放接口需上传access_token，access_token值具有时效性，超过有效时间后，需通过登录重新获取access_token，具体接口见报文定义。
 * 时间字段如未额外标注，默认格式为:yyyy-MM-dd HH:mm:ss，例如2015-09-01 12:30:57
-* 接口字段类型约定：string字符串；digit整数；number浮点数；boolean布尔值(true/falsed)
+* 接口字段类型约定：string字符串；digit整数；number浮点数；boolean布尔值(true/false)
 * 后台超级管理员账号：admin/admin123
 * 测试用户账号：test1/123456、test2/123456、test3/123456、test4/123456
 * 接口地址组成：http://{服务端地址}:{服务器端口}/{接口地址}

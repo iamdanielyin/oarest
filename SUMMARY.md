@@ -13,5 +13,6 @@
    * [公告](app/notices.md)
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
+   * 日程
 * [其他](other/README.md)
 

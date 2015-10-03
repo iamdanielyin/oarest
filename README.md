@@ -7,10 +7,10 @@
 * 时间字段如未额外标注，默认格式为:yyyy-MM-dd HH:mm:ss，例如2015-09-01 12:30:57
 * 接口字段类型约定：
  * string字符串，如：tes；
- * digit整数，如：123）；
- * number浮点数，如：123.4）；
- * boolean布尔值，如：true/false）；
- * object对象，如：{"code":"编码"}）；
+ * digit整数，如：123；
+ * number浮点数，如：123.4；
+ * boolean布尔值，如：true/false；
+ * object对象，如：{"code":"编码"}；
  * array数组，如：[{"code":"编码1"},{"code":"编码2"}]。
 * 后台超级管理员账号：admin/admin123
 * 测试用户账号：test1/123456、test2/123456、test3/123456、test4/123456

@@ -32,8 +32,8 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
 |idesc|描述|<code>string</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
-|enddate|结束日期|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
+|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
 |sum|项目金额|<code>string</code>|是|暂无|无|
 |mcoin|项目M币|<code>string</code>|是|暂无|无|
 |starval|项目星值|<code>string</code>|是|暂无|无|

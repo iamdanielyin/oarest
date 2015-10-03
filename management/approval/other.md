@@ -30,9 +30,9 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|name|报销名称|<code>string</code>|是|暂无|无|
+|name|其他名称|<code>string</code>|是|暂无|无|
 |sum|金额|<code>number</code>|是|暂无|无|
-|idesc|报销描述|<code>string</code>|是|暂无|无|
+|idesc|其他描述|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
@@ -81,9 +81,9 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|name|报销名称|<code>string</code>|是|暂无|无|
+|name|其他名称|<code>string</code>|是|暂无|无|
 |sum|金额|<code>number</code>|是|暂无|无|
-|idesc|报销描述|<code>string</code>|是|暂无|无|
+|idesc|其他描述|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
@@ -125,9 +125,9 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|name|报销名称|<code>string</code>|是|暂无|无|
+|name|其他名称|<code>string</code>|是|暂无|无|
 |sum|金额|<code>number</code>|是|暂无|无|
-|idesc|报销描述|<code>string</code>|是|暂无|无|
+|idesc|其他描述|<code>string</code>|是|暂无|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数

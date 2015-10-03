@@ -175,7 +175,7 @@
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-|images|合同图片链接|<code>string</code>|否|暂无|无|
+|images|合同图片链接|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

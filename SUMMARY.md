@@ -15,5 +15,6 @@
 * [管理](management/README.md)
    * [管理相关](management/aboutmg.md)
    * [审批单据](management/approval.md)
+       * 请假审批
 * [其他](other/README.md)
 

@@ -3,7 +3,7 @@
 
 | 接口名称 | *审批列表* |
 | -- | -- |
-| **接口地址** | */leave* |
+| **接口地址** | */approvals/leave* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

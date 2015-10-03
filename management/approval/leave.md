@@ -63,7 +63,7 @@
 
 | 接口名称 | *审批详情* |
 | -- | -- |
-| **接口地址** | */approvals/leaves* |
+| **接口地址** | */approvals/leaves/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

@@ -3,7 +3,7 @@
 
 | 接口名称 | *审批列表* |
 | -- | -- |
-| **接口地址** | */approvals/leaves* |
+| **接口地址** | */approvals/expense* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -30,17 +30,15 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|reason|请假理由|<code>string</code>|是|暂无|无|
-|leavetype|请假类型|<code>digit</code>|是|0病假，1事假，2其他|无|
+|name|报销名称|<code>string</code>|是|暂无|无|
+|sum|金额|<code>number</code>|是|暂无|无|
+|idesc|报销描述|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-
 
 参数项：approver、creator
 
@@ -63,7 +61,7 @@
 
 | 接口名称 | *审批详情* |
 | -- | -- |
-| **接口地址** | */approvals/leaves/{id}* |
+| **接口地址** | */approvals/expense/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -83,10 +81,9 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|reason|请假理由|<code>string</code>|是|暂无|无|
-|leavetype|请假类型|<code>digit</code>|是|0病假，1事假，2其他|无|
+|name|报销名称|<code>string</code>|是|暂无|无|
+|sum|金额|<code>number</code>|是|暂无|无|
+|idesc|报销描述|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
@@ -119,7 +116,7 @@
 
 | 接口名称 | *新增审批* |
 | -- | -- |
-| **接口地址** | */approvals/leaves* |
+| **接口地址** | */approvals/expense* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -128,10 +125,9 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|reason|请假理由|<code>string</code>|是|暂无|无|
-|leavetype|请假类型|<code>digit</code>|是|0病假，1事假，2其他|无|
+|name|报销名称|<code>string</code>|是|暂无|无|
+|sum|金额|<code>number</code>|是|暂无|无|
+|idesc|报销描述|<code>string</code>|是|暂无|无|
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数
@@ -156,7 +152,7 @@
 
 | 接口名称 | *删除审批* |
 | -- | -- |
-| **接口地址** | */approvals/leaves/{id}* |
+| **接口地址** | */approvals/expense/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -183,7 +179,7 @@
 
 | 接口名称 | *审批审批* |
 | -- | -- |
-| **接口地址** | */approvals/leaves/{id}* |
+| **接口地址** | */approvals/expense/{id}* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

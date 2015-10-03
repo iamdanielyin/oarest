@@ -13,7 +13,6 @@
    * [公告](app/notices.md)
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
-   * 审批
    * 简报
    * 考勤
    * 人员

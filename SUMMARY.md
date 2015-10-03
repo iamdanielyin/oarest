@@ -13,7 +13,6 @@
    * [公告](app/notices.md)
    * [日志](app/worklogs.md)
 * [管理](management/README.md)
-   * 考勤
    * 人员
    * 部门
    * 投票

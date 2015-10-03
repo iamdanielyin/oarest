@@ -125,10 +125,11 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|stime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|etime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|reason|报销理由|<code>string</code>|是|暂无|无|
-|leavetype|报销类型|<code>digit</code>|是|0病假，1事假，2其他|无|
+|name|报销名称|<code>string</code>|是|暂无|无|
+|sum|金额|<code>string</code>|是|暂无|无|
+|idesc|报销描述|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|暂无|无|
+
 |approver|审批人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数

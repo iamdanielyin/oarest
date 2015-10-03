@@ -28,10 +28,18 @@
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|title|标题|<code>string</code>|是|暂无|无|
-|content|内容|<code>string</code>|是|暂无|无|
+|:---|:---|:---|:--:|:---|:-----||id|ID|<code>string</code>|是|暂无|无|
+|stime|开始时间|<code>string</code>|是|暂无|无|
+|etime|结束时间|<code>string</code>|是|暂无|无|
+|reason|请假理由|<code>string</code>|是|暂无|无|
+|leavetype|请假类型|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|暂无|无|
+|status|审批状态|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例

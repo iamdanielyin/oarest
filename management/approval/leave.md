@@ -68,7 +68,7 @@
 
 | 接口名称 | *新增审批* |
 | -- | -- |
-| **接口地址** | */leave* |
+| **接口地址** | *//approvals/leaves* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

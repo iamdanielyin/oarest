@@ -17,7 +17,7 @@
        * [用户管理](management/aboutmg/users.md)
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
-       * [报销审批](management/approval/reimburse.md)
+       * [报销审批](management/approval/expense.md)
        * [加班审批](management/approval/overtime.md)
        * 其他审批
 * [其他](other/README.md)

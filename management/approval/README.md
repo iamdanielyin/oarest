@@ -27,9 +27,9 @@
   * [执行审批](./other.md)
 * 合同审批
   * [审批列表](./contracts.md)
-  * 新增审批
-  * 删除审批
-  * 执行审批
+  * [新增审批](./contracts.md)
+  * [删除审批](./contracts.md)
+  * [执行审批](./contracts.md)
 * 财务审批
   * 审批列表
   * 新增审批

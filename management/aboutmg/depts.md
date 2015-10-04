@@ -48,7 +48,7 @@
 
 | 接口名称 | *部门检索* |
 | -- | -- |
-| **接口地址** | */depts/condition* |
+| **接口地址** | */depts/{id}/users* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -60,7 +60,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |flag|查询标识|<code>digit</code>|是|0全部，1成员关键字检索|无|
-|keyword||<code>string</code>|是|暂无索|无|
+|keyword|关键字|<code>string</code>|是|暂无索|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

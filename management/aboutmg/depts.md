@@ -143,24 +143,8 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|部门名|<code>string</code>|否|唯一|无|
-|realname|姓名|<code>string</code>|否|暂无|无|
-|dept|部门ID|<code>string</code>|否|暂无|无|
-|profession|职位|<code>string</code>|否|暂无|无|
-|superior|上级领导ID|<code>string</code>|否|暂无|无|
-|isboss|是否老板|<code>boolean</code>|否|暂无|false|
-|headportrait|头像链接|<code>string</code>|否|暂无|无|
-|sex|性别|<code>digit</code>|否|0男，1女|无|
-|mobile1|手机号码1|<code>string</code>|否|唯一|无|
-|mobile2|手机号码2|<code>string</code>|否|唯一|无|
-|mobile3|手机号码3|<code>string</code>|否|唯一|无|
-|qq|QQ|<code>string</code>|否|唯一|无|
-|weixin|微信|<code>string</code>|否|唯一|无|
-|mail|邮箱|<code>string</code>|否|唯一|无|
-|curmcoin|当前M币|<code>digit</code>|否|暂无|0|
-|curstarval|当前星值|<code>digit</code>|否|暂无|0|
-|totalmcoin|累计M币|<code>digit</code>|否|暂无|0|
-|totalstarval|累计星值|<code>digit</code>|否|暂无|0|
+|name|名称|<code>string</code>|是|暂无|无|
+|user|负责人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

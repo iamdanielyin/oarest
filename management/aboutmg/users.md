@@ -83,7 +83,7 @@
 |isboss|是否老板|<code>boolean</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
-|sex|性别|<code>digi</code>|是|暂无|无|
+|sex|性别|<code>digit</code>|是|0男，1女|无|
 |dept|部门|<code>object</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |superior|上级领导|<code>object</code>|是|暂无|无|

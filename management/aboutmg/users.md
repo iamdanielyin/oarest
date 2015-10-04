@@ -159,7 +159,7 @@ Content-Type: application/x-www-form-urlencoded
 
 title=用户标题&content=用户内容
 ———————————————————————————————————————————————————————————
-
+暂无
 ```
 
 ***
@@ -188,15 +188,7 @@ title=用户标题&content=用户内容
 ##接口示例
 
 ```
-DELETE /oa/users/ebba0834-e5b6-4fec-b01f-1a9d4e2b3f7f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
+
 ```
 
 ***

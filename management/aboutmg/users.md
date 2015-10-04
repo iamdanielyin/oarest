@@ -30,7 +30,7 @@
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |sex|性别|<code>string</code>|是|暂无|无|
-|dept|部门|<code>string</code>|是|暂无|无|
+|dept|部门|<code>object</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
 

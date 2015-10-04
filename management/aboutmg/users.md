@@ -144,13 +144,13 @@
 |:---|:---|:---|:--:|:---|:-----|
 |username|用户名|<code>string</code>|是|唯一|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
+|dept|部门ID|<code>string</code>|是|暂无|无|
+|profession|职位|<code>string</code>|是|暂无|无|
+|superior|上级领导ID|<code>string</code>|是|暂无|无|
 |password|密码|<code>string</code>|否|暂无|123456|
 |isboss|是否老板|<code>boolean</code>|否|暂无|false|
 |headportrait|头像链接|<code>string</code>|否|暂无|无|
 |sex|性别|<code>digit</code>|否|0男，1女|无|
-|dept|部门ID|<code>string</code>|是|暂无|无|
-|profession|职位|<code>string</code>|是|暂无|无|
-|superior|上级领导ID|<code>string</code>|是|暂无|无|
 |mobile1|手机号码1|<code>string</code>|否|暂无|无|
 |mobile2|手机号码2|<code>string</code>|否|暂无|无|
 |mobile3|手机号码3|<code>string</code>|否|暂无|无|

@@ -156,6 +156,7 @@ Cache-Control: no-cache
 |data|数据详细|<code>object</code>|是|暂无|无|
 
 参数项：data
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|

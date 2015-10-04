@@ -194,7 +194,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|用户名|<code>string</code>|是|唯一|无|
+|username|用户名|<code>string</code>||唯一|无|
 |realname|姓名|<code>string</code>|否|暂无|无|
 |dept|部门ID|<code>string</code>|否|暂无|无|
 |profession|职位|<code>string</code>|否|暂无|无|

@@ -34,7 +34,7 @@
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
 
-参数项：creator
+参数项：dept
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

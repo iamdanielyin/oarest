@@ -26,7 +26,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
-|user|姓名|<code>object</code>|是|暂无|无|
+|user|负责人|<code>object</code>|是|暂无|无|
 
 参数项：user
 

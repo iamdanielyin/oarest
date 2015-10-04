@@ -236,7 +236,7 @@
 | 接口名称 | *删除成员* |
 | -- | -- |
 | **接口地址** | */depts/{id}/users* |
-| **请求方式** | <mark>DELET</mark> |
+| **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 
 ##请求参数

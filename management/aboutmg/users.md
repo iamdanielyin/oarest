@@ -3,7 +3,7 @@
 
 | 接口名称 | *公告列表* |
 | -- | -- |
-| **接口地址** | */notices* |
+| **接口地址** | */users* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -32,7 +32,7 @@
 ##接口示例
 
 ```
-GET /oa/notices?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
+GET /oa/users?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache 
 ———————————————————————————————————————————————————————————
@@ -65,7 +65,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *公告详情* |
 | -- | -- |
-| **接口地址** | */notices/{id}* |
+| **接口地址** | */users/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -99,7 +99,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/notices/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+GET /oa/users/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
@@ -133,7 +133,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *新增公告* |
 | -- | -- |
-| **接口地址** | */notices* |
+| **接口地址** | */users* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -152,7 +152,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-POST /oa/notices?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+POST /oa/users?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
@@ -192,7 +192,7 @@ title=公告标题&content=公告内容
 
 | 接口名称 | *删除公告* |
 | -- | -- |
-| **接口地址** | */notices/{id}* |
+| **接口地址** | */users/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -205,7 +205,7 @@ title=公告标题&content=公告内容
 ##接口示例
 
 ```
-DELETE /oa/notices/ebba0834-e5b6-4fec-b01f-1a9d4e2b3f7f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+DELETE /oa/users/ebba0834-e5b6-4fec-b01f-1a9d4e2b3f7f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————

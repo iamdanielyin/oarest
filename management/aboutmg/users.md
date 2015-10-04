@@ -147,7 +147,7 @@
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |sex|性别|<code>digit</code>|是|0男，1女|无|
-|dept|部门ID|<code>object</code>|是|暂无|无|
+|dept|部门ID|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |superior|上级领导|<code>object</code>|是|暂无|无|
 |mobile1|手机号码1|<code>string</code>|否|暂无|无|

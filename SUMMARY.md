@@ -15,7 +15,7 @@
 * [管理](management/README.md)
    * [管理相关](management/aboutmg/README.md)
        * [用户管理](management/aboutmg/users.md)
-       * 部门管理
+       * [部门管理](management/aboutmg/depts.md)
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
        * [报销审批](management/approval/expense.md)

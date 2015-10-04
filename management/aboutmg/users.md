@@ -169,13 +169,6 @@
 ##接口示例
 
 ```
-POST /oa/users?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
-
-title=用户标题&content=用户内容
-———————————————————————————————————————————————————————————
 暂无
 ```
 

@@ -109,7 +109,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |name|名称|<code>string</code>|是|暂无|无|
-|user|负责人ID|<code>strin</code>|是|暂无|无|
+|user|负责人ID|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

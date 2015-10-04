@@ -32,7 +32,6 @@
 |sex|性别|<code>string</code>|是|暂无|无|
 |dept|部门|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
-|superior|上级领导|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
 |qq|QQ|<code>string</code>|是|暂无|无|
 |weixin|微信|<code>string</code>|是|暂无|无|

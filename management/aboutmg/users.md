@@ -40,7 +40,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
+|user|姓名|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

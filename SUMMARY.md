@@ -23,5 +23,6 @@
        * [财务审批](management/approval/finance.md)
        * [项目审批](management/approval/project.md)
        * [合同审批](management/approval/contracts.md)
+       * 工作审批
 * [其他](other/README.md)
 

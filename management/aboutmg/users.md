@@ -199,7 +199,6 @@
 |dept|部门ID|<code>string</code>|否|暂无|无|
 |profession|职位|<code>string</code>|否|暂无|无|
 |superior|上级领导ID|<code>string</code>|否|暂无|无|
-|password|密码|<code>string</code>|否|暂无|123456|
 |isboss|是否老板|<code>boolean</code>|否|暂无|false|
 |headportrait|头像链接|<code>string</code>|否|暂无|无|
 |sex|性别|<code>digit</code>|否|0男，1女|无|

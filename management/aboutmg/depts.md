@@ -1,7 +1,7 @@
-#用户列表
+#部门列表
 >按时间逆序排列
 
-| 接口名称 | *用户列表* |
+| 接口名称 | *部门列表* |
 | -- | -- |
 | **接口地址** | */users* |
 | **请求方式** | <mark>GET</mark> |
@@ -18,14 +18,14 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|用户数组|<code>array</code>|是|暂无|无|
+|data|部门数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|username|用户名|<code>string</code>|是|暂无|无|
+|username|部门名|<code>string</code>|是|暂无|无|
 |isboss|是否老板|<code>boolean</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
@@ -59,10 +59,10 @@
 
 
 
-#用户详情
+#部门详情
 >暂无
 
-| 接口名称 | *用户详情* |
+| 接口名称 | *部门详情* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
 | **请求方式** | <mark>GET</mark> |
@@ -79,7 +79,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|username|用户名|<code>string</code>|是|暂无|无|
+|username|部门名|<code>string</code>|是|暂无|无|
 |isboss|是否老板|<code>boolean</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
@@ -127,11 +127,11 @@
 
 
 
-#新增用户
+#新增部门
 >需具备【组织架构】权限
 
 
-| 接口名称 | *新增用户* |
+| 接口名称 | *新增部门* |
 | -- | -- |
 | **接口地址** | */users* |
 | **请求方式** | <mark>POST</mark> |
@@ -142,7 +142,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|用户名|<code>string</code>|是|唯一|无|
+|username|部门名|<code>string</code>|是|唯一|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |dept|部门ID|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
@@ -180,10 +180,10 @@
 
 
 
-#修改用户
->需具备【用户管理】权限，只需提供需要修改的资料项即可
+#修改部门
+>需具备【部门管理】权限，只需提供需要修改的资料项即可
 
-| 接口名称 | *修改用户* |
+| 接口名称 | *修改部门* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
 | **请求方式** | <mark>PATCH</mark> |
@@ -194,7 +194,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|用户名|<code>string</code>|否|唯一|无|
+|username|部门名|<code>string</code>|否|唯一|无|
 |realname|姓名|<code>string</code>|否|暂无|无|
 |dept|部门ID|<code>string</code>|否|暂无|无|
 |profession|职位|<code>string</code>|否|暂无|无|
@@ -227,10 +227,10 @@
 
 
 
-#删除用户
->需具备【用户管理】权限且要删除的用户
+#删除部门
+>需具备【部门管理】权限且要删除的部门
 
-| 接口名称 | *删除用户* |
+| 接口名称 | *删除部门* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
 | **请求方式** | <mark>DELETE</mark> |

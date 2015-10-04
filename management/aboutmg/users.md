@@ -109,7 +109,7 @@
 |name|名称|<code>string</code>|是|暂无|无|
 |user|姓名|<code>object</code>|是|暂无|无|
 
-参数项：superior
+参数项：superior、dept.user
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

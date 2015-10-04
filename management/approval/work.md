@@ -32,7 +32,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |title|任务标题|<code>string</code>|是|暂无|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
-|status|任务状态|<code>digit</code>|是|暂无|无|
+|status|任务状态|<code>digit</code>|是|0进行中，1已汇报，2已完成|无|
 |startdate|计划开始日期|<code>string</code>|是|暂无|无|
 |enddate|计划结束日期|<code>string</code>|是|暂无|无|
 |reportdate|汇报时间|<code>string</code>|是|暂无|无|

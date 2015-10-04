@@ -48,7 +48,7 @@
 |attachs|任务附件|<code>array</code>|是|暂无|无|
 
 
-参数项：approver、creator
+参数项：creator、operators
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

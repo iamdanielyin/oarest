@@ -34,13 +34,6 @@
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
 
-
-
-
-|id|ID|<code>string</code>|是|暂无|无|
-|title|用户标题|<code>string</code>|是|暂无|无|
-|content|用户内容|<code>string</code>|是|暂无|无|
-
 ##接口示例
 
 ```

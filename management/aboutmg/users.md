@@ -120,10 +120,7 @@
 ##接口示例
 
 ```
-GET /oa/users/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-———————————————————————————————————————————————————————————
+
 暂无
 ```
 

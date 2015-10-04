@@ -33,9 +33,6 @@
 |dept|部门|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
-|qq|QQ|<code>string</code>|是|暂无|无|
-|weixin|微信|<code>string</code>|是|暂无|无|
-|mail|邮箱|<code>string</code>|是|暂无|无|
 |curmcoin|当前M币|<code>string</code>|是|暂无|无|
 |curstarval|当前星值|<code>string</code>|是|暂无|无|
 |totalmcoin|累计M币|<code>string</code>|是|暂无|无|

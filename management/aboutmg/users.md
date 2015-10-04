@@ -29,7 +29,7 @@
 |isboss|是否老板|<code>boolean</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
-|sex|性别|<code>digi</code>|是|0男，1女|无|
+|sex|性别|<code>digit</code>|是|0男，1女|无|
 |dept|部门|<code>object</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
@@ -124,24 +124,7 @@ GET /oa/users/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMx
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "data": {
-        "creator": {
-            "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
-            "id": "d47539b3-9820-4086-9582-f629d2ef0630",
-            "realname": "王五"
-        },
-        "createtime": "2015-10-01 17:42:44",
-        "modifytime": "2015-10-01 17:43:10",
-        "remark": "",
-        "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-        "title": "用户1",
-        "content": "用户内容1用户内容1用户内容1用户内容1"
-    },
-    "usermsg": "正常"
-}
+暂无
 ```
 
 

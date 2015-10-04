@@ -1,7 +1,7 @@
-#公告列表
+#用户列表
 >按时间逆序排列
 
-| 接口名称 | *公告列表* |
+| 接口名称 | *用户列表* |
 | -- | -- |
 | **接口地址** | */users* |
 | **请求方式** | <mark>GET</mark> |
@@ -18,15 +18,15 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|公告数组|<code>array</code>|是|暂无|无|
+|data|用户数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|公告标题|<code>string</code>|是|暂无|无|
-|content|公告内容|<code>string</code>|是|暂无|无|
+|title|用户标题|<code>string</code>|是|暂无|无|
+|content|用户内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例
@@ -43,14 +43,14 @@ Cache-Control: no-cache
         {
             "createtime": "2015-10-01 17:42:44",
             "id": "25b4c3f3-b8b6-4f3f-afb0-35caca43d252",
-            "title": "公告2",
-            "content": "公告内容2公告内容2公告内容2"
+            "title": "用户2",
+            "content": "用户内容2用户内容2用户内容2"
         },
         {
             "createtime": "2015-10-01 17:42:44",
             "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-            "title": "公告1",
-            "content": "公告内容1公告内容1公告内容1公告内容1"
+            "title": "用户1",
+            "content": "用户内容1用户内容1用户内容1用户内容1"
         }
     ],
     "usermsg": "正常"
@@ -60,10 +60,10 @@ Cache-Control: no-cache
 
 
 
-#公告详情
+#用户详情
 >暂无
 
-| 接口名称 | *公告详情* |
+| 接口名称 | *用户详情* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
 | **请求方式** | <mark>GET</mark> |
@@ -116,8 +116,8 @@ Cache-Control: no-cache
         "modifytime": "2015-10-01 17:43:10",
         "remark": "",
         "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-        "title": "公告1",
-        "content": "公告内容1公告内容1公告内容1公告内容1"
+        "title": "用户1",
+        "content": "用户内容1用户内容1用户内容1用户内容1"
     },
     "usermsg": "正常"
 }
@@ -127,11 +127,11 @@ Cache-Control: no-cache
 
 
 
-#新增公告
->需具备【公告管理】权限
+#新增用户
+>需具备【用户管理】权限
 
 
-| 接口名称 | *新增公告* |
+| 接口名称 | *新增用户* |
 | -- | -- |
 | **接口地址** | */users* |
 | **请求方式** | <mark>POST</mark> |
@@ -157,7 +157,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=公告标题&content=公告内容
+title=用户标题&content=用户内容
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",
@@ -172,8 +172,8 @@ title=公告标题&content=公告内容
         "modifytime": "2015-10-01 17:43:10",
         "remark": "",
         "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-        "title": "公告1",
-        "content": "公告内容1公告内容1公告内容1公告内容1"
+        "title": "用户1",
+        "content": "用户内容1用户内容1用户内容1用户内容1"
     },
     "usermsg": "正常"
 }
@@ -187,10 +187,10 @@ title=公告标题&content=公告内容
 
 
 
-#删除公告
->需具备【公告管理】权限
+#删除用户
+>需具备【用户管理】权限
 
-| 接口名称 | *删除公告* |
+| 接口名称 | *删除用户* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
 | **请求方式** | <mark>DELETE</mark> |

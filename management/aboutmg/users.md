@@ -33,10 +33,6 @@
 |dept|部门|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码|<code>string</code>|是|暂无|无|
-|curmcoin|当前M币|<code>string</code>|是|暂无|无|
-|curstarval|当前星值|<code>string</code>|是|暂无|无|
-|totalmcoin|累计M币|<code>string</code>|是|暂无|无|
-|totalstarval|累计星值|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 

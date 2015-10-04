@@ -16,10 +16,10 @@
   * [删除审批](./overtime.md)
   * [执行审批](./overtime.md)
 * 工作审批
-  * [审批列表](../app/tasks.md)
-  * [新增审批](../app/tasks.md)
-  * [删除审批](../app/tasks.md)
-  * [执行审批](../app/tasks.md)
+  * [审批列表](../../app/tasks.md)
+  * [新增审批](../../app/tasks.md)
+  * [删除审批](../../app/tasks.md)
+  * [执行审批](../../app/tasks.md)
 * 其他审批
   * [审批列表](./other.md)
   * [新增审批](./other.md)

@@ -80,12 +80,11 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |username|用户名|<code>string</code>|是|暂无|无|
-|password|密码|<code>string</code>|是|暂无|无|
 |isboss|是否老板|<code>string</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |sex|性别|<code>string</code>|是|暂无|无|
-|dept|部门|<code>objec</code>|是|暂无|无|
+|dept|部门|<code>object</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |superior|上级领导|<code>object</code>|是|暂无|无|
 |mobile1|手机号码1|<code>string</code>|否|暂无|无|

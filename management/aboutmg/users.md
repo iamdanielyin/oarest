@@ -53,7 +53,7 @@
 ##接口示例
 
 ```
-
+暂无
 ```
 
 
@@ -78,6 +78,32 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|username|用户名|<code>string</code>|是|暂无|无|
+|password|密码|<code>string</code>|是|暂无|无|
+|isboss|是否老板|<code>string</code>|是|暂无|无|
+|headportrait|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
+|sex|性别|<code>string</code>|是|暂无|无|
+|dept|部门|<code>string</code>|是|暂无|无|
+|profession|职位|<code>string</code>|是|暂无|无|
+|superior|上级领导|<code>string</code>|是|暂无|无|
+|mobile1|手机号码1|<code>string</code>|是|暂无|无|
+|mobile2|手机号码2|<code>string</code>|是|暂无|无|
+|mobile3|手机号码3|<code>string</code>|是|暂无|无|
+|qq|QQ|<code>string</code>|是|暂无|无|
+|weixin|微信|<code>string</code>|是|暂无|无|
+|mail|邮箱|<code>string</code>|是|暂无|无|
+|curmcoin|当前M币|<code>string</code>|是|暂无|无|
+|curstarval|当前星值|<code>string</code>|是|暂无|无|
+|totalmcoin|累计M币|<code>string</code>|是|暂无|无|
+|totalstarval|累计星值|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
+
+
+
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|

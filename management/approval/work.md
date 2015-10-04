@@ -35,8 +35,8 @@
 |status|任务状态|<code>digit</code>|是|0进行中，1已汇报，2已完成|无|
 |startdate|计划开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|计划结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|reportdate|汇报时间|<code>string</code>|是|暂无|无|
-|finishdate|完成时间|<code>string</code>|是|暂无|无|
+|reportdate|汇报时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|finishdate|完成时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |mcoin|任务M币|<code>string</code>|是|暂无|无|
 |starval|任务星值|<code>string</code>|是|暂无|无|
 |isdailytask|是否日常任务|<code>string</code>|是|暂无|无|

@@ -145,7 +145,7 @@
 |username|用户名|<code>string</code>|是|唯一|无|
 |password|密码|<code>string</code>|否|暂无|123456|
 |isboss|是否老板|<code>boolean</code>|否|暂无|false|
-|headportrait|头像链接|<code>string</code>|是|暂无|无|
+|headportrait|头像链接|<code>string</code>|否|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |sex|性别|<code>digit</code>|是|0男，1女|无|
 |dept|部门ID|<code>string</code>|是|暂无|无|

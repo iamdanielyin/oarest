@@ -55,7 +55,6 @@
 |idesc|工作描述|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
-|creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 参数项：approver、creator
 

@@ -156,10 +156,10 @@
 |qq|QQ|<code>string</code>|否|暂无|无|
 |weixin|微信|<code>string</code>|否|暂无|无|
 |mail|邮箱|<code>string</code>|否|暂无|无|
-|curmcoin|当前M币|<code>digit</code>|是|暂无|无|
-|curstarval|当前星值|<code>digit</code>|是|暂无|无|
-|totalmcoin|累计M币|<code>digit</code>|是|暂无|无|
-|totalstarval|累计星值|<code>digit</code>|是|暂无|无|
+|curmcoin|当前M币|<code>digit</code>|否|暂无|0|
+|curstarval|当前星值|<code>digit</code>|否|暂无|0|
+|totalmcoin|累计M币|<code>digit</code>|否|暂无|0|
+|totalstarval|累计星值|<code>digit</code>|否|暂无|0|
 
 ##返回参数
 [<公共返回参数>](../README.md)

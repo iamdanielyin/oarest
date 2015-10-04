@@ -87,7 +87,7 @@
 |sex|性别|<code>string</code>|是|暂无|无|
 |dept|部门|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
-|superior|上级领导|<code>string</code>|是|暂无|无|
+|superior|上级领导|<code>object</code>|是|暂无|无|
 |mobile1|手机号码1|<code>string</code>|否|暂无|无|
 |mobile2|手机号码2|<code>string</code>|否|暂无|无|
 |mobile3|手机号码3|<code>string</code>|否|暂无|无|

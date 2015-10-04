@@ -143,7 +143,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |username|用户名|<code>string</code>|是|暂无|无|
-|isboss|是否老板|<code>boolean</code>|是|暂无|无|
+|isboss|是否老板|<code>boolean</code>|否|暂无|fals|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |sex|性别|<code>digit</code>|是|0男，1女|无|

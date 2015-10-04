@@ -26,7 +26,6 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |username|用户名|<code>string</code>|是|暂无|无|
-|password|密码|<code>string</code>|是|暂无|无|
 |isboss|是否老板|<code>string</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|

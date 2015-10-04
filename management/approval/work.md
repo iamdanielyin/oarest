@@ -43,8 +43,9 @@
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|暂无|无|
-|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
-|operators|执行人数组|<code>arra</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|attach
+|operators|执行人数组|<code>array</code>|是|暂无|无|
+|operators|执行人数组|<code>array</code>|是|暂无|无|
 
 
 

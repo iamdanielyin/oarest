@@ -101,7 +101,13 @@
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
+参数项：dept
 
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|name|名称|<code>string</code>|是|暂无|无|
+|user|姓名|<code>object</code>|是|暂无|无|
 
 参数项：superior
 

@@ -34,7 +34,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |header|头像链接|<code>string</code>|是|暂无|无|
-|realname|负责人|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

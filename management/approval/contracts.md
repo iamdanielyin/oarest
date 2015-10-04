@@ -167,7 +167,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
 |customer|客户ID|<code>string</code>|是|暂无|无|
 |totalamount|总金额|<code>number</code>|是|暂无|无|

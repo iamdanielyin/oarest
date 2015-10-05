@@ -259,19 +259,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-POST /oa/schedule?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
-
-title=日程接口5&content=日程接口内容&approver=d9a5648a-65dd-46ef-add8-4837795ce8b4&startdate=2015-10-01&enddate=2015-10-01&mcoin=1&starval=2&type=0&customers=2282a40e-c7eb-4b34-81a6-aa2efa1e6ad1%2C9005997f-8468-4f96-8e6a-06907dfb2038&tasks=243d6cd4-629b-4da8-98ac-ee1addbee2e6%2Cd78ab909-7994-4fc0-8dc9-9200e749782c&images=http%3A%2F%2Fp3.gexing.com%2Fshaitu%2F20120922%2F1519%2F505d6699e4347.jpg%2Chttp%3A%2F%2Fhiphotos.baidu.com%2F1985129%2Fpic%2Fitem%2Fd05c8ed3cc27b16e970a16b1.jpg&files=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%253D580%2Fsign%3Da574eb9cb07eca80120539efa1229712%2F16ff201f95cad1c8b0e3b1987f3e6709c83d5161.jpg
-
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
+暂无
 ```
 
 ***

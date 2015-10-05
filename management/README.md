@@ -79,7 +79,7 @@
       * [新增审批](./contracts.md)
       * [删除审批](./contracts.md)
       * [执行审批](./contracts.md)
-    * 财务审批
+    * [财务审批](./finance.md)
       * [审批列表](./finance.md)
       * [新增审批](./finance.md)
       * [删除审批](./finance.md)

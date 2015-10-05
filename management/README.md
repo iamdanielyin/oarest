@@ -84,7 +84,7 @@
       * [新增审批](./finance.md)
       * [删除审批](./finance.md)
       * [执行审批](./finance.md)
-    * 项目审批
+    * [项目审批](./project.md)
       * [审批列表](./project.md)
       * [新增审批](./project.md)
       * [删除审批](./project.md)

@@ -74,7 +74,7 @@
       * [新增审批](./approval/other.md)
       * [删除审批](./approval/other.md)
       * [执行审批](./approval/other.md)
-    * [合同审批表](./approval/contracts.md)
+    * [合同审批](./approval/contracts.md)
       * [审批列表](./approval/contracts.md)
       * [新增审批](./approval/contracts.md)
       * [删除审批](./approval/contracts.md)

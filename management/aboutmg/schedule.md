@@ -73,7 +73,6 @@
 |title|标题|<code>string</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
-|approver|审批人|<code>object</code>|否|暂无|无|
 |startdate|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |enddate|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |mcoin|M币|<code>digit</code>|是|暂无|无|

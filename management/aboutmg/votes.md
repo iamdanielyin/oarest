@@ -42,7 +42,7 @@
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
-|participants|最近修改时间|<code>string</code>|是|暂无|无|
+|participants|参与人|<code>string</code>|是|暂无|无|
 
 参数项：participants
 

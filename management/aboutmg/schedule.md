@@ -3,7 +3,7 @@
 
 | 接口名称 | *日程列表* |
 | -- | -- |
-| **接口地址** | */worklogs* |
+| **接口地址** | */schedule* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -37,7 +37,7 @@
 ##接口示例
 
 ```
-GET /oa/worklogs?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
+GET /oa/schedule?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
@@ -64,7 +64,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *日程详情* |
 | -- | -- |
-| **接口地址** | */worklogs/{id}* |
+| **接口地址** | */schedule/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -143,7 +143,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/worklogs/ec8f2320-c4f4-43e3-bae1-bf9d0294896f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
+GET /oa/schedule/ec8f2320-c4f4-43e3-bae1-bf9d0294896f?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
@@ -231,7 +231,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *新增日程* |
 | -- | -- |
-| **接口地址** | */worklogs* |
+| **接口地址** | */schedule* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -259,7 +259,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-POST /oa/worklogs?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+POST /oa/schedule?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
@@ -287,7 +287,7 @@ title=日程接口5&content=日程接口内容&approver=d9a5648a-65dd-46ef-add8-
 
 | 接口名称 | *删除日程* |
 | -- | -- |
-| **接口地址** | */worklogs/{id}* |
+| **接口地址** | */schedule/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -300,7 +300,7 @@ title=日程接口5&content=日程接口内容&approver=d9a5648a-65dd-46ef-add8-
 ##接口示例
 
 ```
-DELETE /oa/worklogs/235e711c-5a04-40d8-b07f-b4ac2d0f8e64?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+DELETE /oa/schedule/235e711c-5a04-40d8-b07f-b4ac2d0f8e64?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
@@ -322,7 +322,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *日程审批* |
 | -- | -- |
-| **接口地址** | */worklogs/{id}/approvals* |
+| **接口地址** | */schedule/{id}/approvals* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -339,7 +339,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-POST /oa/worklogs/d7374cfa-4b43-4264-ac8a-4dd6e86af020/approvals?tt=1&vn=1.0&access_token=NTNkNjE4NGMtM2NjMy00YWRkLTkzMzctNWI3ZTVhZTNlNDZj HTTP/1.1
+POST /oa/schedule/d7374cfa-4b43-4264-ac8a-4dd6e86af020/approvals?tt=1&vn=1.0&access_token=NTNkNjE4NGMtM2NjMy00YWRkLTkzMzctNWI3ZTVhZTNlNDZj HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded

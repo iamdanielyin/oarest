@@ -67,7 +67,7 @@
     * [工作审批](../approval/../approval/app/tasks.md)
       * [审批列表](../app/tasks.md)
       * [新增审批](../app/tasks.md)
-      * [删除审批](../approval/../approval/app/tasks.md)
+      * [删除审批](../app/tasks.md)
       * [执行审批](../app/tasks.md)
     * [其他审批](./approval/other.md)
       * [审批列表](./approval/other.md)

@@ -49,7 +49,7 @@
 
 
 * 审批单据
-    * [请假审批](./leave.md)
+    * [请假审批](./approval/leave.md)
       * [审批列表](./leave.md)
       * [新增审批](./leave.md)
       * [删除审批](./leave.md)

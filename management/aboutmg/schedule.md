@@ -74,7 +74,7 @@
 |content|内容|<code>string</code>|是|暂无|无|
 |startdate|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |enddate|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|mcoin|M币|<code>boolea</code>|是|暂无|无|
+|mcoin|是否提醒|<code>boolean</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|

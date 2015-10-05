@@ -130,6 +130,42 @@
 
 
 
+#新增日程
+>日程不能提交给自己审批
+
+
+| 接口名称 | *新增日程* |
+| -- | -- |
+| **接口地址** | */schedule* |
+| **请求方式** | <mark>POST</mark> |
+| **数据格式** | <code>JSON</code> |
+
+##请求参数
+[<公共传入参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|title|标题|<code>string</code>|是|暂无|无|
+|content|内容|<code>string</code>|是|暂无|无|
+|starttime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|endtime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|isremind|是否提醒|<code>boolean</code>|否|暂无|false|
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+##接口示例
+
+```
+暂无
+```
+
+***
+
+
+
+
+
 
 #删除日程
 >接口描述

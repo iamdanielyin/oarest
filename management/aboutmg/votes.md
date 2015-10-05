@@ -32,9 +32,17 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|标题|<code>string</code>|是|暂无|无|
-|starttime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|endtime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|title|投票标题|<code>string</code>|是|暂无|无|
+|content|投票描述|<code>string</code>|是|暂无|无|
+|status|投票状态|<code>string</code>|是|暂无|无|
+|type|投票类型|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|暂无|无|
+|enddate|结束日期|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
 
 ##接口示例
 

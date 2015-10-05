@@ -331,7 +331,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isremi|是否通过|<code>boolean</code>|是|暂无|无|
+|isremind|是否通过|<code>boolean</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

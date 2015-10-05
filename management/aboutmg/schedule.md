@@ -15,7 +15,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|flag|查询标识|<code>digit</code>|是|0日日程，1月日程|无|
+|starttime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 
 
 

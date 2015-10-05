@@ -169,7 +169,7 @@
 | 接口名称 | *日程提醒* |
 | -- | -- |
 | **接口地址** | */schedule/{id}/reminder* |
-| **请求方式** | <mark>POST</mark> |
+| **请求方式** | <mark>PATCH</mark> |
 | **数据格式** | <code>JSON</code> |
 
 ##请求参数

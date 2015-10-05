@@ -43,7 +43,7 @@
 |createtime|更新时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
 
-参数项：participant
+参数项：participants
 
 ##接口示例
 

@@ -300,15 +300,7 @@ title=日程接口5&content=日程接口内容&approver=d9a5648a-65dd-46ef-add8-
 ##接口示例
 
 ```
-DELETE /oa/schedule/235e711c-5a04-40d8-b07f-b4ac2d0f8e64?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
+暂无
 
 
 ```
@@ -339,7 +331,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-
+暂无
 ```
 
 ***

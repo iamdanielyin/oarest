@@ -50,7 +50,7 @@
 
 * 审批单据
     * [请假审批](./approval/leave.md)
-      * [审批列表](./approval/leave.md)
+      * [审批列表](./approval/approval/leave.md)
       * [新增审批](./approval/leave.md)
       * [删除审批](./approval/leave.md)
       * [执行审批](./approval/leave.md)

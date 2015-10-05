@@ -1,7 +1,7 @@
-#日志列表
+#日程列表
 >按时间逆序排列
 
-| 接口名称 | *日志列表* |
+| 接口名称 | *日程列表* |
 | -- | -- |
 | **接口地址** | */worklogs* |
 | **请求方式** | <mark>GET</mark> |
@@ -15,7 +15,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|flag|查询标识|<code>digit</code>|是|0我的日志，1下属日志|无|
+|flag|查询标识|<code>digit</code>|是|0我的日程，1下属日程|无|
 
 
 ##返回参数
@@ -23,7 +23,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|日志数组|<code>array</code>|是|暂无|无|
+|data|日程数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 
@@ -48,8 +48,8 @@ Cache-Control: no-cache
         {
             "createtime": "2015-10-01 19:55:58",
             "id": "ec8f2320-c4f4-43e3-bae1-bf9d0294896f",
-            "title": "日志1",
-            "content": "日志1内容"
+            "title": "日程1",
+            "content": "日程1内容"
         }
     ],
     "usermsg": "正常"
@@ -59,10 +59,10 @@ Cache-Control: no-cache
 
 
 
-#日志详情
+#日程详情
 >暂无
 
-| 接口名称 | *日志详情* |
+| 接口名称 | *日程详情* |
 | -- | -- |
 | **接口地址** | */worklogs/{id}* |
 | **请求方式** | <mark>GET</mark> |
@@ -95,14 +95,14 @@ Cache-Control: no-cache
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
-|type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
+|type|日程类型|<code>digit</code>|是|0日报，1周报，2月报|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |customers|关联客户|<code>array</code>|否|暂无|无|
 |tasks|关联任务|<code>array</code>|否|暂无|无|
-|images|日志图片|<code>array</code>|否|暂无|无|
-|files|日志附件|<code>array</code>|否|暂无|无|
+|images|日程图片|<code>array</code>|否|暂无|无|
+|files|日程附件|<code>array</code>|否|暂无|无|
 
 
 参数项：creator、approver
@@ -176,10 +176,10 @@ Cache-Control: no-cache
 		"starval":"",
 		"modifytime":"",
 		"remark":"",
-		"title":"日志1",
+		"title":"日程1",
 		"startdate":"2015-10-01 00:00:00",
 		"type":0,
-		"content":"日志1内容",
+		"content":"日程1内容",
 		"mcoin":"",
 		"enddate":"2015-10-01 00:00:00",
 		"files":[
@@ -225,11 +225,11 @@ Cache-Control: no-cache
 
 
 
-#新增日志
->日志不能提交给自己审批
+#新增日程
+>日程不能提交给自己审批
 
 
-| 接口名称 | *新增日志* |
+| 接口名称 | *新增日程* |
 | -- | -- |
 | **接口地址** | */worklogs* |
 | **请求方式** | <mark>POST</mark> |
@@ -247,11 +247,11 @@ Cache-Control: no-cache
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
-|type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
+|type|日程类型|<code>digit</code>|是|0日报，1周报，2月报|无|
 |customers|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
 |tasks|关联任务|<code>string</code>|否|任务ID，多个用英文逗号分隔|无|
-|images|日志图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
-|files|日志附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
+|images|日程图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
+|files|日程附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)
@@ -264,7 +264,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=日志接口5&content=日志接口内容&approver=d9a5648a-65dd-46ef-add8-4837795ce8b4&startdate=2015-10-01&enddate=2015-10-01&mcoin=1&starval=2&type=0&customers=2282a40e-c7eb-4b34-81a6-aa2efa1e6ad1%2C9005997f-8468-4f96-8e6a-06907dfb2038&tasks=243d6cd4-629b-4da8-98ac-ee1addbee2e6%2Cd78ab909-7994-4fc0-8dc9-9200e749782c&images=http%3A%2F%2Fp3.gexing.com%2Fshaitu%2F20120922%2F1519%2F505d6699e4347.jpg%2Chttp%3A%2F%2Fhiphotos.baidu.com%2F1985129%2Fpic%2Fitem%2Fd05c8ed3cc27b16e970a16b1.jpg&files=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%253D580%2Fsign%3Da574eb9cb07eca80120539efa1229712%2F16ff201f95cad1c8b0e3b1987f3e6709c83d5161.jpg
+title=日程接口5&content=日程接口内容&approver=d9a5648a-65dd-46ef-add8-4837795ce8b4&startdate=2015-10-01&enddate=2015-10-01&mcoin=1&starval=2&type=0&customers=2282a40e-c7eb-4b34-81a6-aa2efa1e6ad1%2C9005997f-8468-4f96-8e6a-06907dfb2038&tasks=243d6cd4-629b-4da8-98ac-ee1addbee2e6%2Cd78ab909-7994-4fc0-8dc9-9200e749782c&images=http%3A%2F%2Fp3.gexing.com%2Fshaitu%2F20120922%2F1519%2F505d6699e4347.jpg%2Chttp%3A%2F%2Fhiphotos.baidu.com%2F1985129%2Fpic%2Fitem%2Fd05c8ed3cc27b16e970a16b1.jpg&files=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%253D580%2Fsign%3Da574eb9cb07eca80120539efa1229712%2F16ff201f95cad1c8b0e3b1987f3e6709c83d5161.jpg
 
 ———————————————————————————————————————————————————————————
 {
@@ -282,10 +282,10 @@ title=日志接口5&content=日志接口内容&approver=d9a5648a-65dd-46ef-add8-
 
 
 
-#删除日志
+#删除日程
 >接口描述
 
-| 接口名称 | *删除日志* |
+| 接口名称 | *删除日程* |
 | -- | -- |
 | **接口地址** | */worklogs/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
@@ -317,10 +317,10 @@ Cache-Control: no-cache
 
 
 
-#日志审批
->只有日志指定审批人且该用户拥有审批权限才能审批日志
+#日程审批
+>只有日程指定审批人且该用户拥有审批权限才能审批日程
 
-| 接口名称 | *日志审批* |
+| 接口名称 | *日程审批* |
 | -- | -- |
 | **接口地址** | */worklogs/{id}/approvals* |
 | **请求方式** | <mark>POST</mark> |

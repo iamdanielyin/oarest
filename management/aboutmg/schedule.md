@@ -339,18 +339,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-POST /oa/schedule/d7374cfa-4b43-4264-ac8a-4dd6e86af020/approvals?tt=1&vn=1.0&access_token=NTNkNjE4NGMtM2NjMy00YWRkLTkzMzctNWI3ZTVhZTNlNDZj HTTP/1.1
-Host: localhost:7778
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
 
-isfinish=true
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
 ```
 
 ***

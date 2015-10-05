@@ -322,7 +322,7 @@ Cache-Control: no-cache
 
 | 接口名称 | *日程提醒* |
 | -- | -- |
-| **接口地址** | */schedule/{id}/approvals* |
+| **接口地址** | */schedule/{id}/reminder* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

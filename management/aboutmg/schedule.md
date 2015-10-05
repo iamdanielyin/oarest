@@ -80,40 +80,6 @@
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 
-参数项：creator、approver
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-
-参数项：customers
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|客户ID|<code>string</code>|是|暂无|无|
-|name|公司名称|<code>string</code>|是|暂无|无|
-
-参数项：tasks
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|任务ID|<code>string</code>|是|暂无|无|
-|title|任务名称|<code>string</code>|是|暂无|无|
-
-参数项：images
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|image|图片链接|<code>string</code>|是|暂无|无|
-
-
-参数项：files
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|file|附件链接|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

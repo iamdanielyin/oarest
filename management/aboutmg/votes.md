@@ -51,6 +51,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |title|投票标题|<code>string</code>|是|暂无|无|
 |content|投票描述|<code>string</code>|是|暂无|无|
+
 ##接口示例
 
 ```

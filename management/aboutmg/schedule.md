@@ -108,16 +108,12 @@
 |:---|:---|:---|:--:|:---|:-----|
 |title|标题|<code>string</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
-|approver|审批人ID|<code>string</code>|是|暂无|无|
-|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|mcoin|M币|<code>digit</code>|是|暂无|无|
-|starval|星值|<code>digit</code>|是|暂无|无|
-|type|日程类型|<code>digit</code>|是|0日报，1周报，2月报|无|
-|customers|关联客户|<code>string</code>|否|客户ID，多个用英文逗号分隔|无|
-|tasks|关联任务|<code>string</code>|否|任务ID，多个用英文逗号分隔|无|
-|images|日程图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
-|files|日程附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
+|starttime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|endtime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|isremind|是否提醒|<code>boolean</code>|是|暂无|无|
+|remark|备注|<code>string</code>|否|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

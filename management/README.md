@@ -64,7 +64,7 @@
       * [新增审批](./approval/overtime.md)
       * [删除审批](./approval/overtime.md)
       * [执行审批](./approval/overtime.md)
-    * [工作审批](../approval/../approval/app/tasks.md)
+    * [工作审批](../app/tasks.md)
       * [审批列表](../app/tasks.md)
       * [新增审批](../app/tasks.md)
       * [删除审批](../app/tasks.md)

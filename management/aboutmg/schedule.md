@@ -317,7 +317,7 @@ Cache-Control: no-cache
 
 
 
-#日程
+#日程提醒
 >只有日程指定审批人且该用户拥有审批权限才能审批日程
 
 | 接口名称 | *日程审批* |
@@ -331,7 +331,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|isfinish|是否通过|<code>boolean</code>|是|暂无|无|
+|isremnd|是否通过|<code>boolean</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

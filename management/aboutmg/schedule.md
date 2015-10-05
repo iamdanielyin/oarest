@@ -145,10 +145,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|标题|<code>string</code>|否|暂无|无|
-|content|内容|<code>string</code>|否|暂无|无|
-|starttime|开始时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
-|endtime|结束时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
 |isremind|是否提醒|<code>boolean</code>|否|暂无|false|
 
 ##返回参数
@@ -182,6 +178,10 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|
+|title|标题|<code>string</code>|否|暂无|无|
+|content|内容|<code>string</code>|否|暂无|无|
+|starttime|开始时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
+|endtime|结束时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

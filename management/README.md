@@ -54,7 +54,7 @@
       * [新增审批](./leave.md)
       * [删除审批](./leave.md)
       * [执行审批](./leave.md)
-    * 报销审批
+    * [报销审批](./expense.md)
       * [审批列表](./expense.md)
       * [新增审批](./expense.md)
       * [删除审批](./expense.md)

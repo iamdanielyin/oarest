@@ -46,6 +46,11 @@
 
 参数项：participants
 
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|title|投票标题|<code>string</code>|是|暂无|无|
+|content|投票描述|<code>string</code>|是|暂无|无|
 ##接口示例
 
 ```

@@ -15,7 +15,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|flag|查询标识|<code>digit</code>|是|0本日日程，1日程|无|
+|flag|查询标识|<code>digit</code>|是|0本日日程，1本月日程|无|
 
 
 ##返回参数
@@ -31,7 +31,6 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
-|content|内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例

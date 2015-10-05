@@ -17,6 +17,7 @@
        * [用户管理](management/aboutmg/users.md)
        * [部门管理](management/aboutmg/depts.md)
        * [日程管理](management/aboutmg/schedule.md)
+       * 投票管理
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
        * [报销审批](management/approval/expense.md)

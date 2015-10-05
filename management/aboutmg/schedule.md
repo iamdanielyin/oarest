@@ -74,8 +74,8 @@
 |content|内容|<code>string</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |approver|审批人|<code>object</code>|否|暂无|无|
-|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
+|startdate|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
+|enddate|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |starval|星值|<code>digit</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|

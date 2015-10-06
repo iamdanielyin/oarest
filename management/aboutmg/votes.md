@@ -12,14 +12,6 @@
 [<公共传入参数>](../README.md)  
 [<公共翻页参数>](../README.md)
 
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|starttime|开始时间|<code>string</code>|否|yyyy-MM-dd HH:mm|当前时间|
-|endtime|结束时间|<code>string</code>|否|yyyy-MM-dd HH:mm|明天的当前时间|
-
-
-
 ##返回参数
 [<公共返回参数>](../README.md)
 

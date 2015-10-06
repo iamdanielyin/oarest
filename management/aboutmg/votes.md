@@ -187,6 +187,44 @@
 
 
 
+
+
+
+#修改投票
+>只需传入需要修改的资料项即可
+
+| 接口名称 | *投票提醒* |
+| -- | -- |
+| **接口地址** | */votes/{id}* |
+| **请求方式** | <mark>PATCH</mark> |
+| **数据格式** | <code>JSON</code> |
+
+##请求参数
+[<公共传入参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|title|投票标题|<code>string</code>|否|唯一|无|
+|content|投票描述|<code>string</code>|否|暂无|无|
+|status|投票状态|<code>digit</code>|否|0未开始，1进行中，2已结束|无|
+|type|投票类型|<code>digit</code>|否|0单选，1多选|无|
+|startdate|开始日期|<code>string</code>|否|yyyy-MM-dd|无|
+|enddate|结束日期|<code>string</code>|否|yyyy-MM-dd|无|
+|options|选项字符串|<code>string</code>|否|多个由英文逗号分隔，请提供所有选项|无|
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+##接口示例
+
+```
+暂无
+```
+
+***
+
+
+
 #删除投票
 >接口描述
 

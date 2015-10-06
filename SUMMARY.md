@@ -18,7 +18,7 @@
        * [部门管理](management/aboutmg/depts.md)
        * [日程管理](management/aboutmg/schedule.md)
        * [投票管理](management/aboutmg/votes.md)
-       * 权限管理
+       * [权限管理](management/aboutmg/permis.md)
        * 考勤统计
        * 项目管理
        * 员工加分

@@ -131,7 +131,7 @@
 |type|投票类型|<code>digit</code>|是|0单选，1多选|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|options|选项数组|<code>array</code>|是|yyyy暂无|无|
+|options|选项数组|<code>strin</code>|是|yyyy暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

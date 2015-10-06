@@ -104,7 +104,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |option|选项|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
+|realname|选择次数|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

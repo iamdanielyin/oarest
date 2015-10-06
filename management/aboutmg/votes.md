@@ -82,7 +82,7 @@
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-|options|选项数组|<code>array</code>|是|yyyy暂无|无|
+|options|选项数组|<code>array</code>|是|暂无|无|
 
 参数项：creator
 
@@ -125,7 +125,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|投票标题|<code>string</code>|是||无|
+|title|投票标题|<code>string</code>|是|唯一|无|
 |content|投票描述|<code>string</code>|是|暂无|无|
 |status|投票状态|<code>digit</code>|是|0未开始，1进行中，2已结束|无|
 |type|投票类型|<code>digit</code>|是|0单选，1多选|无|

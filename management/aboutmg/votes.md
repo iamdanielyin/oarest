@@ -25,7 +25,6 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |title|投票标题|<code>string</code>|是|暂无|无|
-|content|投票描述|<code>string</code>|是|暂无|无|
 |status|投票状态|<code>digit</code>|是|0未开始，1进行中，2已结束|无|
 |type|投票类型|<code>digit</code>|是|0单选，1多选|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|

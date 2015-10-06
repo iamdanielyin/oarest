@@ -111,7 +111,7 @@
 
 
 #新增投票
->暂无
+>需要【投票管理】权限
 
 
 | 接口名称 | *新增投票* |
@@ -131,7 +131,7 @@
 |type|投票类型|<code>digit</code>|是|0单选，1多选|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|options|选项字符串|<code>string</code>|是|多个由英文逗号|无|
+|options|选项字符串|<code>string</code>|是|多个由英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

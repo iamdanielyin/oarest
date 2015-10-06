@@ -204,12 +204,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|投票标题|<code>string</code>|否|唯一|无|
-|content|投票描述|<code>string</code>|否|暂无|无|
-|status|投票状态|<code>digit</code>|否|0未开始，1进行中，2已结束|无|
-|type|投票类型|<code>digit</code>|否|0单选，1多选|无|
-|startdate|开始日期|<code>string</code>|否|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|否|yyyy-MM-dd|无|
 |options|选项字符串|<code>string</code>|否|如果是单选投票，这里是单个字符串；如果是多选投票，这里是多个字符串，由英文逗号分隔|无|
 
 ##返回参数

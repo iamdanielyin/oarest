@@ -20,6 +20,7 @@
        * [投票管理](management/aboutmg/votes.md)
        * 权限管理
        * 考勤统计
+       * 项目管理
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)
        * [报销审批](management/approval/expense.md)

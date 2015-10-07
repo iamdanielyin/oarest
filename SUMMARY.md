@@ -19,7 +19,7 @@
        * [日程管理](management/aboutmg/schedule.md)
        * [投票管理](management/aboutmg/votes.md)
        * [权限管理](management/aboutmg/permis.md)
-       * 考勤统计
+       * [考勤统计](management/aboutmg/attendance.md)
        * 项目管理
        * 员工加分
        * 工作简报

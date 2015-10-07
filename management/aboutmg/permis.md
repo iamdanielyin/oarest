@@ -25,8 +25,9 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
+|code|编码|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
-|user|负责人|<code>object</code>|是|暂无|无|
+
 
 参数项：user
 

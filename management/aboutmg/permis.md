@@ -48,7 +48,7 @@
 | 接口名称 | *权限分配* |
 | -- | -- |
 | **接口地址** | */permis/users* |
-| **请求方式** | <mark>GET</mark> |
+| **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

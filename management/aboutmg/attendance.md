@@ -123,7 +123,8 @@
 |:---|:---|:---|:--:|:---|:-----|
 |clockintype|打卡类型|<code>digit</code>|是|0签到，1签退|无|
 |attentype|考勤类型|<code>digit</code>|是|0普通考勤，1外出考勤|无|
-|signouttime|签退时间|<code>string</code>|是||无|
+|signoutgps|签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
+|signouttime|签退时间|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

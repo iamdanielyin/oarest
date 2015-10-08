@@ -110,7 +110,7 @@
 
 | 接口名称 | *签到签退* |
 | -- | -- |
-| **接口地址** | */attendance/users* |
+| **接口地址** | */attendance* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

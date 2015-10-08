@@ -122,7 +122,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |clockintype|打卡类型|<code>string</code>|是|0签到，1签退|无|
-|attentype|考勤类型|<code>string</code>|是|权限ID，多个由英文逗号分隔|无|
+|attentype|考勤类型|<code>string</code>|是|权限ID0普通考勤，1外出考勤|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

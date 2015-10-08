@@ -39,6 +39,46 @@
 ```
 
 
+#指定日期查询考勤记录
+>按时间逆序排列
+
+| 接口名称 | *指定日期查询考勤记录* |
+| -- | -- |
+| **接口地址** | */attendance/days* |
+| **请求方式** | <mark>GET</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)  
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|day|日期|<code>string</code>|是|yyyy-MM-dd|无|
+
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|权限数组|<code>array</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signingps|签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
+|signouttime|签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signoutgps|签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
+
+##接口示例
+
+```
+暂无
+```
+
 
 
 #权限分配

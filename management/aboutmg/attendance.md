@@ -28,7 +28,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|signingps|签到gps|<code>string</code>|是||无|
+|signingps|签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号|无|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 

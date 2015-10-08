@@ -85,7 +85,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|signdate|年月日|<code>string</code>|是|yyyyMMdd|无|
+|signdate|年月日|<code>objec</code>|是|yyyyMMdd|无|
 
 
 参数项：signdate

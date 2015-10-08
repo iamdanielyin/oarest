@@ -74,7 +74,7 @@
 |signoutgps|今日签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
 |actwork|考勤次数|<code>digit</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
-|lates|加班（小时；次数）|<code>string</code>|是|暂无|无|
+|lates|迟到（分钟；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|

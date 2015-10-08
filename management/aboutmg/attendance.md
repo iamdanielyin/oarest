@@ -13,7 +13,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|day|日期|<code>string</code>|是|yyyy-MM-dd|无|
+|day|日期|<code>string</code>|是|yyyy-MM-dd||
 
 
 ##返回参数
@@ -54,7 +54,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|month|年月|<code>string</code>|是|yyyy-MM|无|
+|month|年月|<code>string</code>|否|yyyy-MM|当前月|
 
 
 ##返回参数

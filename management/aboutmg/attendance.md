@@ -121,7 +121,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|clockintype|用户ID|<code>string</code>|是|暂无|无|
+|clockintype|打卡类型|<code>string</code>|是|暂无|无|
 |permis|权限|<code>string</code>|是|权限ID，多个由英文逗号分隔|无|
 
 ##返回参数

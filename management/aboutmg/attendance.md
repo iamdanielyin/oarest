@@ -81,6 +81,24 @@
 |notsign|未签退（天数）|<code>string</code>|是|暂无|无|
 |days|本月数据|<code>array</code>|是|暂无|已按日期从小到大排列|
 
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|signintime|今日签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signingps|今日签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
+|signouttime|今日签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signoutgps|今日签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
+|actwork|考勤次数|<code>digit</code>|是|暂无|无|
+|overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
+|lates|迟到（分钟；次数）|<code>string</code>|是|暂无|无|
+|leavearly|早退（分钟；次数）|<code>string</code>|是|暂无|无|
+|askleave|请假（小时；次数）|<code>string</code>|是|暂无|无|
+|onbus|外出考勤次数|<code>string</code>|是|暂无|无|
+|notsign|未签退（天数）|<code>string</code>|是|暂无|无|
+|days|本月数据|<code>array</code>|是|暂无|已按日期从小到大排列|
+
 ##接口示例
 
 ```

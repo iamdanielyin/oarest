@@ -85,14 +85,17 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|signdate|年月日|<code>objec</code>|是|yyyyMMdd|无|
+|signdate|年月日|<code>object</code>|是|yyyyMMdd|无|
 
 
 参数项：signdate
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|signdate|年月日|<code>string</code>|是|yyyyMMdd|无|
+|signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signingps|签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
+|signouttime|签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signoutgps|签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
 
 ##接口示例
 

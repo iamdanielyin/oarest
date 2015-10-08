@@ -79,7 +79,7 @@
 |askleave|请假（小时；次数）|<code>string</code>|是|暂无|无|
 |onbus|外出考勤次数|<code>string</code>|是|暂无|无|
 |notsign|未签退（天数）|<code>string</code>|是|暂无|无|
-|days|本月数据|<code>string</code>|是|暂无|无|
+|days|本月数据|<code>arr</code>|是|暂无|无|
 
 ##接口示例
 

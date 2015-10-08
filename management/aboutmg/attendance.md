@@ -29,6 +29,8 @@
 |:---|:---|:---|:--:|:---|:-----|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例
 

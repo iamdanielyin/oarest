@@ -72,6 +72,7 @@
 |signingps|今日签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
 |signouttime|今日签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |signoutgps|今日签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
+|signoutgps|今日签退gps|<code>string</code>|是|yyyy格式为"经度,纬度"，英文逗号分隔|无|
 
 ##接口示例
 

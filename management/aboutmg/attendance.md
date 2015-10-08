@@ -75,7 +75,7 @@
 |actwork|考勤次数|<code>digit</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |lates|迟到（分钟；次数）|<code>string</code>|是|暂无|无|
-|overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
+|leavearly|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|

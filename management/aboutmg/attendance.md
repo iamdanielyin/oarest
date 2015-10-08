@@ -88,7 +88,7 @@
 |signdate|年月日|<code>string</code>|是|yyyyMMdd|无|
 
 
-参数项：days
+参数项：signdate
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

@@ -44,7 +44,7 @@
 
 | 接口名称 | *查询月记录* |
 | -- | -- |
-| **接口地址** | */attendance/month* |
+| **接口地址** | */attendance/months* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

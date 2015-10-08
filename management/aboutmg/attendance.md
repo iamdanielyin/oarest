@@ -78,7 +78,7 @@
 |leavearly|早退（分钟；次数）|<code>string</code>|是|暂无|无|
 |askleave|请假（小时；次数）|<code>string</code>|是|暂无|无|
 |onbus|外出考勤次数|<code>string</code>|是|暂无|无|
-|notsign|加班（小时；次数）|<code>string</code>|是|暂无|无|
+|notsign|未签退（天数）|<code>string</code>|是|暂无|无|
 |overtime|加班（小时；次数）|<code>string</code>|是|暂无|无|
 
 ##接口示例

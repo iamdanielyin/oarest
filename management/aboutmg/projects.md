@@ -71,7 +71,7 @@
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
 |sum|项目金额|<code>number</code>|是|暂无|无|
-|sum|项目金额|<code>number</code>|是|暂无|无|
+|mcoin|项目M币|<code>number</code>|是|暂无|无|
 |sum|项目金额|<code>number</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|

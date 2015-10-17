@@ -14,8 +14,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |userid|员工ID|<code>string</code>|是|暂无|无|
-|name|项目名称|<code>string</code>|是|暂无|无|
-|idesc|项目描述|<code>string</code>|是|暂无|无|
+|mcoin|项目M币|<code>digit</code>|是|暂无|无|
+|starval|项目星值|<code>digit</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

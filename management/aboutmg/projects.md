@@ -26,7 +26,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |name|项目名称|<code>string</code>|是|暂无|无|
-|content|项目内容|<code>string</code>|是|暂无|无|
+|idesc|项目内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例

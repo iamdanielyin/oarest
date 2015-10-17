@@ -34,7 +34,7 @@
   * [权限分配](./permis.md)
 * 考勤统计
   * [指定日期查询考勤记录](./attendance.md)
-  * 查询月记录
+  * [查询月记录](./attendance.md)
   * 签到签退
 * 项目管理
   * [项目列表](./projects.md)

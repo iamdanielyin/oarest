@@ -20,7 +20,7 @@
        * [投票管理](management/aboutmg/votes.md)
        * [权限管理](management/aboutmg/permis.md)
        * [考勤统计](management/aboutmg/attendance.md)
-       * 项目管理
+       * [项目管理](management/aboutmg/projects.md)
        * 员工加分
        * 工作简报
    * [审批单据](management/approval/README.md)

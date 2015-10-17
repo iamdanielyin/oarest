@@ -4,7 +4,7 @@
 | 接口名称 | *项目详情* |
 | -- | -- |
 | **接口地址** | */records* |
-| **请求方式** | <mark>GET</mark> |
+| **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

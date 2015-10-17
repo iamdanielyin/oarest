@@ -25,7 +25,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|项目标题|<code>string</code>|是|暂无|无|
+|name|项目名称|<code>string</code>|是|暂无|无|
 |content|项目内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 

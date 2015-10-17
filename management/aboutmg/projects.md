@@ -74,6 +74,7 @@
 |mcoin|项目M币|<code>digit</code>|是|暂无|无|
 |starval|项目星值|<code>digit</code>|是|暂无|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|

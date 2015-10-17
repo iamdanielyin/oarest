@@ -1,9 +1,9 @@
-#公告列表
+#项目列表
 >按时间逆序排列
 
-| 接口名称 | *公告列表* |
+| 接口名称 | *项目列表* |
 | -- | -- |
-| **接口地址** | */notices* |
+| **接口地址** | */projects* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -18,21 +18,21 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|公告数组|<code>array</code>|是|暂无|无|
+|data|项目数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|公告标题|<code>string</code>|是|暂无|无|
-|content|公告内容|<code>string</code>|是|暂无|无|
+|title|项目标题|<code>string</code>|是|暂无|无|
+|content|项目内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例
 
 ```
-GET /oa/notices?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
+GET /oa/projects?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&page=0&size=20 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache 
 ———————————————————————————————————————————————————————————
@@ -43,14 +43,14 @@ Cache-Control: no-cache
         {
             "createtime": "2015-10-01 17:42:44",
             "id": "25b4c3f3-b8b6-4f3f-afb0-35caca43d252",
-            "title": "公告2",
-            "content": "公告内容2公告内容2公告内容2"
+            "title": "项目2",
+            "content": "项目内容2项目内容2项目内容2"
         },
         {
             "createtime": "2015-10-01 17:42:44",
             "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-            "title": "公告1",
-            "content": "公告内容1公告内容1公告内容1公告内容1"
+            "title": "项目1",
+            "content": "项目内容1项目内容1项目内容1项目内容1"
         }
     ],
     "usermsg": "正常"
@@ -60,12 +60,12 @@ Cache-Control: no-cache
 
 
 
-#公告详情
+#项目详情
 >暂无
 
-| 接口名称 | *公告详情* |
+| 接口名称 | *项目详情* |
 | -- | -- |
-| **接口地址** | */notices/{id}* |
+| **接口地址** | */projects/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -105,7 +105,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-GET /oa/notices/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
+GET /oa/projects/93d24bcd-5f6b-45e0-b691-208594b95d12?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
@@ -122,8 +122,8 @@ Cache-Control: no-cache
         "modifytime": "2015-10-01 17:43:10",
         "remark": "",
         "id": "93d24bcd-5f6b-45e0-b691-208594b95d12",
-        "title": "公告1",
-        "content": "公告内容1公告内容1公告内容1公告内容1"
+        "title": "项目1",
+        "content": "项目内容1项目内容1项目内容1项目内容1"
     },
     "usermsg": "正常"
 }

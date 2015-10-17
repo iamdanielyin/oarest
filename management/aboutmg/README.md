@@ -39,7 +39,7 @@
 * 项目管理
   * [项目列表](./projects.md)
   * [项目详情](./projects.md)
-* [员工加分](./recordsm.d)
+* [员工加分](./records.md)
 * 工作简报
   * 我
   * 公司

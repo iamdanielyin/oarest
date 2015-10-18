@@ -127,6 +127,10 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
+GET /oa/depts/7d067826-3126-487e-b6ce-a1e526ba807f/users?access_token=YzZhNjc0MTEtZWQxZC00ZWM5LTkyZTYtODgyY2ZkMzhlMTk2 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
 ```
 

@@ -39,7 +39,49 @@
 ##接口示例
 
 ```
-暂无
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":[
+		{
+			"name":"总裁办",
+			"id":"7d067826-3126-487e-b6ce-a1e526ba807f",
+			"user":{
+				"header":"http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+				"id":"d47539b3-9820-4086-9582-f629d2ef0630",
+				"realname":"王五"
+			}
+		},
+		{
+			"name":"财务部",
+			"id":"fcc38255-ab01-4b74-999f-3cddf61c7503",
+			"user":{
+				"header":"http://cdn.duitang.com/uploads/item/201504/21/20150421H4327_3eRXN.thumb.224_0.jpeg",
+				"id":"d9a5648a-65dd-46ef-add8-4837795ce8b4",
+				"realname":"李四"
+			}
+		},
+		{
+			"name":"市场部",
+			"id":"8da0fc5f-6542-4166-bf3f-f28310487bd6",
+			"user":{
+				"header":"http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+				"id":"51c58245-1921-44a2-8aed-60fc3b85cc3c",
+				"realname":"赵丽"
+			}
+		},
+		{
+			"name":"生产部",
+			"id":"f27780e5-7541-4b68-b731-9e56f61e71b5",
+			"user":{
+				"header":"http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+				"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+				"realname":"张三"
+			}
+		}
+	],
+	"deptmsg":"正常"
+}
 ```
 
 

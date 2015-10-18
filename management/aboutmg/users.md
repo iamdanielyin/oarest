@@ -214,6 +214,7 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
+GET /oa/users/d9a5648a-65dd-46ef-add8-4837795ce8b4?access_token=YzZhNjc0MTEtZWQxZC00ZWM5LTkyZTYtODgyY2ZkMzhlMTk2 HTTP/1.1
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

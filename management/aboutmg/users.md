@@ -214,7 +214,47 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-暂无
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"profession":"部门职员",
+		"qq":"",
+		"createtime":"2015-09-29 13:40:18",
+		"mail":"",
+		"modifytime":"2015-10-01 19:55:02",
+		"sex":0,
+		"mobile1":"",
+		"totalmcoin":20,
+		"remark":"",
+		"dept":{
+			"name":"生产部",
+			"id":"f27780e5-7541-4b68-b731-9e56f61e71b5",
+			"user":{
+				"header":"http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+				"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+				"realname":"张三"
+			}
+		},
+		"totalstarval":239,
+		"realname":"李四",
+		"curstarval":23,
+		"superior":{
+			"header":"http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+			"id":"d47539b3-9820-4086-9582-f629d2ef0630",
+			"realname":"王五"
+		},
+		"weixin":"",
+		"mobile3":"",
+		"headportrait":"http://cdn.duitang.com/uploads/item/201504/21/20150421H4327_3eRXN.thumb.224_0.jpeg",
+		"mobile2":"",
+		"isboss":false,
+		"curmcoin":2,
+		"id":"d9a5648a-65dd-46ef-add8-4837795ce8b4",
+		"username":"test3"
+	},
+	"usermsg":"正常"
+}
 ```
 
 

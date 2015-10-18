@@ -214,6 +214,7 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
+———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",
 	"statusmsg":"ok",

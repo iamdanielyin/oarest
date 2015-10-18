@@ -215,6 +215,9 @@ Content-Type: application/x-www-form-urlencoded
 
 ```
 GET /oa/users/d9a5648a-65dd-46ef-add8-4837795ce8b4?access_token=YzZhNjc0MTEtZWQxZC00ZWM5LTkyZTYtODgyY2ZkMzhlMTk2 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

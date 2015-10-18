@@ -106,7 +106,7 @@ Content-Type: application/x-www-form-urlencoded
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|flag|查询标识|<code>digit</code>|是|0全部，1成员关键字检索|无|
+|flag|查询标识|<code>digit</code>|是|0全部，1成员关键字检索|0|
 |keyword|关键字|<code>string</code>|否|当flag为1时需指定该项，模糊匹配用户姓名或用户名|无|
 
 ##返回参数

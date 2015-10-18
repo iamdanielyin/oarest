@@ -197,6 +197,23 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": {
+        "createtime": "2015-09-29 18:25:00",
+        "modifytime": "",
+        "name": "总裁办",
+        "remark": "",
+        "id": "7d067826-3126-487e-b6ce-a1e526ba807f",
+        "user": {
+            "header": "http://img5.duitang.com/uploads/item/201503/26/20150326161657_aL8FW.jpeg",
+            "id": "d47539b3-9820-4086-9582-f629d2ef0630",
+            "realname": "王五"
+        }
+    },
+    "usermsg": "正常"
+}
 ```
 
 

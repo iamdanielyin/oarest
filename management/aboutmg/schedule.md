@@ -170,6 +170,11 @@ Content-Type: application/x-www-form-urlencoded
 
 title=%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E1&content=%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E1%E5%86%85%E5%AE%B9&starttime=2015-10-19+16%3A28&endtime=2015-10-19+16%3A35
 ———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
 ```
 
 ***

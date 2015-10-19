@@ -112,7 +112,6 @@ GET /oa/schedule/8979e379-2be4-440b-9e75-a176bab60f77?tt=1&vn=1.0&access_token=N
 Host: 112.74.131.85
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
-
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

@@ -163,7 +163,12 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
+POST /oa/schedule?tt=1&vn=1.0&access_token=N2IyNjg5MGQtYmY3Zi00ODk4LWEyOTEtNTQ5MTcwYTk5YTcz HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 
+title=%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E1&content=%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E1%E5%86%85%E5%AE%B9&starttime=2015-10-19+16%3A28&endtime=2015-10-19+16%3A35
 ———————————————————————————————————————————————————————————
 ```
 

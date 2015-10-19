@@ -39,6 +39,10 @@
 ##接口示例
 
 ```
+GET /oa/schedule?username=test1&tt=1&vn=1.0&access_token=N2IyNjg5MGQtYmY3Zi00ODk4LWEyOTEtNTQ5MTcwYTk5YTcz&starttime=2015-10-20 00:00&password=123456&endtime=2015-10-20 23:59 HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
 ```
 

@@ -114,6 +114,22 @@ Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
 ———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": {
+        "createtime": "2015-10-19 16:19:14",
+        "modifytime": "",
+        "endtime": "2015-10-20 16:19",
+        "remark": "",
+        "id": "8979e379-2be4-440b-9e75-a176bab60f77",
+        "starttime": "2015-10-20 16:18",
+        "title": "222",
+        "isremind": true,
+        "content": "的萨芬"
+    },
+    "usermsg": "正常"
+}
 
 ```
 

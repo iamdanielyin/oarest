@@ -44,6 +44,25 @@ Host: 112.74.131.85
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":[
+		{
+			"endtime":"2015-10-20 16:18",
+			"id":"b8d15f74-9545-4dc2-9bd2-c1ce040f1354",
+			"starttime":"2015-10-20 16:18",
+			"title":"111"
+		},
+		{
+			"endtime":"2015-10-20 16:19",
+			"id":"8979e379-2be4-440b-9e75-a176bab60f77",
+			"starttime":"2015-10-20 16:18",
+			"title":"222"
+		}
+	],
+	"usermsg":"正常"
+}
 ```
 
 

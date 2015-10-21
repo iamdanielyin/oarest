@@ -362,6 +362,11 @@ PATCH /oa/users/d47539b3-9820-4086-9582-f629d2ef0630?access_token=OTgxMGVlMzctYj
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

@@ -358,7 +358,9 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-
+PATCH /oa/users/d47539b3-9820-4086-9582-f629d2ef0630?access_token=OTgxMGVlMzctYjdkNC00MDcwLTlhMjUtNzE4MTM5MjllMmU5&realname=王五2 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 ```
 

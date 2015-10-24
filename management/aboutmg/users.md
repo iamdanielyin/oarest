@@ -315,6 +315,11 @@ Content-Type: application/x-www-form-urlencoded
 
 username=yyy&realname=%E6%96%B0%E5%A2%9E%E7%94%A8%E6%88%B7%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95&dept=7d067826-3126-487e-b6ce-a1e526ba807f&profession=%E6%B5%8B%E8%AF%95%E8%81%8C%E4%BD%8D&superior=5d772756-3b06-4b75-9de1-f9c07310ec06
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

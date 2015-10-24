@@ -408,6 +408,10 @@ Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 {
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

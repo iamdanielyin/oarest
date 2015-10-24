@@ -369,7 +369,7 @@ username=yyy&realname=新增用户接口测试&dept=7d067826-3126-487e-b6ce-a1e5
 ##接口示例
 
 ```
-PATCH /oa/users/d47539b3-9820-4086-9582-f629d2ef0630?access_token=OTgxMGVlMzctYjdkNC00MDcwLTlhMjUtNzE4MTM5MjllMmU5&realname=王五2 HTTP/1.1
+PATCH /oa/users/169812c8-8c5a-4f8d-95c2-8ea64963250c?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz&sex=0&mobile1=13233334444 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————

@@ -313,7 +313,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-username=yyy&realname=新增用户接口测试&dept=7d067826-3126-487e-b6ce-a1e526ba807f&profession=%E6%B5%8B%E8%AF%95%E8%81%8C%E4%BD%8D&superior=5d772756-3b06-4b75-9de1-f9c07310ec06
+username=yyy&realname=新增用户接口测试&dept=7d067826-3126-487e-b6ce-a1e526ba807f&profession=测试职位&superior=5d772756-3b06-4b75-9de1-f9c07310ec06
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

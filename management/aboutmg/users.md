@@ -403,6 +403,8 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
+DELETE /oa/users/169812c8-8c5a-4f8d-95c2-8ea64963250c?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+
 ———————————————————————————————————————————————————————————
 ```
 

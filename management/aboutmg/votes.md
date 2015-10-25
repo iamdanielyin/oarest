@@ -134,6 +134,42 @@ GET /oa/votes/80b6ad0c-4ad9-4d94-9e6b-47479396bd31?access_token=MmViNThiNWUtZDli
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"creator":{
+			"header":"http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+			"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+			"realname":"张三东哦哦OK"
+		},
+		"createtime":"2015-10-25 13:38:49",
+		"enddate":"2015-10-25 00:00:00",
+		"modifytime":"2015-10-25 13:39:14",
+		"options":[
+			{
+				"times":2,
+				"option":"老太太"
+			},
+			{
+				"times":1,
+				"option":"习大大"
+			},
+			{
+				"times":0,
+				"option":"你妹妹"
+			}
+		],
+		"remark":"",
+		"id":"80b6ad0c-4ad9-4d94-9e6b-47479396bd31",
+		"title":"优秀员工",
+		"type":0,
+		"startdate":"2015-10-25 00:00:00",
+		"content":"投票",
+		"status":1
+	},
+	"usermsg":"正常"
+}
 
 ```
 

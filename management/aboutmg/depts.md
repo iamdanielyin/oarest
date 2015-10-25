@@ -250,7 +250,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-user=d47539b3-9820-4086-9582-f629d2ef0630&name=测试接口新增
+user=d47539b3-9820-4086-9582-f629d2ef0630&name=测试接口新增部门
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

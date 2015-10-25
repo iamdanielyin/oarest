@@ -246,6 +246,11 @@ Content-Type: application/x-www-form-urlencoded
 
 ```
 POST /oa/depts?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+user=d47539b3-9820-4086-9582-f629d2ef0630&name=%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E%E9%83%A8%E9%97%A8
 
 ```
 

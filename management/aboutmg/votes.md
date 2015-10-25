@@ -130,6 +130,9 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
+GET /oa/votes/80b6ad0c-4ad9-4d94-9e6b-47479396bd31?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 
 ```

@@ -246,7 +246,7 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
-暂无
+DELETE /oa/schedule/663bc4ea-c0ea-4a70-acc6-59a707d02f5b?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
 
 
 ```

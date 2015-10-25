@@ -245,7 +245,8 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-暂无
+POST /oa/depts?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+
 ```
 
 ***

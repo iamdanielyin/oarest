@@ -303,7 +303,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-options=%E9%80%89%E9%A1%B94
+options=选项4
 ———————————————————————————————————————————————————————————
 ```
 

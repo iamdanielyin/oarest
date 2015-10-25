@@ -214,6 +214,11 @@ PATCH /oa/schedule/663bc4ea-c0ea-4a70-acc6-59a707d02f5b?access_token=MmViNThiNWU
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

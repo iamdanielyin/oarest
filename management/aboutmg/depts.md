@@ -331,7 +331,12 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
+POST /oa/depts/3a0ddcd9-2112-4ef2-8364-9b70c96c0fe5/users?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 
+users=87556163-f142-42a4-a5dc-50251c6af3ad%2Cacfc1ae2-6687-4b14-a147-c0907b283ec2
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

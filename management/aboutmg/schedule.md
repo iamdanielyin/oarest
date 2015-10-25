@@ -108,10 +108,9 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-GET /oa/schedule/8979e379-2be4-440b-9e75-a176bab60f77?tt=1&vn=1.0&access_token=N2IyNjg5MGQtYmY3Zi00ODk4LWEyOTEtNTQ5MTcwYTk5YTcz&starttime=2015-10-20 00:00&endtime=2015-10-20 23:59 HTTP/1.1
-Host: 112.74.131.85
+GET /oa/schedule/663bc4ea-c0ea-4a70-acc6-59a707d02f5b?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz&starttime=2015-10-25 17:50&endtime=2015-10-26 18:30 HTTP/1.1
+Host: localhost:7778
 Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

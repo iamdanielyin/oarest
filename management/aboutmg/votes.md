@@ -298,7 +298,12 @@ Cache-Control: no-cache
 ##接口示例
 
 ```
+POST /oa/votes/f782e9e0-3853-480b-b943-95b2655e3c2e/action?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz&title=测试修改接口1 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
 
+options=%E9%80%89%E9%A1%B94
 ———————————————————————————————————————————————————————————
 ```
 

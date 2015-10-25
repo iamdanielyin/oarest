@@ -43,6 +43,31 @@ GET /oa/votes?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":[
+		{
+			"id":"7308247c-1497-447d-a750-71acb8cdef0e",
+			"title":"公开票选部门优秀代表",
+			"type":0,
+			"status":0
+		},
+		{
+			"id":"80b6ad0c-4ad9-4d94-9e6b-47479396bd31",
+			"title":"优秀员工",
+			"type":0,
+			"status":1
+		},
+		{
+			"id":"ae61908f-7acd-46ef-8b09-35bfbae65e48",
+			"title":"CEO",
+			"type":0,
+			"status":2
+		}
+	],
+	"usermsg":"正常"
+}
 ```
 
 

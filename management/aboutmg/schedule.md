@@ -247,6 +247,15 @@ Cache-Control: no-cache
 
 ```
 DELETE /oa/schedule/663bc4ea-c0ea-4a70-acc6-59a707d02f5b?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
+
 
 
 ```

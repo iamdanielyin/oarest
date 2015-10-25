@@ -163,12 +163,12 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-POST /oa/schedule?tt=1&vn=1.0&access_token=N2IyNjg5MGQtYmY3Zi00ODk4LWEyOTEtNTQ5MTcwYTk5YTcz HTTP/1.1
-Host: 112.74.131.85
+POST /oa/schedule?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=接口新增1&content=接口新增1内容&starttime=2015-10-19+16%3A28&endtime=2015-10-19+16%3A35
+title=%E6%96%B0%E5%A2%9E%E6%97%A5%E7%A8%8B%E6%8E%A5%E5%8F%A32&content=%E6%97%A5%E7%A8%8B%E5%86%85%E5%AE%B9222&starttime=2015-10-25+18%3A30&endtime=2015-10-25+18%3A40
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

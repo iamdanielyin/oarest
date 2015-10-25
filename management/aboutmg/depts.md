@@ -291,7 +291,16 @@ user=d47539b3-9820-4086-9582-f629d2ef0630&name=测试接口新增部门
 ##接口示例
 
 ```
-
+PATCH /oa/depts/3a0ddcd9-2112-4ef2-8364-9b70c96c0fe5?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz&name=测试接口修改部门 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

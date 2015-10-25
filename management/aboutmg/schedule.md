@@ -168,7 +168,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=新增日程接口2&content=日程内容222&starttime=2015-10-25 18:30&endtime=2015-10-25+18%3A40
+title=新增日程接口2&content=日程内容222&starttime=2015-10-25 18:30&endtime=2015-10-25 18:40
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

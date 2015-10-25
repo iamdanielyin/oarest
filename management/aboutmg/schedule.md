@@ -210,6 +210,9 @@ title=新增日程接口2&content=日程内容222&starttime=2015-10-25 18:30&end
 ##接口示例
 
 ```
+PATCH /oa/schedule/663bc4ea-c0ea-4a70-acc6-59a707d02f5b?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz&title=修改日程111222 HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
 ```
 

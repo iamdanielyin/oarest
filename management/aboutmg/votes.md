@@ -305,6 +305,11 @@ Content-Type: application/x-www-form-urlencoded
 
 options=选项4
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

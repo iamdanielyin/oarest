@@ -331,7 +331,13 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-暂无
+
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

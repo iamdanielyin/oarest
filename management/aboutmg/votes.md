@@ -210,7 +210,7 @@ Host: localhost:7778
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-title=新增接口1&content=接口描述&type=0&startdate=2015-10-26&enddate=2015-10-29&options=%E9%80%89%E9%A1%B91%2C%E9%80%89%E9%A1%B92%2C%E9%80%89%E9%A1%B93%2C%E9%80%89%E9%A1%B94
+title=新增接口1&content=接口描述&type=0&startdate=2015-10-26&enddate=2015-10-29&options=选项1,选项2,选项3,选项4
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

@@ -336,7 +336,9 @@ options=选项4
 ##接口示例
 
 ```
-暂无
+DELETE /oa/votes/4292f268-b834-435c-8c36-8ee1405cd3e7?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
 
 
 ```

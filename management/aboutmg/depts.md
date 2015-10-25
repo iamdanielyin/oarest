@@ -376,7 +376,11 @@ DELETE /oa/depts/309c51e0-387c-4c40-8acd-3bbd37fa214a?access_token=MmViNThiNWUtZ
 Host: localhost:7778
 Cache-Control: no-cache
 ———————————————————————————————————————————————————————————
-
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 ```
 
 ***

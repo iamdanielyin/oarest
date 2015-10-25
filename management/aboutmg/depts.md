@@ -372,7 +372,10 @@ users=87556163-f142-42a4-a5dc-50251c6af3ad%2Cacfc1ae2-6687-4b14-a147-c0907b283ec
 ##接口示例
 
 ```
-暂无
+DELETE /oa/depts/309c51e0-387c-4c40-8acd-3bbd37fa214a?access_token=MmViNThiNWUtZDliZS00MTdjLWE2YzAtY2M2MTgyYjgwMmMz HTTP/1.1
+Host: localhost:7778
+Cache-Control: no-cache
+
 ```
 
 ***

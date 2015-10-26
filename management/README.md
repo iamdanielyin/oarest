@@ -2,7 +2,7 @@
 
 * [管理相关](./aboutmg/README.md)
  * [用户管理](./aboutmg/users.md)
-   * 用户列表
+   * [用户列表](./aboutmg/users.md)
    * 用户详情
    * 新增用户
    * 修改用户

@@ -31,7 +31,7 @@
  * [权限管理](./aboutmg/permis.md)
    * [权限列表](./aboutmg/permis.md)
    * [权限分配](./aboutmg/permis.md)
- * 考勤统计
+ * [考勤统计](./aboutmg/permis.md)
    * 指定日期查询考勤记录
    * 查询月记录
    * 签到签退

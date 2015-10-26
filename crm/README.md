@@ -6,7 +6,7 @@
  * [合同列表](./crm/contracts.md)
  * [合同明细](./crm/contracts.md)
  * [新增合同](./crm/contracts.md)
- * 修改合同
+ * [修改合同](./crm/contracts.md)
  * 删除合同
  * 合同回款列表
  * 合同支出列表

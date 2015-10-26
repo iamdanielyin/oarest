@@ -136,7 +136,7 @@
 |customer|客户|<code>string</code>|是|客户ID|无|
 |totalamount|总金额|<code>number</code>|是|暂无|无|
 |signdate|签约日期|<code>string</code>|是|yyyy-MM-dd|无|
-|startdate|开始日期|<code>string</code>|是|暂无|无|
+|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|暂无|无|
 |headcontractor|合同负责人|<code>string</code>|是|暂无|无|
 |ourcontractor|我方签约人|<code>string</code>|是|暂无|无|

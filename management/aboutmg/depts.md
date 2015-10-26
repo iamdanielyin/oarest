@@ -35,6 +35,8 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |header|头像链接|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
+|profession|职位|<code>string</code>|是|暂无|无|
+|mobile|手机号码1|<code>string</code>|否|暂无|无|
 
 ##接口示例
 

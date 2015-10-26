@@ -58,28 +58,37 @@
 暂无
 ```
 
-
 #公司
 >暂无
 
-| 接口名称 | *项目详情* |
+| 接口名称 | *公司* |
 | -- | -- |
-| **接口地址** | */records* |
-| **请求方式** | <mark>POST</mark> |
+| **接口地址** | */briefing/company* |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 
 ##请求参数
 [<公共传入参数>](../README.md)  
 
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|userid|员工ID|<code>string</code>|是|暂无|无|
-|mcoin|M币|<code>digit</code>|否|暂无|无|
-|starval|星值|<code>digit</code>|否|暂无|无|
-
 ##返回参数
 [<公共返回参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|返回数据|<code>object</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|members|员工总数|<code>digit</code>|是|暂无|无|
+|totalogs|日志总数|<code>digit</code>|是|暂无|无|
+|monworkload|当月工作量|<code>string</code>|是|暂无|无|
+|effic|工作效率|<code>string</code>|是|百分比，如30%|无|
+|ontime|考勤准时率|<code>string</code>|是|百分比，如30%|无|
+|attend|出勤率|<code>string</code>|是|百分比，如30%|无|
+|newcusts|新增客户数|<code>digit</code>|是|暂无|无|
 
 ##接口示例
 

@@ -28,7 +28,7 @@
    * [修改投票](./aboutmg/votes.md)
    * [我要投票](./aboutmg/votes.md)
    * [删除投票](./aboutmg/votes.md)
- * [权限管理](./aboutmg/votes.md)
+ * [权限管理](./aboutmg/permis.md)
    * 权限列表
    * 权限分配
  * 考勤统计

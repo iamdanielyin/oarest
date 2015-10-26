@@ -1,9 +1,9 @@
-#我
+#日志数排行
 >暂无
 
-| 接口名称 | *我* |
+| 接口名称 | *日志数排行* |
 | -- | -- |
-| **接口地址** | */briefing/me* |
+| **接口地址** | */rankinglist/worklogs* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -22,35 +22,16 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|synergy|协同|<code>object</code>|是|暂无|无|
-|attendance|考勤|<code>object</code>|是|暂无|无|
-|others|其他|<code>object</code>|是|暂无|无|
+|user|用户|<code>object</code>|是|暂无|无|
+|amount|数量|<code>digit</code>|是|暂无|无|
 
-参数项：synergy
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|logsno|日志数|<code>digit</code>|是|暂无|无|
-|currmcoin|M币|<code>digit</code>|是|暂无|无|
-|totalmcoin|历史M币|<code>digit</code>|是|暂无|无|
-|curstarval|星值|<code>digit</code>|是|暂无|无|
-|totalstarval|历史星值|<code>digit</code>|是|暂无|无|
-|logindays|登录天数|<code>digit</code>|是|暂无|无|
-
-参数项：attendance
+参数项：user
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|ontime|准时率|<code>string</code>|是|百分比，如30%|无|
-|attend|出勤率|<code>string</code>|是|百分比，如30%|无|
-
-参数项：others
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|monworkload|当月工作量|<code>string</code>|是|暂无|无|
-|effic|工作效率|<code>string</code>|是|百分比，如30%|无|
-|newcusts|新增客户量|<code>digit</code>|是|暂无|无|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

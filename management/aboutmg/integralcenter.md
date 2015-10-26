@@ -22,7 +22,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|user|得分记录|<code>object</code>|是|暂无|无|
+|records|得分记录|<code>object</code>|是|暂无|无|
 |currcoin|当前M币|<code>digit</code>|是|暂无|无|
 
 参数项：user

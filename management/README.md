@@ -7,7 +7,7 @@
    * [新增用户](./aboutmg/users.md)
    * [修改用户](./aboutmg/users.md)
    * [删除用户](./aboutmg/users.md)
- * 部门管理
+ * [部门管理](./aboutmg/depts.md)
    * 部门列表
    * 部门检索
    * 部门详情

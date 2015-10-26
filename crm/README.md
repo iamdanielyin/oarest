@@ -10,7 +10,7 @@
  * [删除合同](./crm/contracts.md)
  * [合同回款列表](./crm/contracts.md)
  * [合同支出列表](./crm/contracts.md)
- * 新增合同回款
+ * [新增合同回款](./crm/contracts.md)
  * 新增合同支出
 * 客户
  * 客户列表

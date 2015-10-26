@@ -1,6 +1,6 @@
 #管理模块相关接口
 
-* [管理相关](./management/aboutmg/users.md)
+* [管理相关](./management/aboutmg/README.md)
  * 用户管理
    * 用户列表
    * 用户详情

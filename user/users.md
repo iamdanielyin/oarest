@@ -360,7 +360,7 @@ tt=1&vn=1.0&username=test1
 
 | 接口名称 | *上传文档* |
 | -- | -- |
-| **接口地址** | */contacts* |
+| **接口地址** | */docs* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

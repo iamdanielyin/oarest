@@ -216,7 +216,7 @@
 
 | 接口名称 | *新增客户数排行* |
 | -- | -- |
-| **接口地址** | */rankinglist/attend* |
+| **接口地址** | */rankinglist/newcusts* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -236,7 +236,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |user|用户|<code>object</code>|是|暂无|无|
-|attend|出勤率|<code>digit</code>|是|暂无|无|
+|newcusts|新增|<code>digit</code>|是|暂无|无|
 
 参数项：user
 

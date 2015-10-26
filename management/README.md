@@ -29,8 +29,8 @@
    * [我要投票](./aboutmg/votes.md)
    * [删除投票](./aboutmg/votes.md)
  * [权限管理](./aboutmg/permis.md)
-   * 权限列表
-   * 权限分配
+   * [权限列表](./aboutmg/permis.md)
+   * [权限分配](./aboutmg/permis.md)
  * 考勤统计
    * 指定日期查询考勤记录
    * 查询月记录

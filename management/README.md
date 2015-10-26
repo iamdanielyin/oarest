@@ -36,8 +36,8 @@
    * [查询月记录](./aboutmg/attendance.md)
    * [签到签退](./aboutmg/attendance.md)
  * [项目管理](./aboutmg/projects.md)
-   * 项目列表
-   * 项目详情
+   * [项目列表](./aboutmg/projects.md)
+   * [项目详情](./aboutmg/projects.md)
  * 员工加分
  * 工作简报
    * 我

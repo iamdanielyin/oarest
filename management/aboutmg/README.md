@@ -42,7 +42,7 @@
   * [我](./briefing.md)
   * [公司](./briefing.md)
   * [荣誉墙](./briefing.md)
-* 排行榜
+* [排行榜](.//rankinglist.md)
   * 日志数排行
   * 当月工作量排行
   * 工作效率排行

@@ -6,5 +6,4 @@
 * [通讯录](./users.md)
 * [上传文档](./users.md)
 * [删除文档](./users.md)
-* [个人信息](./users.md)
 * [效率查询](./users.md)

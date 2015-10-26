@@ -15,6 +15,22 @@
 ##返回参数
 [<公共返回参数>](../README.md)
 
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|合同数据|<code>object</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|合同ID|<code>string</code>|是|暂无|无|
+|name|合同名称|<code>array</code>|是|暂无|无|
+|amount|合同总额|<code>string</code>|是|暂无|无|
+|totalin|总收款|<code>string</code>|是|暂无|无|
+|totalout|总支出|<code>array</code>|是|暂无|无|
+|status|合同状态|<code>string</code>|是|暂无|无|
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |data|合同数组|<code>array</code>|是|暂无|无|

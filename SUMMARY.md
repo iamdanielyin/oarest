@@ -23,7 +23,7 @@
        * [项目管理](management/aboutmg/projects.md)
        * [员工加分](management/aboutmg/records.md)
        * [工作简报](management/aboutmg/briefing.md)
-       * 排行榜
+       * [排行榜](management/aboutmg/rankinglist.md)
        * 积分中心
    * [审批单据](management/approval/README.md)
        * [请假审批](management/approval/leave.md)

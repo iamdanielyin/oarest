@@ -40,8 +40,8 @@
    * [项目详情](./aboutmg/projects.md)
  * [员工加分](./aboutmg/records.md)
  * [工作简报](./aboutmg/briefing.md)
-   * [我
-   * [公司
+   * [我](./aboutmg/briefing.md)
+   * [公司](./aboutmg/briefing.md)
    * [荣誉墙](./aboutmg/briefing.md)
  * 排行榜
    * 日志数排行

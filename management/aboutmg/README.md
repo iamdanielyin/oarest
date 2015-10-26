@@ -46,7 +46,7 @@
   * [日志数排行](./rankinglist.md)
   * [当月工作量排行](./rankinglist.md)
   * [工作效率排行](./rankinglist.md)
-  * 考勤准时排行
+  * [考勤准时排行](./rankinglist.md)
   * 出勤率排行
   * 新增客户数排行
 * 积分中心

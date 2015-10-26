@@ -193,11 +193,6 @@ tt=1&vn=1.0&username=test1
 ##请求参数
 [<公共传入参数>](../README.md)  
 
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|username|用户名|<code>string</code>|是|暂无|无|
-|password|密码|<code>string</code>|是|暂无|无|
-
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -27,7 +27,7 @@
   * [修改投票](./votes.md)
   * [我要投票](./votes.md)
   * [删除投票](./votes.md)
-* 权限管理
+* [权限管理](./permis.md)
   * [权限列表](./permis.md)
   * [权限分配](./permis.md)
 * [考勤统计](./attendance.md)

@@ -35,7 +35,7 @@
    * [指定日期查询考勤记录](./aboutmg/attendance.md)
    * [查询月记录](./aboutmg/attendance.md)
    * [签到签退](./aboutmg/attendance.md)
- * 项目管理
+ * [项目管理](./aboutmg/attendance.md)
    * 项目列表
    * 项目详情
  * 员工加分

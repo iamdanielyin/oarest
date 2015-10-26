@@ -80,23 +80,29 @@
 
 参数项：data
 
+
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|客户ID|<code>string</code>|是|暂无|无|
+|name|公司名称|<code>string</code>|是|暂无|无|
+|address|地址|<code>string</code>|否|暂无|无|
+|site|网址|<code>string</code>|否|暂无|无|
+|contact|联系人名称|<code>string</code>|否|暂无|无|
+|tel|电话|<code>string</code>|否|暂无|无|
+|status|客户状态|<code>string</code>|是|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
+|level|客户分级|<code>string</code>|是|0重要、1紧急、2普通、3重要且紧急|无|
+
+参数项：creator
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|title|标题|<code>string</code>|是|暂无|无|
-|customer|客户|<code>object</code>|是|暂无|无|
-|totalamount|总金额|<code>number</code>|是|暂无|无|
-|signdate|签约日期|<code>string</code>|是|yyyy-MM-dd|无|
-|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|headcontractor|客户负责人|<code>object</code>|是|暂无|无|
-|ourcontractor|我方签约人|<code>object</code>|是|暂无|无|
-|custcontractor|客户签约人|<code>object</code>|是|暂无|无|
-|paymethod|支付方式|<code>digit</code>|是|0支票，1现金，2网上转账，3其他|无|
-|cno|客户编号|<code>string</code>|是|暂无|无|
-|content|客户正文|<code>string</code>|是|暂无|无|
-|status|客户状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
-|creator|创建人|<code>object</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-M      M-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|

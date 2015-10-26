@@ -30,9 +30,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
-|createtim|时间|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-
+|createtime|时间|<code>string</code>|是|暂无|无|
 ##接口示例
 
 ```

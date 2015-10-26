@@ -25,7 +25,7 @@
 |records|得分记录|<code>array</code>|是|暂无|无|
 |currcoin|当前M币|<code>digit</code>|是|暂无|无|
 
-参数项：user
+参数项：records
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

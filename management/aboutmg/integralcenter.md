@@ -38,13 +38,12 @@
 ```
 
 
-
-#新增客户数排行
+#M币记录
 >暂无
 
-| 接口名称 | *新增客户数排行* |
+| 接口名称 | *M币记录* |
 | -- | -- |
-| **接口地址** | */rankinglist/newcusts* |
+| **接口地址** | */integralcenter/mcoin* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -63,17 +62,15 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|user|用户|<code>object</code>|是|暂无|无|
-|newcusts|新增客户数|<code>digit</code>|是|暂无|无|
+|records|得分记录|<code>array</code>|是|暂无|无|
+|currcoin|当前M币|<code>digit</code>|是|暂无|无|
 
-参数项：user
+参数项：records
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-
+|mcoin|M币|<code>digit</code>|是|暂无|无|
+|createtime|时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 ##接口示例
 
 ```

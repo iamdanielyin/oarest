@@ -186,7 +186,7 @@ tt=1&vn=1.0&username=test1
 | 接口名称 | *登录* |
 | -- | -- |
 | **接口地址** | */users/{id}* |
-| **请求方式** | <mark>POST</mark> |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

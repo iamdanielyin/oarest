@@ -32,9 +32,9 @@
    * [权限列表](./aboutmg/permis.md)
    * [权限分配](./aboutmg/permis.md)
  * [考勤统计](./aboutmg/attendance.md)
-   * 指定日期查询考勤记录
-   * 查询月记录
-   * 签到签退
+   * [指定日期查询考勤记录](./aboutmg/attendance.md)
+   * [查询月记录](./aboutmg/attendance.md)
+   * [签到签退](./aboutmg/attendance.md)
  * 项目管理
    * 项目列表
    * 项目详情

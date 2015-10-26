@@ -8,13 +8,13 @@
    * [修改用户](./aboutmg/users.md)
    * [删除用户](./aboutmg/users.md)
  * [部门管理](./aboutmg/depts.md)
-   * 部门列表
-   * 部门检索
-   * 部门详情
-   * 新增部门
-   * 添加成员
-   * 修改部门
-   * 删除部门
+   * [部门列表](./aboutmg/depts.md)
+   * [部门检索](./aboutmg/depts.md)
+   * [部门详情](./aboutmg/depts.md)
+   * [新增部门](./aboutmg/depts.md)
+   * [添加成员](./aboutmg/depts.md)
+   * [修改部门](./aboutmg/depts.md)
+   * [删除部门](./aboutmg/depts.md)
  * 日程管理
    * 日程列表
    * 日程详情

@@ -132,7 +132,6 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|客户ID|<code>string</code>|是|暂无|无|
 |name|公司名称|<code>string</code>|是|暂无|无|
 |address|地址|<code>string</code>|否|暂无|无|
 |site|网址|<code>string</code>|否|暂无|无|

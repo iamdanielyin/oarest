@@ -3,8 +3,6 @@
 * 用户管理
   * [用户列表](./users.md)
   * [用户详情](./users.md)
-  * [M币记录](./users.md)
-  * [星值记录](./users.md)
   * [新增用户](./users.md)
   * [修改用户](./users.md)
   * [删除用户](./users.md)

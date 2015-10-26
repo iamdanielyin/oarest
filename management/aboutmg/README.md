@@ -14,7 +14,7 @@
   * [添加成员](./depts.md)
   * [修改部门](./depts.md)
   * [删除部门](./depts.md)
-* 日程管理
+* [日程管理](./schedule.md)
   * [日程列表](./schedule.md)
   * [日程详情](./schedule.md)
   * [新增日程](./schedule.md)

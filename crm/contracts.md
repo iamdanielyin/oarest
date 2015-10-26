@@ -144,7 +144,7 @@
 |paymethod|支付方式|<code>digit</code>|是|0支票、1现金、2网上转账、3其他|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
-|approver|审批人|<code>string</code>|是|暂无|无|
+|approver|审批人|<code>string</code>|是|用户ID|无|
 |images|合同图片|<code>string</code>|是|暂无|无|
 
 

@@ -49,6 +49,6 @@
   * [考勤准时排行](./rankinglist.md)
   * [出勤率排行](./rankinglist.md)
   * [新增客户数排行](./rankinglist.md)
-* 积分中心
+* [积分中心]management/aboutmg/integralcenter.md
   * M币记录
   * 星值记录

@@ -34,7 +34,6 @@
 |creator|创建人|<code>object</code>|是|暂无|无|
 |level|客户分级|<code>string</code>|是|0重要、1紧急、2普通、3重要且紧急|无|
 
-
 参数项：creator
 
 |编码|名称|类型|必输|说明|默认值|

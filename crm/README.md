@@ -4,7 +4,7 @@
  * [效率统计](./crm/crminfo.md)
 * [合同](./crm/contracts.md)
  * [合同列表](./crm/contracts.md)
- * 合同明细
+ * [合同明细](./crm/contracts.md)
  * 新增合同
  * 修改合同
  * 删除合同

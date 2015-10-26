@@ -154,58 +154,6 @@ tt=1&vn=1.0&username=test1&password=123456
 ##返回参数
 [<公共返回参数>](../README.md)
 
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|data|返回数据|<code>object</code>|是|暂无|无|
-
-参数项：data
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|access_token|访问令牌|<code>string</code>|是|暂无|无|
-|id|用户ID|<code>string</code>|是|暂无|无|
-|username|用户名|<code>string</code>|是|暂无|无|
-|isboss|是否老板|<code>boolean</code>|是|暂无|无|
-|headportrait|头像链接|<code>string</code>|否|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-|sex|性别|<code>digit</code>|否|0男,1女|无|
-|dept|部门|<code>object</code>|是|暂无|无|
-|profession|职位|<code>string</code>|是|暂无|无|
-|superior|上级领导|<code>object</code>|是|暂无|无|
-|mobile1|手机号码1|<code>string</code>|否|暂无|无|
-|mobile2|手机号码2|<code>string</code>|否|暂无|无|
-|mobile3|手机号码3|<code>string</code>|否|暂无|无|
-|qq|QQ|<code>string</code>|否|暂无|无|
-|weixin|微信|<code>string</code>|否|暂无|无|
-|mail|邮箱|<code>string</code>|否|暂无|无|
-|curmcoin|当前M币|<code>digit</code>|是|暂无|无|
-|curstarval|当前星值|<code>digit</code>|是|暂无|无|
-|totalmcoin|累计M币|<code>digit</code>|是|暂无|无|
-|totalstarval|累计星值|<code>digit</code>|是|暂无|无|
-|remark|备注|<code>string</code>|否|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-
-参数项：dept
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|name|名称|<code>string</code>|是|暂无|无|
-|user|负责人|<code>object</code>|是|暂无|无|
-|remark|备注|<code>string</code>|是|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-
-
-参数项：superior、dept.user
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
-
 ##接口示例
 
 ```

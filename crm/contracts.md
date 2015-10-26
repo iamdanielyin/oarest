@@ -366,7 +366,9 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|回款数组|<code>string</code>|是|暂无|无|
+|sum|金额|<code>string</code>|是|暂无|无|
+|dbilldate|回款日期|<code>string</code>|是|暂无|无|
+|period|期次|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

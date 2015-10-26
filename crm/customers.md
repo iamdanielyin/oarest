@@ -24,10 +24,15 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|客户ID|<code>string</code>|是|暂无|无|
-|name|客户名称|<code>array</code>|是|暂无|无|
-|amount|客户总额|<code>string</code>|是|暂无|无|
+|id|客户ID|<code>string</code>|是|暂无|无||name|公司名称|<code>string</code>|是|暂无|无|
+|address|地址|<code>string</code>|是|暂无|无|
+|site|网址|<code>string</code>|是|暂无|无|
+|contact|联系人名称|<code>string</code>|是|暂无|无|
+|tel|电话|<code>string</code>|是|暂无|无|
 |status|客户状态|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>string</code>|是|暂无|无|
+|level|客户分级|<code>string</code>|是|暂无|无|
+
 
 
 ##接口示例

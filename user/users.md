@@ -179,3 +179,135 @@ tt=1&vn=1.0&username=test1
 
 
 
+#登录
+>接口描述
+
+
+| 接口名称 | *登录* |
+| -- | -- |
+| **接口地址** | */users/login* |
+| **请求方式** | <mark>POST</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)  
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|username|用户名|<code>string</code>|是|暂无|无|
+|password|密码|<code>string</code>|是|暂无|无|
+
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|返回数据|<code>object</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|access_token|访问令牌|<code>string</code>|是|暂无|无|
+|id|用户ID|<code>string</code>|是|暂无|无|
+|username|用户名|<code>string</code>|是|暂无|无|
+|isboss|是否老板|<code>boolean</code>|是|暂无|无|
+|headportrait|头像链接|<code>string</code>|否|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
+|sex|性别|<code>digit</code>|否|0男,1女|无|
+|dept|部门|<code>object</code>|是|暂无|无|
+|profession|职位|<code>string</code>|是|暂无|无|
+|superior|上级领导|<code>object</code>|是|暂无|无|
+|mobile1|手机号码1|<code>string</code>|否|暂无|无|
+|mobile2|手机号码2|<code>string</code>|否|暂无|无|
+|mobile3|手机号码3|<code>string</code>|否|暂无|无|
+|qq|QQ|<code>string</code>|否|暂无|无|
+|weixin|微信|<code>string</code>|否|暂无|无|
+|mail|邮箱|<code>string</code>|否|暂无|无|
+|curmcoin|当前M币|<code>digit</code>|是|暂无|无|
+|curstarval|当前星值|<code>digit</code>|是|暂无|无|
+|totalmcoin|累计M币|<code>digit</code>|是|暂无|无|
+|totalstarval|累计星值|<code>digit</code>|是|暂无|无|
+|remark|备注|<code>string</code>|否|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
+
+参数项：dept
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|name|名称|<code>string</code>|是|暂无|无|
+|user|负责人|<code>object</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
+
+
+参数项：superior、dept.user
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
+
+##接口示例
+
+```
+POST /oa/users/login HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+tt=1&vn=1.0&username=test1&password=123456
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "data": {
+        "profession": "部门职员",
+        "qq": "11223344",
+        "createtime": "2015-09-29 11:39:54",
+        "mail": "13456789012@qq.com",
+        "modifytime": "2015-09-29 13:44:51",
+        "sex": 0,
+        "mobile1": "13456789012",
+        "totalmcoin": 200,
+        "remark": "刚入职",
+        "dept": {
+            "createtime": "2015-09-29 13:39:42",
+            "modifytime": "",
+            "name": "市场部",
+            "remark": "",
+            "id": "8da0fc5f-6542-4166-bf3f-f28310487bd6",
+            "user": {
+                "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+                "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
+                "realname": "赵丽"
+            }
+        },
+        "totalstarval": 181,
+        "realname": "张三",
+        "access_token": "YTE5MGY1NmEtYmNiNy00NmVkLTg1MjItNzVmNTk0MzRmNTM5",
+        "curstarval": 11,
+        "superior": {
+            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
+            "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
+            "realname": "赵丽"
+        },
+        "weixin": "13456789012",
+        "mobile3": "13678901234",
+        "headportrait": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
+        "mobile2": "13567890123",
+        "isboss": false,
+        "curmcoin": 112,
+        "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
+        "username": "test1"
+    },
+    "usermsg": "正常"
+}
+
+```

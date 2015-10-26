@@ -291,11 +291,10 @@
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|合同ID|<code>string</code>|是|暂无|无|
-|name|合同名称|<code>array</code>|是|暂无|无|
-|amount|合同总额|<code>string</code>|是|暂无|无|
-|status|合同状态|<code>string</code>|是|暂无|无|
+|:---|:---|:---|:--:|:---|:-----||sum|金额|<code>string</code>|是|暂无|无|
+|dbilldate|回款日期|<code>string</code>|是|暂无|无|
+|period|期次|<code>string</code>|是|暂无|无|
+
 
 
 ##接口示例

@@ -138,7 +138,7 @@ tt=1&vn=1.0&username=test1&password=123456
 
 | 接口名称 | *忘记密码* |
 | -- | -- |
-| **接口地址** | */users/{id}/password* |
+| **接口地址** | */users/password* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -148,7 +148,7 @@ tt=1&vn=1.0&username=test1&password=123456
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|username|用户名|<code>string</code>|是|暂无|无|
+|username||<code>string</code>|是|暂无|无|
 |password|密码|<code>string</code>|是|暂无|无|
 
 

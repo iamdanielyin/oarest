@@ -31,7 +31,7 @@
 |contact|联系人名称|<code>string</code>|是|暂无|无|
 |tel|电话|<code>string</code>|是|暂无|无|
 |status|客户状态|<code>string</code>|是|暂无|无|
-|creator|创建人|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
 |level|客户分级|<code>string</code>|是|暂无|无|
 
 

@@ -141,7 +141,7 @@
 |headcontractor|合同负责人|<code>string</code>|是|用户ID|无|
 |ourcontractor|我方签约人|<code>string</code>|是|用户ID|无|
 |custcontractor|客户签约人|<code>string</code>|是|用户ID|无|
-|paymethod|支付方式|<code>digit</code>|是|暂无|无|
+|paymethod|支付方式|<code>digit</code>|是|[{"0":"支票"},{"1":"现金"},{"2":"网上转账"},{"3":"其他"}]|无|
 |cno|合同编号|<code>string</code>|是|暂无|无|
 |content|合同正文|<code>string</code>|是|暂无|无|
 |approver|审批人|<code>string</code>|是|暂无|无|

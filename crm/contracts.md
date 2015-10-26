@@ -388,7 +388,7 @@
 
 | 接口名称 | *新增合同回款* |
 | -- | -- |
-| **接口地址** | */contracts/{id}/receiving* |
+| **接口地址** | */contracts/{id}/spending* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

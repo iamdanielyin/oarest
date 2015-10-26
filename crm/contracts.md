@@ -27,8 +27,6 @@
 |id|合同ID|<code>string</code>|是|暂无|无|
 |name|合同名称|<code>array</code>|是|暂无|无|
 |amount|合同总额|<code>string</code>|是|暂无|无|
-|totalin|总收款|<code>string</code>|是|暂无|无|
-|totalout|总支出|<code>array</code>|是|暂无|无|
 |status|合同状态|<code>string</code>|是|暂无|无|
 
 

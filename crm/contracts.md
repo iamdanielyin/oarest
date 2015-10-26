@@ -31,6 +31,39 @@
 |totalout|总支出|<code>array</code>|是|暂无|无|
 |status|合同状态|<code>string</code>|是|暂无|无|
 
+
+##接口示例
+
+```
+暂无
+
+```
+
+
+
+
+
+
+***
+
+#合同明细
+>接口描述
+
+
+| 接口名称 | *合同明细* |
+| -- | -- |
+| **接口地址** | */contracts/{id}* |
+| **请求方式** | <mark>GET</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |data|合同数组|<code>array</code>|是|暂无|无|
@@ -73,52 +106,6 @@
 |username|用户名|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|是|暂无|无|
-
-##接口示例
-
-```
-暂无
-
-```
-
-
-
-
-
-
-***
-
-#合同明细
->接口描述
-
-
-| 接口名称 | *合同明细* |
-| -- | -- |
-| **接口地址** | */contracts/{id}* |
-| **请求方式** | <mark>GET</mark> |
-| **数据格式** | <code>JSON</code> |
-
-
-##请求参数
-[<公共传入参数>](../README.md)
-
-##返回参数
-[<公共返回参数>](../README.md)
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|data|合同数据|<code>object</code>|是|暂无|无|
-
-参数项：data
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|合同ID|<code>string</code>|是|暂无|无|
-|name|合同名称|<code>array</code>|是|暂无|无|
-|amount|合同总额|<code>string</code>|是|暂无|无|
-|totalin|总收款|<code>string</code>|是|暂无|无|
-|totalout|总支出|<code>array</code>|是|暂无|无|
-|status|合同状态|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

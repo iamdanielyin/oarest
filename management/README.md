@@ -3,10 +3,10 @@
 * [管理相关](./aboutmg/README.md)
  * [用户管理](./aboutmg/users.md)
    * [用户列表](./aboutmg/users.md)
-   * 用户详情
-   * 新增用户
-   * 修改用户
-   * 删除用户
+   * [用户详情](./aboutmg/users.md)
+   * [新增用户](./aboutmg/users.md)
+   * [修改用户](./aboutmg/users.md)
+   * [删除用户](./aboutmg/users.md)
  * 部门管理
    * 部门列表
    * 部门检索

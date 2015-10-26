@@ -44,12 +44,12 @@
    * [公司](./aboutmg/briefing.md)
    * [荣誉墙](./aboutmg/briefing.md)
  * [排行榜](./aboutmg/rankinglist.md)
-   * 日志数排行
-   * 当月工作量排行
-   * 工作效率排行
-   * 考勤准时排行
-   * 出勤率排行
-   * 新增客户数排行
+   * [日志数排行](./aboutmg/rankinglist.md)
+   * [当月工作量排行](./aboutmg/rankinglist.md)
+   * [工作效率排行](./aboutmg/rankinglist.md)
+   * [考勤准时排行](./aboutmg/rankinglist.md)
+   * [出勤率排行](./aboutmg/rankinglist.md)
+   * [新增客户数排行](./aboutmg/rankinglist.md)
  * 积分中心
    * M币记录
    * 星值记录

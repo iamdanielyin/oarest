@@ -253,50 +253,5 @@ tt=1&vn=1.0&username=test1
 ```
 
 ———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "data": {
-        "profession": "部门职员",
-        "qq": "11223344",
-        "createtime": "2015-09-29 11:39:54",
-        "mail": "13456789012@qq.com",
-        "modifytime": "2015-09-29 13:44:51",
-        "sex": 0,
-        "mobile1": "13456789012",
-        "totalmcoin": 200,
-        "remark": "刚入职",
-        "dept": {
-            "createtime": "2015-09-29 13:39:42",
-            "modifytime": "",
-            "name": "市场部",
-            "remark": "",
-            "id": "8da0fc5f-6542-4166-bf3f-f28310487bd6",
-            "user": {
-                "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
-                "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-                "realname": "赵丽"
-            }
-        },
-        "totalstarval": 181,
-        "realname": "张三",
-        "access_token": "YTE5MGY1NmEtYmNiNy00NmVkLTg1MjItNzVmNTk0MzRmNTM5",
-        "curstarval": 11,
-        "superior": {
-            "header": "http://img5.duitang.com/uploads/item/201508/12/20150812204032_eiAQk.thumb.224_0.jpeg",
-            "id": "51c58245-1921-44a2-8aed-60fc3b85cc3c",
-            "realname": "赵丽"
-        },
-        "weixin": "13456789012",
-        "mobile3": "13678901234",
-        "headportrait": "http://img5.duitang.com/uploads/item/201504/21/20150421H4340_uv24P.thumb.224_0.jpeg",
-        "mobile2": "13567890123",
-        "isboss": false,
-        "curmcoin": 112,
-        "id": "5d772756-3b06-4b75-9de1-f9c07310ec06",
-        "username": "test1"
-    },
-    "usermsg": "正常"
-}
 
 ```

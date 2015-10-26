@@ -38,7 +38,7 @@
   * [项目列表](./projects.md)
   * [项目详情](./projects.md)
 * [员工加分](./records.md)
-* 工作简报
+* [工作简报](./briefing.md)
   * [我](./briefing.md)
   * [公司](./briefing.md)
   * [荣誉墙](./briefing.md)

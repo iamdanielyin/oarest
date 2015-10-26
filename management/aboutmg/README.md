@@ -6,7 +6,7 @@
   * [新增用户](./users.md)
   * [修改用户](./users.md)
   * [删除用户](./users.md)
-* 部门管理
+* [部门管理](./depts.md)
   * [部门列表](./depts.md)
   * [部门检索](./depts.md)
   * [部门详情](./depts.md)

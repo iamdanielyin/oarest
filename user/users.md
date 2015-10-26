@@ -251,12 +251,7 @@ tt=1&vn=1.0&username=test1
 ##接口示例
 
 ```
-POST /oa/users/login HTTP/1.1
-Host: 112.74.131.85
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
 
-tt=1&vn=1.0&username=test1&password=123456
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

@@ -50,5 +50,5 @@
   * [出勤率排行](./rankinglist.md)
   * [新增客户数排行](./rankinglist.md)
 * [积分中心](./integralcenter.md)
-  * M币记录
-  * 星值记录
+  * [M币记录](./integralcenter.md)
+  * [星值记录](./integralcenter.md)

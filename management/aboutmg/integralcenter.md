@@ -3,7 +3,7 @@
 
 | 接口名称 | *M币记录* |
 | -- | -- |
-| **接口地址** | */rankinglist/attend* |
+| **接口地址** | */integralcenter/attend* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

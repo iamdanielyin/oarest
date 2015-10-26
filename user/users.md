@@ -275,7 +275,7 @@ tt=1&vn=1.0&username=test1
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|用户ID|<code>string</code>|是|暂无|无|
+|id|用户ID|<code>string</code>||暂无|无|
 |username|用户名|<code>string</code>|是|暂无|无|
 |isboss|是否老板|<code>boolean</code>|是|暂无|无|
 |headportrait|头像链接|<code>string</code>|否|暂无|无|

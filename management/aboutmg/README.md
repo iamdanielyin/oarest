@@ -48,7 +48,7 @@
   * [工作效率排行](./rankinglist.md)
   * [考勤准时排行](./rankinglist.md)
   * [出勤率排行](./rankinglist.md)
-  * 新增客户数排行
+  * [新增客户数排行](./rankinglist.md)
 * 积分中心
   * M币记录
   * 星值记录

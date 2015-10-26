@@ -294,7 +294,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |sum|金额|<code>number</code>|是|暂无|无|
 |dbilldate|回款日期|<code>string</code>|是|暂无|无|
-|period|期次|<code>string</code>|是|暂无|无|
+|period|期次|<code>di</code>|是|暂无|无|
 
 
 

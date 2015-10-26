@@ -167,7 +167,7 @@
 
 | 接口名称 | *修改合同* |
 | -- | -- |
-| **接口地址** | */crm/efficiency* |
+| **接口地址** | */contracts* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

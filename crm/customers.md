@@ -80,10 +80,6 @@
 
 参数项：data
 
-
-
-参数项：data
-
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|客户ID|<code>string</code>|是|暂无|无|
@@ -95,14 +91,6 @@
 |status|客户状态|<code>string</code>|是|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |level|客户分级|<code>string</code>|是|0重要、1紧急、2普通、3重要且紧急|无|
-
-参数项：creator
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-M      M-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|

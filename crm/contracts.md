@@ -168,7 +168,7 @@
 | 接口名称 | *修改合同* |
 | -- | -- |
 | **接口地址** | */contracts/{id}* |
-| **请求方式** | <mark>PATC</mark> |
+| **请求方式** | <mark>PATCH</mark> |
 | **数据格式** | <code>JSON</code> |
 
 ##请求参数

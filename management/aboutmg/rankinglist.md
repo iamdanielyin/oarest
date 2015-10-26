@@ -129,7 +129,7 @@
 
 | 接口名称 | *考勤准时排行* |
 | -- | -- |
-| **接口地址** | */rankinglist/effic* |
+| **接口地址** | */rankinglist/ontime* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -149,7 +149,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |user|用户|<code>object</code>|是|暂无|无|
-|effic|工作效率|<code>digit</code>|是|暂无|无|
+|ontime|工作效率|<code>digit</code>|是|暂无|无|
 
 参数项：user
 

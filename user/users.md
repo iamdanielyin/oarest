@@ -149,7 +149,7 @@ tt=1&vn=1.0&username=test1&password=123456
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |username|用户名|<code>string</code>|是|暂无|无|
-|mobile||<code>string</code>|是|暂无|无|
+|mobile|手机|<code>string</code>|是|暂无|无|
 |password|密码|<code>string</code>|是|暂无|无|
 
 

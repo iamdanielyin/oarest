@@ -3,7 +3,7 @@
 
 | 接口名称 | *客户列表* |
 | -- | -- |
-| **接口地址** | */contracts* |
+| **接口地址** | */customers* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -50,7 +50,7 @@
 
 | 接口名称 | *客户明细* |
 | -- | -- |
-| **接口地址** | */contracts/{id}* |
+| **接口地址** | */customers/{id}* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -86,7 +86,7 @@
 |status|客户状态|<code>digit</code>|是|0执行中，1执行中结束，2意外终止|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-M      M-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：customer
@@ -123,7 +123,7 @@
 
 | 接口名称 | *新增客户* |
 | -- | -- |
-| **接口地址** | */contracts* |
+| **接口地址** | */customers* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
@@ -167,7 +167,7 @@
 
 | 接口名称 | *删除客户* |
 | -- | -- |
-| **接口地址** | */contracts/{id}* |
+| **接口地址** | */customers/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 

@@ -16,11 +16,11 @@
    * [修改部门](./aboutmg/depts.md)
    * [删除部门](./aboutmg/depts.md)
  * [日程管理](./aboutmg/schedule.md)
-   * 日程列表
-   * 日程详情
-   * 新增日程
-   * 修改日程
-   * 删除日程
+   * [日程列表](./aboutmg/schedule.md)
+   * [日程详情](./aboutmg/schedule.md)
+   * [新增日程](./aboutmg/schedule.md)
+   * [修改日程](./aboutmg/schedule.md)
+   * [删除日程](./aboutmg/schedule.md)
  * 投票管理
    * 投票列表
    * 投票详情

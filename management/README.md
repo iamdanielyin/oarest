@@ -22,12 +22,12 @@
    * [修改日程](./aboutmg/schedule.md)
    * [删除日程](./aboutmg/schedule.md)
  * [投票管理](./aboutmg/votes.md)
-   * [投票列表
-   * [投票详情
-   * [新增投票
-   * [修改投票
-   * [我要投票
-   * [删除投票
+   * [投票列表](./aboutmg/votes.md)
+   * [投票详情](./aboutmg/votes.md)
+   * [新增投票](./aboutmg/votes.md)
+   * [修改投票](./aboutmg/votes.md)
+   * [我要投票](./aboutmg/votes.md)
+   * [删除投票](./aboutmg/votes.md)
  * 权限管理
    * 权限列表
    * 权限分配

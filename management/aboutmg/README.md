@@ -20,7 +20,7 @@
   * [新增日程](./schedule.md)
   * [修改日程](./schedule.md)
   * [删除日程](./schedule.md)
-* 投票管理
+* [投票管理](./votes.md)
   * [投票列表](./votes.md)
   * [投票详情](./votes.md)
   * [新增投票](./votes.md)

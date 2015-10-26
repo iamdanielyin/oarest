@@ -1,6 +1,6 @@
 # CRM模块相关接口
 * [CRM信息](./crminfo.md)
- * [本月计划](./crm/crminfo.md)
+ * [本月计划](./crminfo.md)
  * [效率统计](./crm/crminfo.md)
 * [合同](./crm/contracts.md)
  * [合同列表](./crm/contracts.md)

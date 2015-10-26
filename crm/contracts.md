@@ -132,8 +132,8 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|title|标题|<code>string</code>|是|暂无|无|
-|customer|客户|<code>string</code>|是|暂无|无|
+|title|标题|<code>string</code>|是|唯一|无|
+|customer|客户|<code>string</code>|是|客户ID|无|
 |totalamount|总金额|<code>string</code>|是|暂无|无|
 |signdate|签约日期|<code>string</code>|是|暂无|无|
 |startdate|开始日期|<code>string</code>|是|暂无|无|

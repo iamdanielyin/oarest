@@ -309,7 +309,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 | 接口名称 | *修改用户资料* |
 | -- | -- |
-| **接口地址** | */users/detail* |
+| **接口地址** | */users/{id}* |
 | **请求方式** | <mark>PATCH</mark> |
 | **数据格式** | <code>JSON</code> |
 

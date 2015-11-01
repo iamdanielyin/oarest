@@ -53,6 +53,7 @@
 |month|月份|<code>string</code>|是|暂无|无|
 |flag|查询标识|<code>digit</code>|是|0个人，1部门，2部门或个人|无|
 
+
 ##返回参数
 [<公共返回参数>](../README.md)
 

@@ -367,6 +367,8 @@ tt=1&vn=1.0&username=test1&password=test1
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+|name|文档|<code>string</code>|是|暂无|无
+|url|文档链接|<code>string</code>|是|暂无|无
 |url|文档链接|<code>string</code>|是|暂无|无|
 
 ##接口示例

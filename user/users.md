@@ -138,7 +138,7 @@ tt=1&vn=1.0&username=test1&password=123456
 
 | 接口名称 | *忘记密码* |
 | -- | -- |
-| **接口地址** | */users/ma* |
+| **接口地址** | */mail* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

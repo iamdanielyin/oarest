@@ -191,7 +191,7 @@ tt=1&vn=1.0&username=test1
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |username|用户名|<code>string</code>|是|暂无|无|
-|password|用户名|<code>string</code>|是|暂无|无|
+|password||<code>string</code>|是|暂无|无|
 
 
 ##返回参数

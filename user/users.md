@@ -430,6 +430,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |:---|:---|:---|:--:|:---|:-----|
 |flag|查询标识|<code>digit</code>|是|0按部门查询，1按用户查询|无|
 |ids|ID信息|<code>string</code>|是|如果是按部门查询，那么这里是传部门ID；如果是用户查询，这里是传用户ID，多个用户用英文逗号分隔|无|
+|flag|查询标识|<code>digit</code>|是|0按部门查询，1按用户查询|无|
 
 
 ##返回参数

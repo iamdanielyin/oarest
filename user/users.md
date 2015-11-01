@@ -132,7 +132,7 @@ tt=1&vn=1.0&username=test1&password=123456
 ```
 
 
-#忘记密码
+#发送邮件
 >接口描述
 
 

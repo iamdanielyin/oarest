@@ -122,49 +122,6 @@
 
 
 
-#新增合同
->接口描述
-
-
-| 接口名称 | *新增合同* |
-| -- | -- |
-| **接口地址** | */contracts* |
-| **请求方式** | <mark>POST</mark> |
-| **数据格式** | <code>JSON</code> |
-
-##请求参数
-[<公共传入参数>](../README.md)
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|title|标题|<code>string</code>|是|唯一|无|
-|customer|客户|<code>string</code>|是|客户ID|无|
-|totalamount|总金额|<code>number</code>|是|暂无|无|
-|signdate|签约日期|<code>string</code>|是|yyyy-MM-dd|无|
-|startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
-|enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|
-|headcontractor|合同负责人|<code>string</code>|是|用户ID|无|
-|ourcontractor|我方签约人|<code>string</code>|是|用户ID|无|
-|custcontractor|客户签约人|<code>string</code>|是|用户ID|无|
-|paymethod|支付方式|<code>digit</code>|是|0支票、1现金、2网上转账、3其他|无|
-|cno|合同编号|<code>string</code>|是|暂无|无|
-|content|合同正文|<code>string</code>|是|暂无|无|
-|approver|审批人|<code>string</code>|是|用户ID|无|
-|images|合同图片|<code>string</code>|是|图片链接，多个用英文逗号分隔|无|
-
-##返回参数
-[<公共返回参数>](../README.md)
-
-##接口示例
-
-```
-暂无
-
-```
-
-***
-
-
 
 
 #删除合同

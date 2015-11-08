@@ -24,8 +24,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |records|得分记录|<code>array</code>|是|暂无|无|
-|currcoin|当前M币|<code>digit</code>|是|暂无|无|
-|totalcoin|历史M币|<code>digit</code>|是|暂无|无|
+|currmcoin|当前M币|<code>digit</code>|是|暂无|无|
+|totalmcoin|历史M币|<code>digit</code>|是|暂无|无|
 
 参数项：records
 
@@ -67,7 +67,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |records|得分记录|<code>array</code>|是|暂无|无|
 |currstarval|当前星值|<code>digit</code>|是|暂无|无|
-|totalstarval|星值|<code>digit</code>|是|暂无|无|
+|totalstarval|历史星值|<code>digit</code>|是|暂无|无|
 
 参数项：records
 

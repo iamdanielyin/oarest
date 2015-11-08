@@ -25,7 +25,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |records|得分记录|<code>array</code>|是|暂无|无|
 |currcoin|当前M币|<code>digit</code>|是|暂无|无|
-|totcoin|历史M币|<code>digit</code>|是|暂无|无|
+|totalcoin|历史M币|<code>digit</code>|是|暂无|无|
 
 参数项：records
 
@@ -67,6 +67,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |records|得分记录|<code>array</code>|是|暂无|无|
 |currstarval|当前星值|<code>digit</code>|是|暂无|无|
+|totalstarval|当前星值|<code>digit</code>|是|暂无|无|
 
 参数项：records
 

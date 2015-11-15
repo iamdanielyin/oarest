@@ -101,7 +101,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
 
-参数项：headcontractor、ourcontractor、custcontractor、creator
+参数项：headcontractor、ourcontractor、creator
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

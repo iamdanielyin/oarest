@@ -128,7 +128,7 @@
 |id|客户ID|<code>string</code>|是|暂无|无|
 |name|公司名称|<code>string</code>|是|暂无|无|
 
-参数项：approver、creator、headcontractor、ourcontractor、custcontractor
+参数项：approver、creator、headcontractor、ourcontractor
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

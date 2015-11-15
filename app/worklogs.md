@@ -31,6 +31,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
+|creator|创建人|<code>object</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 

@@ -35,7 +35,7 @@
 |content|内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
-参数项：creator、approver
+参数项：creator
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

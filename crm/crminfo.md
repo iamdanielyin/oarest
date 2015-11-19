@@ -16,6 +16,12 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
+|data|合同数组|<code>array</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
 |monthdeal|本月成交|<code>string</code>|是|暂无|无|
 |monthtarget|本月目标|<code>string</code>|是|暂无|无|
 |monthback|本月回款|<code>string</code>|是|暂无|无|

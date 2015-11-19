@@ -89,11 +89,6 @@ yearmonth=2015-09&targetamount=123456
 {
 	"statuscode":"0000",
 	"statusmsg":"ok",
-	"data":{
-		"monthdeal":2.0E7,
-		"monthback":"",
-		"monthtarget":2022222
-	},
 	"usermsg":"正常"
 }
 ```

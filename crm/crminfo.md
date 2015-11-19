@@ -169,18 +169,13 @@ yearmonth=2015-09&targetamount=123456
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|数组|<code>array</code>|是|暂无|无|
+|data|数据数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|id|合同ID|<code>string</code>|是|暂无|无|
-|name|合同名称|<code>array</code>|是|暂无|无|
-|amount|合同总额|<code>string</code>|是|暂无|无|
-|totalin|总收款|<code>string</code>|是|暂无|无|
-|totalout|总支出|<code>array</code>|是|暂无|无|
-|status|合同状态|<code>digit</code>|是|0执行中,1执行中结束,2意外终止|无|
+
 
 ##接口示例
 

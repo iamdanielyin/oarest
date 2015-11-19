@@ -183,6 +183,18 @@ yearmonth=2015-09&targetamount=123456
 |remark|备注|<code>string</code>|是|暂无|无|
 |createtime|更新时间|<code>string</code>|是|暂无|无|
 |modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|回款ID|<code>string</code>|是|暂无|无|
+|sum|回款金额|<code>string</code>|是|暂无|无|
+|dbilldate|回款日期|<code>string</code>|是|暂无|无|
+|period|回款期次|<code>string</code>|是|暂无|无|
+|contract|关联合同|<code>object</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
 
 
 ##接口示例

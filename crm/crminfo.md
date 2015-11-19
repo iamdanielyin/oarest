@@ -78,7 +78,7 @@ Postman-Token: db3e5691-149f-6e23-eab6-bc803f927098
 ##接口示例
 
 ```
-GET /oa/crm/home?access_token=ZDY3ZjliMDktMjZjZC00NWVhLWFiNGEtMjgxNTkzMGU0YmY2 HTTP/1.1
+POST /oa/crm/home?access_token=ZDY3ZjliMDktMjZjZC00NWVhLWFiNGEtMjgxNTkzMGU0YmY2 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
 Postman-Token: db3e5691-149f-6e23-eab6-bc803f927098

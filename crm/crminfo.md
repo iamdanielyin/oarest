@@ -115,9 +115,9 @@ yearmonth=2015-09&targetamount=123456
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|year|年份|<code>string</code>|是|暂无|无|
-|month|月份|<code>string</code>|是|暂无|无|
-|flag|查询标识|<code>digit</code>|是|0个人，1部门，2公司|无|
+|year|年份|<code>string</code>|否|暂无|当前年|
+|month|月份|<code>string</code>|否|暂无|当前月|
+|flag|查询标识|<code>digit</code>|否|0个人，1部门，2公司|0|
 
 ##返回参数
 [<公共返回参数>](../README.md)

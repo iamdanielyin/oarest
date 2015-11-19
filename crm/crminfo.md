@@ -36,9 +36,14 @@ Postman-Token: db3e5691-149f-6e23-eab6-bc803f927098
 
 ———————————————————————————————————————————————————————————
 {
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"monthdeal":2.0E7,
+		"monthback":"",
+		"monthtarget":2022222
+	},
+	"usermsg":"正常"
 }
 ```
 

@@ -55,7 +55,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|yearmonth||<code>string</code>|是|暂无|无|
+|yearmonth|年月|<code>string</code>|是|yyyy-MM|无|
 |month|月份|<code>string</code>|是|暂无|无|
 |flag|查询标识|<code>digit</code>|是|0个人，1部门|无|
 |ids|ID信息|<code>string</code>|是|如果是按部门查询，那么这里是传部门ID；如果是用户查询，这里是传用户ID，多个用户用英文逗号分隔|无|

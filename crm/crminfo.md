@@ -44,7 +44,7 @@
 
 | 接口名称 | *合同统计* |
 | -- | -- |
-| **接口地址** | */crm/contracts* |
+| **接口地址** | */crm/contracts/count* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

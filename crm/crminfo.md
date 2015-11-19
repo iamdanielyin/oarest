@@ -65,6 +65,7 @@ Postman-Token: db3e5691-149f-6e23-eab6-bc803f927098
 
 ##请求参数
 [<公共传入参数>](../README.md)  
+
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |yearmonth|年月|<code>string</code>|是|yyyy-MM|无|

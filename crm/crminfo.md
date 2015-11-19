@@ -181,7 +181,7 @@ yearmonth=2015-09&targetamount=123456
 |period|回款期次|<code>string</code>|是|暂无|无|
 |contract|关联合同|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|否|暂无|无|
-|createtime|时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：contract

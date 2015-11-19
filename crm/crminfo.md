@@ -176,6 +176,15 @@ yearmonth=2015-09&targetamount=123456
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 
+|id|ID|<code>string</code>|是|暂无|无|
+|sum|金额|<code>string</code>|是|暂无|无|
+|dbilldate|回款日期|<code>string</code>|是|暂无|无|
+|period|期次|<code>string</code>|是|暂无|无|
+|contract|关联合同|<code>string</code>|是|暂无|无|
+|remark|备注|<code>string</code>|是|暂无|无|
+|createtime|更新时间|<code>string</code>|是|暂无|无|
+|modifytime|最近修改时间|<code>string</code>|是|暂无|无|
+
 
 ##接口示例
 

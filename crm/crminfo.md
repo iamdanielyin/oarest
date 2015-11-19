@@ -177,7 +177,7 @@ yearmonth=2015-09&targetamount=123456
 |:---|:---|:---|:--:|:---|:-----|
 |id|回款ID|<code>string</code>|是|暂无|无|
 |sum|回款金额|<code>number</code>|是|暂无|无|
-|dbilldate|回款日期|<code>string</code>|是|yyyy-MM-d|无|
+|dbilldate|回款日期|<code>string</code>|是|yyyy-MM-dd|无|
 |period|回款期次|<code>string</code>|是|暂无|无|
 |contract|关联合同|<code>object</code>|是|暂无|无|
 |remark|备注|<code>string</code>|是|暂无|无|

@@ -2,7 +2,7 @@
 * [CRM信息](./crminfo.md)
  * [本月计划](./crminfo.md)
  * [效率统计](./crminfo.md)
- * [效率统计](./crminfo.md)
+ * [目标设定](./crminfo.md)
 * [合同](./contracts.md)
  * [合同列表](./contracts.md)
  * [合同明细](./contracts.md)

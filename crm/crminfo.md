@@ -153,7 +153,7 @@ yearmonth=2015-09&targetamount=123456
 >接口描述
 
 
-| 接口名称 | *合同统计* |
+| 接口名称 | *公司总回款列表* |
 | -- | -- |
 | **接口地址** | */crm/contracts/receiving/all* |
 | **请求方式** | <mark>GET</mark> |

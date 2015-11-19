@@ -118,7 +118,6 @@ yearmonth=2015-09&targetamount=123456
 |year|年份|<code>string</code>|是|暂无|无|
 |month|月份|<code>string</code>|是|暂无|无|
 |flag|查询标识|<code>digit</code>|是|0个人，1部门，2公司|无|
-|ids|ID信息|<code>string</code>|是|如果是按部门查询，那么这里是传部门ID；如果是用户查询，这里是传用户ID，多个用户用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

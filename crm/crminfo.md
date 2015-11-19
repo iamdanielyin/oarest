@@ -207,47 +207,7 @@ yearmonth=2015-09&targetamount=123456
 #公司总合同列表
 >接口描述
 
-
-| 接口名称 | *合同统计* |
-| -- | -- |
-| **接口地址** | */crm/contracts/receiving/all* |
-| **请求方式** | <mark>GET</mark> |
-| **数据格式** | <code>JSON</code> |
-
-
-##请求参数
-[<公共传入参数>](../README.md)  
-[<公共翻页参数>](../README.md)
-
-##返回参数
-[<公共返回参数>](../README.md)
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|data|数据数组|<code>array</code>|是|暂无|无|
-
-参数项：data
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|回款ID|<code>string</code>|是|暂无|无|
-|sum|回款金额|<code>number</code>|是|暂无|无|
-|dbilldate|回款日期|<code>string</code>|是|yyyy-MM-dd|无|
-|period|回款期次|<code>string</code>|是|暂无|无|
-|contract|关联合同|<code>object</code>|是|暂无|无|
-|remark|备注|<code>string</code>|否|暂无|无|
-|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
-
-参数项：contract
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|合同ID|<code>string</code>|是|暂无|无|
-|title|标题|<code>string</code>|是|暂无|无|
-
-
-##接口示例
+见
 
 ```
 暂无

@@ -7,4 +7,3 @@
 * [上传文档](./users.md)
 * [删除文档](./users.md)
 * [效率查询](./users.md)
-* [权限查询](./users.md)

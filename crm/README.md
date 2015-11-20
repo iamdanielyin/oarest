@@ -4,7 +4,7 @@
  * [效率统计](./crminfo.md)
  * [目标设定](./crminfo.md)
  * [公司总回款列表](./crminfo.md)
- * [公司总回款列表](./crminfo.md)
+ * [公司总合同列表](./crminfo.md)
 * [合同](./contracts.md)
  * [合同列表](./contracts.md)
  * [合同明细](./contracts.md)

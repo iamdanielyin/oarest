@@ -46,9 +46,11 @@
 ##接口示例
 
 ```
-GET /oa/worklogs?tt=1&vn=1.0&access_token=OWMxNzIxMGQtN2ZiMC00N2RjLWEzNjgtZjU1YjFkMWUxMTRh&flag=1 HTTP/1.1
+GET /oa/worklogs?tt=1&vn=1.0&access_token=Y2U0MmRhODctYmEyMi00YjFjLTkwNDQtYWRhOWM0OGE1NTcy&flag=0 HTTP/1.1
 Host: localhost:7778
 Cache-Control: no-cache
+Postman-Token: 969b1cef-f221-1823-33a7-e2663a09a427
+
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

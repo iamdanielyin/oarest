@@ -32,6 +32,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |title|标题|<code>string</code>|是|暂无|无|
 |status|审批状态|<code>digit</code>|是|0未审，1通过，2不通过|无|
+|type|日志类型|<code>digit</code>|是|0日报，1周报，2月报|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |content|内容|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|

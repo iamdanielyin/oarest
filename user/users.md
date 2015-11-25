@@ -489,6 +489,10 @@ tt=1&vn=1.0&username=test1&password=test1
 
 ##接口示例
 
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|效率数据|<code>object</code>|是|暂无|无|
+
 ```
 POST /oa/users/login HTTP/1.1
 Host: 112.74.131.85

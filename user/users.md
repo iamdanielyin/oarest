@@ -502,7 +502,7 @@ tt=1&vn=1.0&username=test1&password=test1
 >暂无
 
 
-| 接口名称 | *图片上传* |
+| 接口名称 | *文件上传* |
 | -- | -- |
 | **接口地址** | */image/upload* |
 | **请求方式** | <mark>POST</mark> |

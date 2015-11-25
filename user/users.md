@@ -468,3 +468,43 @@ tt=1&vn=1.0&username=test1&password=test1
 
 
 
+
+#发送邮件
+>
+
+
+| 接口名称 | *发送邮件* |
+| -- | -- |
+| **接口地址** | */mail* |
+| **请求方式** | <mark>POST</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)  
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|username|用户名|<code>string</code>|是|暂无|无|
+
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+##接口示例
+
+```
+POST /oa/users/login HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+tt=1&vn=1.0&username=test1
+———————————————————————————————————————————————————————————
+{
+    "statuscode": "0000",
+    "statusmsg": "ok",
+    "usermsg": "正常"
+}
+
+```

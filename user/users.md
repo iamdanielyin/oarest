@@ -494,17 +494,6 @@ tt=1&vn=1.0&username=test1&password=test1
 |data|效率数据|<code>object</code>|是|暂无|无|
 
 ```
-POST /oa/users/login HTTP/1.1
-Host: 112.74.131.85
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
 
-tt=1&vn=1.0&username=test1
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
 
 ```

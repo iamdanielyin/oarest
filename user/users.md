@@ -470,7 +470,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 
 #图片上传
->za
+>暂无
 
 
 | 接口名称 | *发送邮件* |

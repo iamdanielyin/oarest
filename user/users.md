@@ -498,7 +498,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 ```
 
-#图片上传
+#文件上传
 >暂无
 
 

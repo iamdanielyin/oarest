@@ -470,12 +470,12 @@ tt=1&vn=1.0&username=test1&password=test1
 
 
 #发送邮件
->
+>图片上传
 
 
 | 接口名称 | *发送邮件* |
 | -- | -- |
-| **接口地址** | */mail* |
+| **接口地址** | */image/upload* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

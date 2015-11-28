@@ -156,6 +156,7 @@ Cache-Control: no-cache
 |starttime|开始时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |endtime|结束时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |isremind|是否提醒|<code>boolean</code>|否|暂无|false|
+|remindtime|提醒时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

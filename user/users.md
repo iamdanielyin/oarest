@@ -342,6 +342,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |:---|:---|:---|:--:|:---|:-----|
 |name|文档名称|<code>string</code>|是|暂无|无
 |size|文档大小|<code>string</code>|是|暂无|无
+|type|文档|<code>string</code>|是|暂无|无
 |url|文档链接|<code>string</code>|是|暂无|无|
 
 ##接口示例

@@ -419,7 +419,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |:---|:---|:---|:--:|:---|:-----|
 |equip|设备效率|<code>string</code>|是|百分比，如30%|无|
 |dept|部门效率|<code>object</code>|否|当flag为0时|无|
-|users|用户效率|<code>object</code>|否|当flag为0时|无|
+|users|用户效率|<code>object</code>|否|当flag为1时|无|
 
 参数项：dept
 

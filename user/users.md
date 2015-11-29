@@ -362,7 +362,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 | 接口名称 | *删除文档* |
 | -- | -- |
-| **接口地址** | */docs/:i* |
+| **接口地址** | */docs/{id}* |
 | **请求方式** | <mark>DELETE</mark> |
 | **数据格式** | <code>JSON</code> |
 

@@ -426,9 +426,8 @@ tt=1&vn=1.0&username=test1&password=test1
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|ID|<code>string</code>|是|暂无|无|
-|na|部门名称|<code>string</code>|是|百分比，如30%|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
+|name|部门名称|<code>string</code>|是|百分比，如30%|无|
+|effic|效率|<code>string</code>|是|暂无|无|
 
 参数项：users
 

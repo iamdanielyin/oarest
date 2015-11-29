@@ -418,7 +418,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |equip|设备效率|<code>string</code>|是|百分比，如30%|无|
-|dept|部门效率|<code>object</code>|否|百分比，如30%|无|
+|dept|部门效率|<code>object</code>|否|暂无|无|
 |users|用户效率|<code>object</code>|否|如果是按部门查询，那么这个数组是该部门下所有用户的效率；如果是按用户查询，这里是所有查询用户的效率|无|
 
 参数项：dept

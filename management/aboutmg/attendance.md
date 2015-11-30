@@ -148,7 +148,7 @@
 |latetimes|迟到次数|<code>digit</code>|是|暂无|无|
 |laterate|迟到率(迟到天数/当月打卡天数)|<code>string</code>|是|百分比，如80%|无|
 |earlitimes|早退次数|<code>digit</code>|是|暂无|无|
-|earlirate|迟到率(迟到天数/当月打卡天数)|<code>string</code>|是|百分比，如80%|无|
+|earlirate|早退率(早退天数/当月打卡天数)|<code>string</code>|是|百分比，如80%|无|
 |signoutgps|签退gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
 
 ##接口示例

@@ -152,7 +152,7 @@
 |leavhours|请假小时|<code>digit</code>|是|暂无|无|
 |leavtimes|请假次数|<code>digit</code>|是|暂无|无|
 |outbus|出差(外出考勤次数)|<code>digit</code>|是|暂无|无|
-|earlitimes|早退次数|<code>digit</code>|是|暂无|无|
+|notimes|早退次数|<code>digit</code>|是|暂无|无|
 ##接口示例
 
 ```

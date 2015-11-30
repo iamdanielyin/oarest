@@ -29,6 +29,14 @@
 |user|负责人|<code>object</code>|是|暂无|无|
 |users|成员数组|<code>array</code>|是|暂无|web|
 
+参数项：user
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
+
 参数项：users
 
 |编码|名称|类型|必输|说明|默认值|
@@ -38,14 +46,6 @@
 |realname|姓名|<code>string</code>|是|暂无|无|
 |profession|职位|<code>string</code>|是|暂无|无|
 |mobile|手机号码1|<code>string</code>|否|暂无|无|
-
-参数项：user
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|id|ID|<code>string</code>|是|暂无|无|
-|header|头像链接|<code>string</code>|是|暂无|无|
-|realname|姓名|<code>string</code>|是|暂无|无|
 
 ##接口示例
 

@@ -27,7 +27,7 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |name|名称|<code>string</code>|是|暂无|无|
 |user|负责人|<code>object</code>|是|暂无|无|
-|users|成员数组|<code>array</code>|是|暂无|无|
+|users|成员数组|<code>array</code>|是|暂无|web|
 
 参数项：data
 

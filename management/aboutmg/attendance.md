@@ -145,7 +145,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |actwork|实际工作(打卡次数)|<code>digit</code>|是|暂无|无|
 |overdays|加班天数|<code>digit</code>|是|暂无|无|
-|迟到次数|加班天数|<code>digit</code>|是|暂无|无|
+|overdays|迟到次数|<code>digit</code>|是|暂无|无|
 |signouttime|签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |signoutgps|签退gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
 

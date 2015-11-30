@@ -49,7 +49,7 @@
 
 |编码|名称|类型|必须|说明|默认|
 |:---|:---|:---|:--:|:---|:-----|
-|statuscode|状态编码|<code>int</code>|是|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
+|statuscode|状态编码|<code>digit</code>|是|0000为正常，具体见《[接口状态码对照表](STATUSCODE.md)》|无|
 |statusmsg|状态信息|<code>string</code>|是|暂无|无|
 |usermsg|用户提示|<code>string</code>|是|暂无|无|
 * 部分接口需上传翻页参数，<font color=red>公共翻页参数</font>如下所示：

@@ -150,6 +150,8 @@
 |earlitimes|早退次数|<code>digit</code>|是|暂无|无|
 |earlirate|早退率(早退天数/当月打卡天数)|<code>string</code>|是|百分比，如80%|无|
 |earlitimes|早退次数|<code>digit</code>|是|暂无|无|
+|earlitimes|早退次数|<code>digit</code>|是|暂无|无|
+|earlitimes|早退次数|<code>digit</code>|是|暂无|无|
 ##接口示例
 
 ```

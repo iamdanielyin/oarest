@@ -93,6 +93,15 @@
 |:---|:---|:---|:--:|:---|:-----|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |createtime|时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+
+
+参数项：user
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|ID|<code>string</code>|是|暂无|无|
+|header|头像链接|<code>string</code>|是|暂无|无|
+|realname|姓名|<code>string</code>|是|暂无|无|
 ##接口示例
 
 ```

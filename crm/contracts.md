@@ -127,7 +127,7 @@
 | 接口名称 | *删除合同* |
 | -- | -- |
 | **接口地址** | */contracts/{id}* |
-| **请求方式** | <mark>DELETE</mark> |
+| **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
 ##请求参数

@@ -39,7 +39,7 @@
    * [项目列表](./aboutmg/projects.md)
    * [项目详情](./aboutmg/projects.md)
  * [员工加分](./aboutmg/records.md)
- * [分值](./aboutmg/records.md)
+ * [分值下发](./aboutmg/records.md)
  * [工作简报](./aboutmg/briefing.md)
    * [我](./aboutmg/briefing.md)
    * [公司](./aboutmg/briefing.md)

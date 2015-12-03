@@ -44,7 +44,6 @@
 |:---|:---|:---|:--:|:---|:-----|
 |userid|用户ID|<code>string</code>|是|暂无|无|
 |mcoin|M币|<code>digit</code>|否|暂无|无|
-|starval|星值|<code>digit</code>|否|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -85,8 +85,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |records|数组记录|<code>array</code>|是|暂无|无|
-|currdist|当前M币|<code>digit</code>|是|暂无|无|
-|totalmcoin|历史M币|<code>digit</code>|是|暂无|无|
+|currdist|当前剩余分值|<code>digit</code>|是|暂无|无|
 
 参数项：records
 

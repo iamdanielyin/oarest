@@ -23,7 +23,6 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |synergy|协同|<code>object</code>|是|暂无|无|
-|attendance|考勤|<code>object</code>|是|暂无|无|
 |others|其他|<code>object</code>|是|暂无|无|
 
 参数项：synergy
@@ -36,13 +35,6 @@
 |curstarval|星值|<code>digit</code>|是|暂无|无|
 |totalstarval|历史星值|<code>digit</code>|是|暂无|无|
 |logindays|登录天数|<code>digit</code>|是|暂无|无|
-
-参数项：attendance
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|ontime|准时率|<code>string</code>|是|百分比，如30%|无|
-|attend|出勤率|<code>string</code>|是|百分比，如30%|无|
 
 参数项：others
 

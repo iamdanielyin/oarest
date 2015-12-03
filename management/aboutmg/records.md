@@ -92,7 +92,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
-|user|用户|<code>object</code>|是|当flag为0时，为接受分配的经理；当flag为1时，为执行分配领导|无|
+|user|用户|<code>object</code>|是|当flag为0时，为接受分配的经理；当flag为1时，为执行分配的领导|无|
 |createtime|时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 

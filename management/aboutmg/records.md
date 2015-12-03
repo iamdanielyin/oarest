@@ -62,7 +62,7 @@
 | 接口名称 | *分值下发* |
 | -- | -- |
 | **接口地址** | */distmcoin* |
-| **请求方式** | <mark>POST</mark> |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

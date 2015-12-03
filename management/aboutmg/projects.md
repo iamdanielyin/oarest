@@ -27,7 +27,6 @@
 |id|ID|<code>string</code>|是|暂无|无|
 |name|项目名称|<code>string</code>|是|暂无|无|
 |idesc|项目描述|<code>string</code>|是|暂无|无|
-
 |status|任务状态|<code>digit</code>|是|0进行中，1已汇报，2已完成|无|
 |startdate|开始日期|<code>string</code>|是|yyyy-MM-dd|无|
 |enddate|结束日期|<code>string</code>|是|yyyy-MM-dd|无|

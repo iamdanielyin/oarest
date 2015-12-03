@@ -9,7 +9,7 @@
  * [合同列表](./contracts.md)
  * [合同明细](./contracts.md)
  * [新增合同](./contracts.md)
- * [新增合同](./contracts.md)
+ * [合同修改](./contracts.md)
  * [删除合同](./contracts.md)
  * [合同回款列表](./contracts.md)
  * [合同支出列表](./contracts.md)

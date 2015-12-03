@@ -402,8 +402,8 @@ tt=1&vn=1.0&username=test1&password=test1
 |:---|:---|:---|:--:|:---|:-----|
 |flag|查询标识|<code>digit</code>|是|0按部门查询，1按用户查询，2按公司查询|无|
 |id|ID信息|<code>string</code>|否|如果是按部门查询，那么这里是传部门ID；如果是用户查询，这里是传用户ID，如果是公司查询为空|无|
-|started|查询开始年月|<code>string</code>|是|yyyy-MM-dd|本月1号|
-|ended|查询结束年月|<code>string</code>|是|yyyy-MM-dd|今天|
+|started|查询开始年月|<code>string</code>|否|yyyy-MM-dd|本月1号|
+|ended|查询结束年月|<code>string</code>|否|yyyy-MM-dd|今天|
 
 
 ##返回参数

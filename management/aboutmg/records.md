@@ -60,7 +60,7 @@
 
 | 接口名称 | *下发/收取记录查询* |
 | -- | -- |
-| **接口地址** | */integralcenter/mcoin* |
+| **接口地址** | */distmcoin* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

@@ -27,7 +27,7 @@
 ```
 
 
-#分值
+#分值下发
 >暂无
 
 | 接口名称 | *项目详情* |
@@ -42,7 +42,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|userid|员工ID|<code>string</code>|是|暂无|无|
+|userid|用户ID|<code>string</code>|是|暂无|无|
 |mcoin|M币|<code>digit</code>|否|暂无|无|
 |starval|星值|<code>digit</code>|否|暂无|无|
 

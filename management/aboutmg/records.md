@@ -84,7 +84,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|records|得分记录|<code>array</code>|是|暂无|无|
+|records|数组记录|<code>array</code>|是|暂无|无|
 |currmcoin|当前M币|<code>digit</code>|是|暂无|无|
 |totalmcoin|历史M币|<code>digit</code>|是|暂无|无|
 

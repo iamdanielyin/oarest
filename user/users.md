@@ -546,7 +546,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |recever|接收者ID|<code>string</code>|是|暂无|无|
 |tel|电话|<code>string</code>|否|暂无|无|
 |status|消息状态|<code>string</code>|是|0已读，1未读|无|
-|custdata|创建人|<code>object</code>|是|暂无|无|
+|custdata|额外数据信息|<code>object</code>|是|暂无|无|
 |level|客户分级|<code>string</code>|是|0重要、1紧急、2普通、3重要且紧急|无|
 
 参数项：creator

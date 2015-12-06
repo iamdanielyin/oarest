@@ -532,7 +532,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|客户数组|<code>array</code>|是|暂无|无|
+|data|消息数组|<code>array</code>|是|暂无|无|
 
 参数项：data
 

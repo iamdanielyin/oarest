@@ -544,7 +544,6 @@ tt=1&vn=1.0&username=test1&password=test1
 |type|消息类型|<code>digit</code>|否|0协同通知，1任务指派通知，2审批提醒通知，3审批结果通知，4新公告通知|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |recever|接收者ID|<code>string</code>|是|暂无|无|
-|tel|电话|<code>string</code>|否|暂无|无|
 |status|消息状态|<code>digit</code>|是|0已读，1未读|无|
 |custdata|额外数据信息|<code>object</code>|是|暂无|无|
 

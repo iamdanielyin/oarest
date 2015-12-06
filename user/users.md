@@ -541,7 +541,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |id|消息ID|<code>string</code>|是|暂无|无|
 |title|消息标题|<code>string</code>|是|暂无|无|
 |content|消息内容|<code>string</code>|否|暂无|无|
-|type|网址|<code>digit</code>|否|暂无|无|
+|type|消息类型|<code>digit</code>|否|暂无|无|
 |contact|联系人名称|<code>string</code>|否|暂无|无|
 |tel|电话|<code>string</code>|否|暂无|无|
 |status|客户状态|<code>string</code>|是|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|无|

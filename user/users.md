@@ -514,7 +514,7 @@ tt=1&vn=1.0&username=test1&password=test1
 #消息列表
 >接口描述
 
-| 接口名称 | *客户列表* |
+| 接口名称 | *消息列表* |
 | -- | -- |
 | **接口地址** | */customers* |
 | **请求方式** | <mark>GET</mark> |

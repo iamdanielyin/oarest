@@ -546,6 +546,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |recever|接收者ID|<code>string</code>|是|暂无|无|
 |status|消息状态|<code>digit</code>|是|0已读，1未读，有回调的消息，以回调结果为准|无|
 |custdata|额外数据信息|<code>object</code>|是|每种消息可不同|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：creator
 

@@ -561,7 +561,7 @@ tt=1&vn=1.0&username=test1&password=test1
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |id|数据ID|<code>string</code>|是|暂无|无|
-|ty|头像链接|<code>string</code>|是|暂无|无|
+|type|审批类型|<code>string</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 
 ##接口示例

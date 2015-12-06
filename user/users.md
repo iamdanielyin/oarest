@@ -517,7 +517,7 @@ tt=1&vn=1.0&username=test1&password=test1
 | 接口名称 | *消息列表* |
 | -- | -- |
 | **接口地址** | */customers* |
-| **请求方式** | <mark>GET</mark> |
+| **请求方式** | <mark>messag</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

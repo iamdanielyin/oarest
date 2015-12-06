@@ -66,7 +66,7 @@
 
 | 接口名称 | *新增协同* |
 | -- | -- |
-| **接口地址** | */tasks/{id}/operators* |
+| **接口地址** | */tasks/{id}/request* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

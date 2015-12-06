@@ -525,13 +525,6 @@ tt=1&vn=1.0&username=test1&password=test1
 [<公共传入参数>](../README.md)  
 [<公共翻页参数>](../README.md)
 
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|keyword|关键字|<code>string</code>|否|暂无|无|
-|status|客户状态|<code>string</code>|否|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订,多个用英文逗号分隔|无|
-|level|客户分级|<code>string</code>|否|0重要、1紧急、2普通、3重要且紧急,多个用英文逗号分隔|无|
-|order|排序字段|<code>string</code>|否|创建时间顺序：createtime;创建时间逆序：-createtime;公司名称顺序：name：-name|createtime|
-
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -166,6 +166,7 @@ Postman-Token: 969b1cef-f221-1823-33a7-e2663a09a427
 |:---|:---|:---|:--:|:---|:-----|
 |id|任务ID|<code>string</code>|是|暂无|无|
 |title|任务名称|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：images
 

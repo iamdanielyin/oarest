@@ -406,7 +406,7 @@ tt=1&vn=1.0&username=test1&password=test1
 [<公共传入参数>](../README.md)  
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|ids|文档ID|<code>string</code>|是|0我发出的，1我收到的|0|
+|ids|文档ID|<code>string</code>|是|多个用英文逗号分隔|0|
 
 
 ##返回参数

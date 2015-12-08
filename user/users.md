@@ -391,14 +391,14 @@ tt=1&vn=1.0&username=test1&password=test1
 
 
 
-#删除文档
+#文档
 >暂无
 
 
 | 接口名称 | *删除文档* |
 | -- | -- |
 | **接口地址** | */docs/{id}* |
-| **请求方式** | <mark>PO</mark> |
+| **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

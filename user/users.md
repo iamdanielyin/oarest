@@ -391,7 +391,7 @@ tt=1&vn=1.0&username=test1&password=test1
 
 
 
-#文档
+#转发文档
 >暂无
 
 
@@ -404,6 +404,9 @@ tt=1&vn=1.0&username=test1&password=test1
 
 ##请求参数
 [<公共传入参数>](../README.md)  
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|flag|查询标识|<code>digit</code>|是|0我发出的，1我收到的|0|
 
 
 ##返回参数

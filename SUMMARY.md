@@ -4,7 +4,7 @@
    * [状态码对照表](STATUSCODE.md)
 * [用户](user/README.md)
    * [用户相关](user/users.md)
-   * 消息相关
+   * [消息相关](user/messages.md)
 * [CRM](crm/README.md)
    * [CRM信息](crm/crminfo.md)
    * [合同](crm/contracts.md)

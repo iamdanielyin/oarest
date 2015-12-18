@@ -17,7 +17,7 @@
 |mcoin|M币|<code>digit</code>|否|暂无|无|
 |starval|星值|<code>digit</code>|否|暂无|无|
 
-|dists|加分|<code>string</code>|是|规则为：经理ID:M币，中间为英文冒号，多个用英文逗号分隔|无|
+|dists|加分|<code>string</code>|是|规则为：员工ID:M币，中间为英文冒号，多个用英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

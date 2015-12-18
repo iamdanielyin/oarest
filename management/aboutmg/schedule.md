@@ -89,7 +89,7 @@ Content-Type: application/x-www-form-urlencoded
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|本月数据|<code>array</code>|是|暂无|已按日期从小到大排列|
+|data|本月数据|<code>array</code>|是|暂无|已按日期从小到大排列，内容为true或者fals|
 
 参数项：data
 

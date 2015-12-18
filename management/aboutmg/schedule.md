@@ -71,7 +71,7 @@ Content-Type: application/x-www-form-urlencoded
 
 | 接口名称 | *查询月记录* |
 | -- | -- |
-| **接口地址** | */attendance/months* |
+| **接口地址** | */schedule/months* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

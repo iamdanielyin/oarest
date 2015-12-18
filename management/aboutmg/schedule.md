@@ -95,7 +95,7 @@ Content-Type: application/x-www-form-urlencoded
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|attentype|考勤类型|<code>digit</code>|是|0普通考勤，1外出考勤|无|
+|ishaved|是否有日程|<code>digit</code>|是|0普通考勤，1外出考勤|无|
 |signintime|签到时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |signingps|签到gps|<code>string</code>|是|格式为"经度,纬度"，英文逗号分隔|无|
 |signouttime|签退时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|

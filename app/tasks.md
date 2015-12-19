@@ -276,6 +276,7 @@ Cache-Control: no-cache
 |:---|:---|:---|:--:|:---|:-----|
 |title|任务标题|<code>string</code>|是|任务标题在系统内唯一不能重复|无|
 |content|任务内容|<code>string</code>|是|暂无|无|
+|isdailytask|是否日常任务|<code>boolean</code>|是|暂无|无|
 |startdate|计划开始日期|<code>string</code>|是|暂无|无|
 |enddate|计划结束日期|<code>string</code>|是|暂无|无|
 |mcoin|任务M币|<code>digit</code>|否|暂无|0|

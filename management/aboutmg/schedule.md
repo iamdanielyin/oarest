@@ -96,7 +96,11 @@ Content-Type: application/x-www-form-urlencoded
 ##接口示例
 
 ```
-暂无
+GET /oa/schedule/months?tt=1&vn=1.0&access_token=NjVhNWEzYWUtNDY5Ny00YTdjLTkyNWQtMTMxZDc0NGRiYTI3 HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Postman-Token: d66fa9b1-8b0c-35d7-12a3-a2da9acc7875
+———————————————————————————————————————————————————————————
 ```
 
 

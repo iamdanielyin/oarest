@@ -208,7 +208,7 @@ Cache-Control: no-cache
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|
 |remindtime|提醒时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
 |mcoin|分配M币|<code>digit</code>|是|暂无|无|
-|starval|姓名|<code>digit</code>|是|暂无|无|
+|starval|分配星值|<code>digit</code>|是|暂无|无|
 
 参数项：attachs
 

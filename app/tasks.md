@@ -213,11 +213,11 @@ Cache-Control: no-cache
 |:---|:---|:---|:--:|:---|:-----|
 |file|文件链接|<code>string</code>|是|暂无|无|
 
-参数项：attachs
+参数项：images
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|file|文件链接|<code>string</code>|是|暂无|无|
+|image|链接|<code>string</code>|是|暂无|无|
 
 
 ##接口示例

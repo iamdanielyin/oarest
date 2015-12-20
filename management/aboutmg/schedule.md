@@ -82,7 +82,7 @@ Content-Type: application/x-www-form-urlencoded
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |year|年份|<code>digit</code>|否|yyyy-MM|当前月|
-|month|月份|<code>string</code>|否|yyyy-MM|当前月|
+|month|月份|<code>digit</code>|否|yyyy-MM|当前月|
 
 
 ##返回参数

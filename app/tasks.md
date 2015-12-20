@@ -207,7 +207,7 @@ Cache-Control: no-cache
 |realname|姓名|<code>string</code>|是|暂无|无|
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|
 |remindtime|提醒时间|<code>string</code>|是|yyyy-MM-dd HH:mm|无|
-|mcoin|分配M币|<code>string</code>|是|暂无|无|
+|mcoin|分配M币|<code>digit</code>|是|暂无|无|
 |realname|姓名|<code>string</code>|是|暂无|无|
 
 参数项：attachs

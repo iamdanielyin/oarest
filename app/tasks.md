@@ -180,7 +180,6 @@ Cache-Control: no-cache
 |operators|执行人|<code>array</code>|是|暂无|无|
 |attachs|任务附件|<code>array</code>|否|暂无|无|
 |images|任务图片|<code>array</code>|否|暂无|无|
-|images|任务图片|<code>array</code>|否|图片链接，多个用英文逗号分隔|无|
 
 参数项：creator
 

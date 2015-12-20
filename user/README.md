@@ -5,7 +5,7 @@
 * [获取用户资料](./users.md)
 * [通讯录](./users.md)
 * [文档列表](./users.md)
-* [文档列表](./users.md)
+* [转发文档](./users.md)
 * [删除文档](./users.md)
 * [效率查询](./users.md)
 * [图片上传](./users.md)

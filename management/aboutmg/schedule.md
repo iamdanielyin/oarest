@@ -101,6 +101,12 @@ Host: 112.74.131.85
 Cache-Control: no-cache
 Postman-Token: d66fa9b1-8b0c-35d7-12a3-a2da9acc7875
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":"[true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false]",
+	"usermsg":"正常"
+}
 ```
 
 

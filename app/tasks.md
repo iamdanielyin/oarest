@@ -179,6 +179,7 @@ Cache-Control: no-cache
 |modifytime|最近修改时间|<code>string</code>|否|yyyy-MM-dd HH:mm:ss|无|
 |operators|执行人|<code>array</code>|是|暂无|无|
 |attachs|任务附件|<code>array</code>|否|暂无|无|
+|attachs|任务附件|<code>array</code>|否|暂无|无|
 |images|任务图片|<code>array</code>|否|图片链接，多个用英文逗号分隔|无|
 
 参数项：creator
@@ -217,7 +218,7 @@ Cache-Control: no-cache
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|image|链接|<code>string</code>|是|暂无|无|
+|image|图片链接|<code>string</code>|是|暂无|无|
 
 
 ##接口示例

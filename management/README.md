@@ -55,6 +55,7 @@
    * [M币记录](./aboutmg/integralcenter.md)
    * [M币记录](./aboutmg/integralcenter.md)
    * [星值记录](./aboutmg/integralcenter.md)
+   * [星值记录](./aboutmg/integralcenter.md)
    
 
 

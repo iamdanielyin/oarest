@@ -32,7 +32,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
-|createtime|月份|<code>string</code>|是|yyyy年MM|无|
+|createtime|月份|<code>string</code>|是|yyyy年MM月|无|
 ##接口示例
 
 ```

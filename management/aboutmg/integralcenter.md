@@ -55,7 +55,7 @@
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|flag|查询标识|<code>digit</code>|是|0全部，1指定月chaxun|0|
+|flag|查询标识|<code>digit</code>|是|0全部，1指定月查询|0|
 |year|年份|<code>digit</code>|否|yyyy|0|
 |month|月份|<code>digit</code>|否|MM|0|
 

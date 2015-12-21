@@ -92,7 +92,7 @@
 
 | 接口名称 | *星值记录* |
 | -- | -- |
-| **接口地址** | */integralcenter/starval* |
+| **接口地址** | */integralcenter/starval/month* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

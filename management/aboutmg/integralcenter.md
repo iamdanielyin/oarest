@@ -127,7 +127,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |starval|星值|<code>digit</code>|是|暂无|无|
-|createtime|时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+|yearmonth|年月|<code>string</code>|是|yyyy年MM月|无|
 ##接口示例
 
 ```

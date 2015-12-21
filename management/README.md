@@ -53,9 +53,9 @@
    * [新增客户数排行](./aboutmg/rankinglist.md)
  * [积分中心](./aboutmg/integralcenter.md)
    * [M币记录](./aboutmg/integralcenter.md)
-   * [M币记录](./aboutmg/integralcenter.md)
+   * [M币月记录](./aboutmg/integralcenter.md)
    * [星值记录](./aboutmg/integralcenter.md)
-   * [星值记录](./aboutmg/integralcenter.md)
+   * [星值月记录](./aboutmg/integralcenter.md)
    
 
 

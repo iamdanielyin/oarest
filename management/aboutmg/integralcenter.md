@@ -56,7 +56,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |year|年份|<code>digit</code>|否|yyyy|0|
-|mont|年份|<code>digit</code>|否|MM|0|
+|month|月份|<code>digit</code>|否|MM|0|
 
 ##返回参数
 [<公共返回参数>](../README.md)

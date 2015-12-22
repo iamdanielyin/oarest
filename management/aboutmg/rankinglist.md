@@ -267,7 +267,7 @@
 
 | 接口名称 | *M币排行* |
 | -- | -- |
-| **接口地址** | */rankinglist/newcusts* |
+| **接口地址** | */rankinglist/mcoin* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

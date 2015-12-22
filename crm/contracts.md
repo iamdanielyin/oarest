@@ -15,7 +15,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |keyword|合同关键字|<code>string</code>|否|暂无|无|
-|status|合同状态|<code>digit</code>|否|暂无|无|
+|status|合同状态|<code>digit</code>|是|0执行中，1执行结束，2意外终止|无|
 
 
 ##返回参数
@@ -33,7 +33,7 @@
 |id|合同ID|<code>string</code>|是|暂无|无|
 |name|合同名称|<code>array</code>|是|暂无|无|
 |amount|合同总额|<code>string</code>|是|暂无|无|
-|status|合同状态|<code>digit</code>|是|0执行中，1执行结束，2意外终止|无|
+|status|合同状态|<code>string</code>|是|暂无|无|
 
 
 ##接口示例

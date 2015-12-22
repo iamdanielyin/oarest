@@ -288,7 +288,7 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |user|用户|<code>object</code>|是|暂无|无|
-|mcoin|新增客户数|<code>digit</code>|是|暂无|无|
+|mcoin|Mbi|<code>digit</code>|是|暂无|无|
 
 参数项：user
 

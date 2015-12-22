@@ -313,7 +313,7 @@
 
 | 接口名称 | *星值排行* |
 | -- | -- |
-| **接口地址** | */rankinglist/sta* |
+| **接口地址** | */rankinglist/starval* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

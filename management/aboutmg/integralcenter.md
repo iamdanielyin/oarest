@@ -60,8 +60,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |flag|查询标识|<code>digit</code>|是|0全部，1指定月查询|0|
-|year|年份|<code>digit</code>|否|当flag为1时，需指定该项，格式为yyyy，如2015|0|
-|month|月份|<code>digit</code>|否|当flag为1时，需指定该项，格式为M，如2|0|
+|year|年份|<code>digit</code>|否|当flag为1时，需指定该项，格式为yyyy，如2015|无|
+|month|月份|<code>digit</code>|否|当flag为1时，需指定该项，格式为M，如2|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

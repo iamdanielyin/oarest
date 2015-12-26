@@ -37,7 +37,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |mcoin|M币|<code>digit</code>|是|暂无|无|
 |yearmonth|年月|<code>string</code>|是|yyyy年MM月|无|
-|yearmonth|年月|<code>string</code>|是|yyyy年MM月|无|
+|yearmonth|年月|<code>string</code>|是|暂无|无|
 ##接口示例
 
 ```

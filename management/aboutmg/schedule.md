@@ -247,6 +247,7 @@ title=新增日程接口2&content=日程内容222&starttime=2015-10-25 18:30&end
 |starttime|开始时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
 |endtime|结束时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
 |isremind|是否提醒|<code>boolean</code>|是|暂无|无|
+|remindtime|提醒时间|<code>string</code>|否|yyyy-MM-dd HH:mm|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

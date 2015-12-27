@@ -24,6 +24,8 @@
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |data|日志数组|<code>array</code>|是|暂无|无|
+|totalpgs|总页数|<code>digit</code>|是|暂无|无|
+|totalels|记录总数|<code>digit</code>|是|暂无|无|
 
 参数项：data
 

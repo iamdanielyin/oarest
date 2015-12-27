@@ -65,4 +65,5 @@
 |:---|:---|:---|:---|
 |环信|menghua-admin|menghuaadmin|http://www.easemob.com/|
 |极光|menghua|menghuats|https://www.jpush.cn/|
+|极光|menghua|menghuats|https://www.jpush.cn/|
 

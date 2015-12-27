@@ -148,7 +148,7 @@ tt=1&vn=1.0&username=test1&password=123456
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|mail|游戏地址|<code>string</code>|是|暂无|无|
+|mail||<code>string</code>|是|暂无|无|
 
 
 ##返回参数

@@ -31,7 +31,7 @@
 |type|消息类型|<code>digit</code>|是|0协同通知，1任务指派通知，2审批提醒通知，3审批结果通知，4新公告通知，5任务提醒通知，6日程提醒通知，7日常任务通知|无|
 |creator|创建人|<code>object</code>|是|暂无|无|
 |recever|接收者ID|<code>string</code>|是|暂无|无|
-|status|消息状态|<code>digit</code>|是|0已读，1未读，有回调的消息，以回调结果为准|无|
+|status|消息状态|<code>digit</code>|是|0未读，1已读，有回调的消息，以回调结果为准|无|
 |custdata|额外数据信息|<code>object</code>|是|每种消息可不同|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 

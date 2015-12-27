@@ -65,5 +65,5 @@
 |:---|:---|:---|:---|
 |环信|menghua-admin|menghuaadmin|http://www.easemob.com/|
 |极光|menghua|menghuats|https://www.jpush.cn/|
-|SendCloud|weiqmios@163.com|12345678abc|https://www.jpush.cn/|
+|SendCloud|weiqmios@163.com|12345678abc|http://sendcloud.sohu.com/|
 

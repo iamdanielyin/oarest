@@ -355,11 +355,11 @@ tt=1&vn=1.0&username=test1&password=test1
 ##接口示例
 
 ```
-GET /oa/docs?tt=1&vn=1.0&uid=d47539b3-9820-4086-9582-f629d2ef0630&ids=405d95dd-f676-4bdd-a10e-9be2bd361918&access_token=OTIzYmM3MDEtZjE3Mi00MDhhLWJiM2QtNGFkMjIyMGI3OWJh&flag=1 HTTP/1.1
+GET /oa/docs?tt=1&vn=1.0&access_token=OTIzYmM3MDEtZjE3Mi00MDhhLWJiM2QtNGFkMjIyMGI3OWJh&flag=1 HTTP/1.1
 Host: 112.74.131.85
 Content-Type: application/json
 Cache-Control: no-cache
-Postman-Token: 93a9c6eb-e399-d877-cbbf-019f646061b2
+Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 ———————————————————————————————————————————————————————————
 {

@@ -362,6 +362,20 @@ Cache-Control: no-cache
 Postman-Token: 93a9c6eb-e399-d877-cbbf-019f646061b2
 
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":[
+		{
+			"createtime":"2015-12-27 16:10:53",
+			"size":"29696",
+			"name":"1451201320841.doc",
+			"id":"11aa20f8-13bd-48ca-b681-880e10fd1fcc",
+			"type":"doc",
+			"url":"http://112.74.131.85:80/oa/upload/files/1451201320841.doc"
+		}
+	]
+}
 
 ```
 

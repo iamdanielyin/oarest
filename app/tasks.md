@@ -23,6 +23,7 @@
 |:---|:---|:---|:--:|:---|:-----|
 |data|任务数组|<code>array</code>|是|暂无|无|
 |totalpgs|总页数|<code>digit</code>|是|暂无|无|
+|totalpgs|总页数|<code>digit</code>|是|暂无|无|
 
 参数项：data
 

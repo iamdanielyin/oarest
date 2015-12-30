@@ -164,6 +164,11 @@ Cache-Control: no-cache
 Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
 
 ```
 

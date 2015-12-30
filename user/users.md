@@ -157,6 +157,12 @@ tt=1&vn=1.0&username=test1&password=123456
 ##接口示例
 
 ```
+POST /mail?mail=1437128656@qq.com HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
+
 ———————————————————————————————————————————————————————————
 
 ```

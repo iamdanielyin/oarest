@@ -205,7 +205,7 @@ Host: 112.74.131.85
 Cache-Control: no-cache
 Content-Type: application/x-www-form-urlencoded
 
-co=test1&password=test1
+code=test1&pass=test1
 ———————————————————————————————————————————————————————————
 {
     "statuscode": "0000",

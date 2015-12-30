@@ -37,7 +37,11 @@
 ##接口示例
 
 ```
-暂无
+GET /rankinglist/worklogs?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: localhost:8080
+Cache-Control: no-cache
+Postman-Token: 452790a8-2b36-7d00-c1e3-83edb32d6fa1
+
 ```
 
 #当月工作量排行

@@ -695,5 +695,6 @@ GET /rankinglist/starval?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMT
 Host: localhost:8080
 Cache-Control: no-cache
 Postman-Token: a4892e5e-cda8-5af1-3222-efa10af8c87d
+———————————————————————————————————————————————————————————
 
 ```

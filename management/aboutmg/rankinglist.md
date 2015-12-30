@@ -259,6 +259,7 @@ GET /rankinglist/newcusts?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhM
 Host: localhost:8080
 Cache-Control: no-cache
 Postman-Token: 6d0ede61-31ae-29f2-3fa7-0f4c6c2b40af
+———————————————————————————————————————————————————————————
 
 ```
 

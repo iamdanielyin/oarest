@@ -691,5 +691,9 @@ Postman-Token: 9f70662b-d457-237d-a821-4df191cf5663
 ##接口示例
 
 ```
-暂无
+GET /rankinglist/starval?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: localhost:8080
+Cache-Control: no-cache
+Postman-Token: a4892e5e-cda8-5af1-3222-efa10af8c87d
+
 ```

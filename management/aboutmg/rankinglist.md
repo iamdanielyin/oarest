@@ -41,6 +41,7 @@ GET /rankinglist/worklogs?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhM
 Host: localhost:8080
 Cache-Control: no-cache
 Postman-Token: 452790a8-2b36-7d00-c1e3-83edb32d6fa1
+———————————————————————————————————————————————————————————
 
 ```
 

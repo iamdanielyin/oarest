@@ -190,8 +190,8 @@ Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|code||<code>string</code>|是|暂无|无|
-|password|新密码|<code>string</code>|是|暂无|无|
+|code|校验码|<code>string</code>|是|暂无|无|
+|pass|新密码|<code>string</code>|是|暂无|无|
 
 
 ##返回参数

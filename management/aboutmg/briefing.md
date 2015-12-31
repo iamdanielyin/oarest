@@ -78,8 +78,6 @@
 |totalogs|日志总数|<code>digit</code>|是|暂无|无|
 |monworkload|当月工作量|<code>string</code>|是|暂无|无|
 |effic|工作效率|<code>string</code>|是|百分比，如30%|无|
-|ontime|考勤准时率|<code>string</code>|是|百分比，如30%|无| 
-|attend|出勤率|<code>string</code>|是|百分比，如30%|无| 
 |newcusts|新增客户数|<code>digit</code>|是|暂无|无|
 
 ##接口示例

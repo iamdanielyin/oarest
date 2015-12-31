@@ -48,8 +48,6 @@
    * [日志数排行](./aboutmg/rankinglist.md)
    * [当月工作量排行](./aboutmg/rankinglist.md)
    * [工作效率排行](./aboutmg/rankinglist.md)
-   * [考勤准时排行](./aboutmg/rankinglist.md)
-   * [出勤率排行](./aboutmg/rankinglist.md)
    * [新增客户数排行](./aboutmg/rankinglist.md)
    * [M币排行榜](./aboutmg/rankinglist.md)
    * [星值排行榜](./aboutmg/rankinglist.md)

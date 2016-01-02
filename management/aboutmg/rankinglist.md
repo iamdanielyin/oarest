@@ -251,6 +251,11 @@ Postman-Token: 452790a8-2b36-7d00-c1e3-83edb32d6fa1
 ##接口示例
 
 ```
+GET /rankinglist/monworkload?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: localhost:8080
+Cache-Control: no-cache
+Postman-Token: 3c011a94-f41a-067b-ae02-52a48a57521e
+
 ———————————————————————————————————————————————————————————
 {
 	"statuscode":"0000",

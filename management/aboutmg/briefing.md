@@ -47,6 +47,10 @@
 ##接口示例
 
 ```
+GET /oa/briefing/me?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Postman-Token: c0d108ec-9274-a84c-40f2-4249833cde04
 
 ———————————————————————————————————————————————————————————
 ```

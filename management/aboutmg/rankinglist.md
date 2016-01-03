@@ -466,6 +466,10 @@ Postman-Token: 3c011a94-f41a-067b-ae02-52a48a57521e
 ##接口示例
 
 ```
+GET /oa/rankinglist/effic?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Postman-Token: d481c2cb-6fb0-5337-ea5c-f26cf2e1255f
 
 ———————————————————————————————————————————————————————————
 ```

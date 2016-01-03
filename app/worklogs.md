@@ -181,7 +181,13 @@ Postman-Token: 969b1cef-f221-1823-33a7-e2663a09a427
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|file|附件链接|<code>string</code>|是|暂无|无|
+
+|id|文档ID|<code>string</code>|是|暂无|无|
+|name|文档名称|<code>string</code>|是|暂无|无|
+|size|文档大小|<code>string</code>|是|暂无|无|
+|type|文档类型|<code>string</code>|是|暂无|无|
+|url|文档链接|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例
 

@@ -212,7 +212,7 @@ Cache-Control: no-cache
 |mcoin|分配M币|<code>digit</code>|是|任务审批通过后才有值|无|
 |starval|分配星值|<code>digit</code>|是|任务审批通过后才有值|无|
 
-参数项：attachs
+参数项：attachs、report.attachs
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|

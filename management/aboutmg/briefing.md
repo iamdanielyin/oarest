@@ -83,6 +83,10 @@
 ##接口示例
 
 ```
+GET /oa/briefing/company?tt=1&vn=1.0&access_token=OThlY2MwZTEtOWExMi00NzYxLTlhMTgtNzE0MDM2Y2M0ZGM1 HTTP/1.1
+Host: 112.74.131.85
+Cache-Control: no-cache
+Postman-Token: 0866bbf6-0a03-5300-acc1-17c3b751f157
 ———————————————————————————————————————————————————————————
 ```
 

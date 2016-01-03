@@ -197,7 +197,7 @@ Cache-Control: no-cache
 |:---|:---|:---|:--:|:---|:-----|
 |content|汇报内容|<code>string</code>|是|暂无|无|
 |images|汇报图片|<code>string</code>|否|图片链接，多个用英文逗号分隔|无|
-|attachs|汇报附件|<code>string</code>|否|文件链接，多个用英文逗号分隔|无|
+|attachs|汇报附件|<code>object</code>|否|文件链接，多个用英文逗号分隔|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 参数项：operators

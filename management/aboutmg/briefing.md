@@ -133,7 +133,38 @@ Host: 112.74.131.85
 Cache-Control: no-cache
 Postman-Token: c315c94f-4f9d-5ad8-2eb7-35a0d79aceec
 ———————————————————————————————————————————————————————————
-
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"mcoin":{
+			"header":"http://112.74.131.85:80/oa/upload/images/dce172a4-62fc-42c9-9305-c1595d02eec3",
+			"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+			"realname":"张三东"
+		},
+		"effic":{
+			"header":"",
+			"id":"46b61d83-6da1-4b4c-a064-14e6b9be8692",
+			"realname":"asdfasd"
+		},
+		"ontime":{
+			"header":"http://112.74.131.85:80/oa/upload/images/3e566fcb-49a2-4ba4-9d7f-644e4d01d0c2",
+			"id":"d47539b3-9820-4086-9582-f629d2ef0630",
+			"realname":"王老大"
+		},
+		"starval":{
+			"header":"http://112.74.131.85:80/oa/upload/images/dce172a4-62fc-42c9-9305-c1595d02eec3",
+			"id":"5d772756-3b06-4b75-9de1-f9c07310ec06",
+			"realname":"张三东"
+		},
+		"sum":{
+			"header":"http://112.74.131.85:80/oa/upload/images/3e566fcb-49a2-4ba4-9d7f-644e4d01d0c2",
+			"id":"d47539b3-9820-4086-9582-f629d2ef0630",
+			"realname":"王老大"
+		}
+	},
+	"usermsg":"正常"
+}
 ```
 
 

@@ -53,6 +53,26 @@ Cache-Control: no-cache
 Postman-Token: c0d108ec-9274-a84c-40f2-4249833cde04
 
 ———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":{
+		"synergy":{
+			"currmcoin":6000,
+			"curstarval":6000,
+			"logsno":19,
+			"totalmcoin":13398,
+			"totalstarval":14453,
+			"logindays":0
+		},
+		"others":{
+			"effic":"",
+			"newcusts":0,
+			"monworkload":0
+		}
+	},
+	"usermsg":"正常"
+}
 ```
 
 #公司

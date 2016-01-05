@@ -50,7 +50,7 @@
 
 | 接口名称 | *合同状态数量统计* |
 | -- | -- |
-| **接口地址** | */contracts/status* |
+| **接口地址** | */contracts/status/coun* |
 | **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 

@@ -305,7 +305,7 @@ Content-Type: application/x-www-form-urlencoded
 |curstarval|当前星值|<code>digit</code>|否|暂无|0|
 |totalmcoin|累计M币|<code>digit</code>|否|暂无|0|
 |totalstarval|累计星值|<code>digit</code>|否|暂无|0|
-|auths|权限ID|<code>string</code>|是|多个用英文逗号隔开|无|
+|auths|权限ID|<code>string</code>|否|多个用英文逗号隔开|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

@@ -199,7 +199,7 @@ Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 ##接口示例
 
 ```
-POST /passmod?opass=1437128656&pass=1437128656 HTTP/1.1
+POST /passmod?opass=1437128656&npass=1437128656 HTTP/1.1
 Host: localhost:8080
 Content-Type: application/json
 Cache-Control: no-cache

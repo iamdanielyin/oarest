@@ -590,8 +590,8 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|updated|设备效率|<code>bolean</code>|是|百分比，如30%|无|
-|vers||<code>object</code>|否|当flag为0时，百分比，如30%|无|
+|updated|设备效率|<code>boolean</code>|是|百分比，如30%|无|
+|vers|banben shuju |<code>object</code>|否|当flag为0时，百分比，如30%|无|
 
 参数项：vers
 

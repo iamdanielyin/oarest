@@ -602,7 +602,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 |code|版本编码|<code>digit</code>|是|暂无|无|
 |name|版本名称|<code>string</code>|是|暂无|无|
 |link|版本链接|<code>string</code>|是|暂无|无|
-|type|终端类型|<code>digit</code>|是|当flag为2时，百分比，如30%|无|
+|type|终端类型|<code>digit</code>|是|暂无|无|
 |content|版本描述|<code>string</code>|是|当flag为2时，百分比，如30%|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 

@@ -173,6 +173,46 @@ Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 ```
 
 
+#修改密码
+>忘记密码发送验证邮件
+
+
+| 接口名称 | *发送邮件* |
+| -- | -- |
+| **接口地址** | */mail* |
+| **请求方式** | <mark>POST</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)  
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|mail|邮箱地址|<code>string</code>|是|暂无|无|
+
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+##接口示例
+
+```
+POST /mail?mail=1437128656@qq.com HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
+
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"usermsg":"正常"
+}
+
+```
+
 #获取用户资料
 >接口描述
 

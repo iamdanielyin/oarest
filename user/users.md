@@ -571,13 +571,12 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 | 接口名称 | *版本检测* |
 | -- | -- |
 | **接口地址** | */version* |
-| **请求方式** | <mark>GE</mark> |
+| **请求方式** | <mark>GET</mark> |
 | **数据格式** | <code>JSON</code> |
 
 
 ##请求参数
 [<公共传入参数>](../README.md)    
-[图片上传流]  
 
 
 ##返回参数

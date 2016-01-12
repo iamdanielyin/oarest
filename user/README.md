@@ -1,7 +1,6 @@
 #用户模块相关接口
 * [登录](./users.md)
 * [发送邮件](./users.md)
-* [忘记密码](./users.md)
 * [获取用户资料](./users.md)
 * [通讯录](./users.md)
 * [文档列表](./users.md)

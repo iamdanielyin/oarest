@@ -590,7 +590,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|equip|code|<code>string</code>|是|百分比，如30%|无|
+|equip|设备效率|<code>string</code>|是|百分比，如30%|无|
 |dept|部门效率|<code>object</code>|否|当flag为0时，百分比，如30%|无|
 |users|用户效率|<code>object</code>|否|当flag为1时，百分比，如30%|无|
 |company|公司效率|<code>string</code>|否|当flag为2时，百分比，如30%|无|

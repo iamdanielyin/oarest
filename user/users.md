@@ -599,11 +599,11 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|code|设备效率|<code>string</code>|是|百分比，如30%|无|
-|name|部门效率|<code>object</code>|否|当flag为0时，百分比，如30%|无|
-|link|用户效率|<code>object</code>|否|当flag为1时，百分比，如30%|无|
-|type|公司效率|<code>string</code>|否|当flag为2时，百分比，如30%|无|
-|content|公司效率|<code>string</code>|否|当flag为2时，百分比，如30%|无|
+|code|版本|<code>string</code>|是|百分比，如30%|无|
+|name|版本名称|<code>object</code>|否|当flag为0时，百分比，如30%|无|
+|link|版本链接|<code>object</code>|否|当flag为1时，百分比，如30%|无|
+|type|终端类型|<code>string</code>|否|当flag为2时，百分比，如30%|无|
+|content|版本描述|<code>string</code>|否|当flag为2时，百分比，如30%|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
 ##接口示例

@@ -584,7 +584,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
-|data|效率数据|<code>object</code>|是|暂无|无|
+|data|版本数据|<code>object</code>|是|暂无|无|
 
 参数项：data
 

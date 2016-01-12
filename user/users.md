@@ -133,7 +133,7 @@ tt=1&vn=1.0&username=test1&password=123456
 
 
 #发送邮件
->修改密码发送验证邮件
+>忘记密码发送验证邮件
 
 
 | 接口名称 | *发送邮件* |
@@ -171,56 +171,6 @@ Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 }
 
 ```
-
-
-
-#忘记密码
->注意：前端不用调用该接口
-
-
-| 接口名称 | *忘记密码* |
-| -- | -- |
-| **接口地址** | */users/mail/fgpass* |
-| **请求方式** | <mark>POST</mark> |
-| **数据格式** | <code>JSON</code> |
-
-
-##请求参数
-[<公共传入参数>](../README.md)  
-
-|编码|名称|类型|必输|说明|默认值|
-|:---|:---|:---|:--:|:---|:-----|
-|code|校验码|<code>string</code>|是|暂无|无|
-|pass|新密码|<code>string</code>|是|暂无|无|
-
-
-##返回参数
-[<公共返回参数>](../README.md)
-
-##接口示例
-
-```
-POST /oa/users/login HTTP/1.1
-Host: 112.74.131.85
-Cache-Control: no-cache
-Content-Type: application/x-www-form-urlencoded
-
-code=test1&pass=test1
-———————————————————————————————————————————————————————————
-{
-    "statuscode": "0000",
-    "statusmsg": "ok",
-    "usermsg": "正常"
-}
-
-```
-
-
-
-
-
-
-
 
 
 #获取用户资料

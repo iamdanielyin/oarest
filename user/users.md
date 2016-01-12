@@ -571,7 +571,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 | 接口名称 | *版本检测* |
 | -- | -- |
 | **接口地址** | */version* |
-| **请求方式** | <mark>POST</mark> |
+| **请求方式** | <mark>GE</mark> |
 | **数据格式** | <code>JSON</code> |
 
 

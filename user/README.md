@@ -2,6 +2,7 @@
 * [登录](./users.md)
 * [发送邮件](./users.md)
 * [获取用户资料](./users.md)
+* [获取用户资料](./users.md)
 * [通讯录](./users.md)
 * [文档列表](./users.md)
 * [转发文档](./users.md)

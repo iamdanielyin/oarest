@@ -603,6 +603,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 |name|部门效率|<code>object</code>|否|当flag为0时，百分比，如30%|无|
 |link|用户效率|<code>object</code>|否|当flag为1时，百分比，如30%|无|
 |type|公司效率|<code>string</code>|否|当flag为2时，百分比，如30%|无|
+|type|公司效率|<code>string</code>|否|当flag为2时，百分比，如30%|无|
 
 ##接口示例
 ```

@@ -179,7 +179,7 @@ Postman-Token: 6ed8e017-b260-22e6-13e7-c0dc0c01a37d
 
 | 接口名称 | *发送邮件* |
 | -- | -- |
-| **接口地址** | */mail* |
+| **接口地址** | */password* |
 | **请求方式** | <mark>POST</mark> |
 | **数据格式** | <code>JSON</code> |
 

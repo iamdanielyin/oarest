@@ -322,7 +322,7 @@ Content-Type: application/x-www-form-urlencoded
 
 
 
-#添加成员
+#添加/成员
 >需具备【组织架构】权限，只需提供需要修改的资料项即可
 
 | 接口名称 | *添加成员* |

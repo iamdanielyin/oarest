@@ -337,6 +337,7 @@ Content-Type: application/x-www-form-urlencoded
 |编码|名称|类型|必输|说明|默认值|
 |:---|:---|:---|:--:|:---|:-----|
 |users|用户ID|<code>string</code>|是|用户ID，多个英文逗号分隔|无|
+|users|用户ID|<code>string</code>|是|用户ID，多个英文逗号分隔|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

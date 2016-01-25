@@ -418,8 +418,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 {
 	"statuscode":"0000",
 	"statusmsg":"ok",
-	"data":[
-		{
+	"data":{
 			"createtime":"2015-12-27 16:10:53",
 			"size":"29696",
 			"name":"1451201320841.doc",
@@ -427,7 +426,6 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 			"type":"doc",
 			"url":"http://112.74.131.85:80/oa/upload/files/1451201320841.doc"
 		}
-	]
 }
 
 ```

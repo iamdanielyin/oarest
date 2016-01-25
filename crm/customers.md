@@ -149,6 +149,7 @@
 |tel|电话|<code>string</code>|否|暂无|无|
 |status|客户状态|<code>string</code>|否|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|0|
 |level|客户分级|<code>string</code>|否|0重要、1紧急、2普通、3重要且紧急|2|
+|remark|备注|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)
@@ -187,6 +188,7 @@
 |tel|电话|<code>string</code>|否|暂无|无|
 |status|客户状态|<code>string</code>|否|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|无|
 |level|客户分级|<code>string</code>|否|0重要、1紧急、2普通、3重要且紧急|无|
+|remark|备注|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

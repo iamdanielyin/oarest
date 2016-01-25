@@ -373,6 +373,73 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 
 
 
+#文档
+>暂无
+
+
+| 接口名称 | *文档列表* |
+| -- | -- |
+| **接口地址** | */docs* |
+| **请求方式** | <mark>GET</mark> |
+| **数据格式** | <code>JSON</code> |
+
+
+##请求参数
+[<公共传入参数>](../README.md)  
+[<公共翻页参数>](../README.md)  
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|flag|查询标识|<code>digit</code>|是|0我发出的，1我收到的|0|
+
+##返回参数
+[<公共返回参数>](../README.md)
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|data|文档数组|<code>array</code>|是|暂无|无|
+
+参数项：data
+
+|编码|名称|类型|必输|说明|默认值|
+|:---|:---|:---|:--:|:---|:-----|
+|id|文档ID|<code>string</code>|是|暂无|无|
+|name|文档名称|<code>string</code>|是|暂无|无|
+|size|文档大小|<code>string</code>|是|暂无|无|
+|type|文档类型|<code>string</code>|是|暂无|无|
+|url|文档链接|<code>string</code>|是|暂无|无|
+|createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
+
+##接口示例
+
+```
+GET /oa/docs?tt=1&vn=1.0&access_token=OTIzYmM3MDEtZjE3Mi00MDhhLWJiM2QtNGFkMjIyMGI3OWJh&flag=1 HTTP/1.1
+Host: 112.74.131.85
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
+
+———————————————————————————————————————————————————————————
+{
+	"statuscode":"0000",
+	"statusmsg":"ok",
+	"data":[
+		{
+			"createtime":"2015-12-27 16:10:53",
+			"size":"29696",
+			"name":"1451201320841.doc",
+			"id":"11aa20f8-13bd-48ca-b681-880e10fd1fcc",
+			"type":"doc",
+			"url":"http://112.74.131.85:80/oa/upload/files/1451201320841.doc"
+		}
+	]
+}
+
+```
+
+
+
+
 #删除文档
 >暂无
 

@@ -5,6 +5,7 @@
 * [修改密码](./users.md)
 * [通讯录](./users.md)
 * [文档列表](./users.md)
+* [文档详情](./users.md)
 * [转发文档](./users.md)
 * [删除文档](./users.md)
 * [效率查询](./users.md)

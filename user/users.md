@@ -663,7 +663,7 @@ Postman-Token: 928f557a-3ebe-0128-8073-a3bb9fb0eaab
 |type|终端类型|<code>digit</code>|是|1安卓，2iOS|无|
 |content|版本描述|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
-|isforce|是否qia|<code>string</code>|是|暂无|无|
+|isforce|是否强制升级|<code>string</code>|是|暂无|无|
 
 ##接口示例
 ```

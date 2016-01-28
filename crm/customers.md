@@ -195,6 +195,9 @@
 |status|客户状态|<code>string</code>|否|0初步沟通、1见面拜访、2确定意向、3正式招价、4签订|无|
 |level|客户分级|<code>string</code>|否|0重要、1紧急、2普通、3重要且紧急|无|
 |remark|备注|<code>string</code>|是|暂无|无|
+|fax|传真|<code>string</code>|是|暂无|无|
+|industry|行业|<code>string</code>|是|暂无|无|
+|comprofile|公司简介|<code>string</code>|是|暂无|无|
 
 ##返回参数
 [<公共返回参数>](../README.md)

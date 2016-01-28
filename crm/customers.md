@@ -102,7 +102,7 @@
 |creator|创建人|<code>object</code>|是|暂无|无|
 |level|客户分级|<code>string</code>|是|0重要、1紧急、2普通、3重要且紧急|无|
 |remark|备注|<code>string</code>|是|暂无|无|
-|fax|备注|<code>string</code>|是|暂无|无|
+|fax|传真|<code>string</code>|是|暂无|无|
 |industry|备注|<code>string</code>|是|暂无|无|
 |comprofile|备注|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|

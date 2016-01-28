@@ -104,7 +104,7 @@
 |remark|备注|<code>string</code>|是|暂无|无|
 |fax|传真|<code>string</code>|是|暂无|无|
 |industry|行业|<code>string</code>|是|暂无|无|
-|comprofile|公司|<code>string</code>|是|暂无|无|
+|comprofile|公司简介|<code>string</code>|是|暂无|无|
 |createtime|创建时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 |modifytime|最近修改时间|<code>string</code>|是|yyyy-MM-dd HH:mm:ss|无|
 
